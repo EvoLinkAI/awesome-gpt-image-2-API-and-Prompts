@@ -719,3 +719,18 @@ Overhead shot of a glass jar of spicy tomato chili chutney on a dark stone surfa
 ```
 A professional studio food photography series showcasing deconstructed dishes captured mid-air in dramatic high-speed levitation. Set against a seamless dusty pink backdrop with soft, even studio lighting, the ingredients burst and float in dynamic formations. Featured dishes include a suspended tiramisu with its components (scoops of gelato, ladyfingers, mascarpone cream, and coffee beans) hovering in the air, borscht elements (beets, rye bread slices, fresh herbs) floating above a ceramic bowl of soup resting on a wooden board, and a sourdough toast topped with mashed avocado and a runny poached egg caught mid-split. Fine details like flying crumbs, spice particles, scattered herbs, and liquid droplets should be razor-sharp with a shallow depth of field. Soft shadows fall beneath the main suspended elements.
 ```
+
+---
+<!-- Case 177: Explosion d'agrumes VOLT Rush (by @iamaiistudio) -->
+### Case 177: [Explosion d'agrumes VOLT Rush](https://x.com/iamaiistudio/status/2071742565339320451) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case177/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Explosion d'agrumes VOLT Rush"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case177/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Explosion d'agrumes VOLT Rush"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case177/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Explosion d'agrumes VOLT Rush"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case177/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Explosion d'agrumes VOLT Rush"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Ultra-cinematic product photography of a neon-green energy drink can labeled "VOLT RUSH", tilted at a sharp diagonal, bursting through glowing citrus slices and electric sparks. Frozen lime juice splashes and ice shards suspended mid-air, micro droplets clearly visible. High-contrast studio lighting with green neon rim lights, deep dark background, glossy aluminum surface, shallow depth of field, photorealistic, 8K, premium advertising style.
+```

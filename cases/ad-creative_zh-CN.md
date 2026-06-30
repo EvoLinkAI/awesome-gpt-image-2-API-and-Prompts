@@ -1456,3 +1456,101 @@ A magical science advertisement poster. A curious young boy age 10 in a NASA tsh
 ```
 Oversized luxury wristwatch as a modern sculpture centerpiece, fashion model leaning against the dial face, monumental "TIME" typography looming in the background, deep emerald studio environment, reflective polished floor, Swiss high-end advertising aesthetic, cinematic editorial photography, ultra-clean minimalist composition, 1:1
 ```
+
+---
+<!-- Case 204: 涂鸦逃脱工作室冲刺 (by @john_my07) -->
+### Case 204: [涂鸦逃脱工作室冲刺](https://x.com/john_my07/status/2071605998729740705) (by [@john_my07](https://x.com/john_my07))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case204/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 涂鸦逃脱工作室冲刺"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case204/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 涂鸦逃脱工作室冲刺"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case204/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 涂鸦逃脱工作室冲刺"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case204/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 涂鸦逃脱工作室冲刺"></a></td></tr>
+</table>
+
+**提示词：**
+
+```
+Create an ultra-realistic editorial studio photograph set against a smooth off-white seamless backdrop with a bright, airy minimalist aesthetic.
+
+A fun-loving young woman with a pastel blue pixie cut is captured in a spontaneous moment of playful escape. She bursts into laughter while jogging forward, her smile wide and genuine, eyes nearly closed from amusement. Her posture shows energetic movement as she tries to continue running despite being gently held back, creating a humorous tug-of-war effect.
+
+Pose & Movement
+
+Natural mid-stride running motion.
+
+One leg lifted slightly off the floor.
+
+Arms moving freely with realistic running dynamics.
+
+One hand confidently holding a vibrant rainbow spiral lollipop.
+
+Subtle motion in the hair and clothing.
+
+Strong sense of forward momentum with believable body mechanics.
+
+Wardrobe
+
+Loose oversized powder-blue sweatshirt.
+
+Relaxed-fit beige trousers with wide legs.
+
+Red checkerboard slip-on skate shoes.
+
+Round eyeglasses casually resting atop her head rather than covering her eyes.
+
+Doodle Character Interaction
+A simple hand-drawn black doodle figure appears beside her, sketched in thick marker lines directly onto the photograph. The character features a round head, tiny dot eyes, and a straight neutral mouth.
+
+The doodle extends an exaggerated arm that grips the back of the woman's sweatshirt, stretching the fabric noticeably as it attempts to stop her from getting away. The tension creates realistic folds and pull lines in the sweatshirt while subtly drawing her shoulders backward even as her body continues moving forward.
+
+Small sketch-style motion marks around the doodle's arm suggest effort and resistance. Additional playful doodle accents around the woman's head emphasize her laughter, excitement, and movement.
+
+Details
+
+Anatomically accurate hands and fingers.
+
+Clear visibility of both hands despite oversized sleeves.
+
+Realistic grip and proportions on the lollipop.
+
+Convincing fabric tension and clothing physics.
+
+Bright high-key lighting with soft natural shadows.
+
+Clean editorial lifestyle photography aesthetic.
+
+Humorous visual storytelling.
+
+Modern premium magazine-quality look.
+
+Wholesome and playful mood.
+
+Ultra-realistic textures, sharp focus, crisp detail, 8K resolution.
+
+Vertical composition.
+```
+
+---
+<!-- Case 205: 地铁 CCTV 惊悚画面 (by @frametheory058) -->
+### Case 205: [地铁 CCTV 惊悚画面](https://x.com/frametheory058/status/2071605430858756121) (by [@frametheory058](https://x.com/frametheory058))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case205/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 地铁 CCTV 惊悚画面"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case205/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 地铁 CCTV 惊悚画面"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case205/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 地铁 CCTV 惊悚画面"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case205/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 地铁 CCTV 惊悚画面"></a></td></tr>
+</table>
+
+**提示词：**
+
+```
+Create a cinematic surveillance-thriller image set inside a massive multi-level underground metro station. The camera should feel like a ceiling-mounted CCTV positioned high above at roughly a 40-degree angle, looking down over a long industrial escalator and the complex architecture of the station.
+The composition should use a 4:5 vertical frame, with the escalator cutting diagonally through the image to create strong depth and scale. The station is crowded with hundreds of commuters moving in both directions, forming a chaotic flow of people with subtle motion blur.
+At the center of the frame, a single person matching the uploaded reference image is descending the escalator. The subject appears to be moving quickly, slightly leaning forward. One hand holds the escalator handrail for balance, while the other carries a small glossy black mini bag with realistic reflections.
+At a dramatic moment, the subject suddenly turns their head over their shoulder and looks directly into the camera, creating an intense fourth-wall-breaking moment, as if they know they are being watched.
+Add a realistic CCTV interface overlay, including:
+Live recording indicators
+Timestamp and camera ID
+A facial-tracking square locked onto the subject
+A secondary zoomed-in facial recognition panel in one corner
+Minimal technical HUD elements and surveillance graphics
+Lighting should be cold and fluorescent, typical of a modern subway station, with realistic reflections on the metallic escalator surfaces and polished handrails. Keep the surrounding crowd slightly blurred while the subject remains sharp and in focus.
+Overall mood: high-end documentary surveillance thriller, ultra-photorealistic, cinematic composition, realistic skin textures, natural crowd behavior, detailed environmental reflections, and professional movie-grade realism.
+```

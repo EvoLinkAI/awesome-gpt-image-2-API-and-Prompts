@@ -4066,3 +4066,30 @@ Shot with an 85mm lens, shallow depth of field, cinematic documentary framing, e
 no ultra-clean digital sharpness, no CGI appearance, no beauty-retouching, no fashion-poster composition, no studio lighting, no centered framing, no black bars, no artificial skin smoothing, aspect ratio vertical.
 ```
 
+---
+<!-- Case 322: ムーディーなGQビーチカバー (by @iamaiistudio) -->
+### Case 322: [ムーディーなGQビーチカバー](https://x.com/iamaiistudio/status/2071772854908326260) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case322/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - ムーディーなGQビーチカバー"></a> |
+
+**プロンプト:**
+
+```
+Cinematic GQ Style magazine cover — male model with a dark beard and messy curly dark hair, leaning against a vintage 1960s silver convertible on a misty, overcast beach. He stares directly into the camera with a cool, intense expression. Outfit: oversized black leather bomber jacket with utility pockets worn open over a white ribbed tank top, high-waisted black trousers with double-buckle belt, two thin gold necklaces with small pendants hanging mid-chest. Background: shallow depth of field, desaturated sandy shore, pale hazy sky, polished metallic silver car reflecting flat diffused light. Lighting: moody cinematic grade, muted earth tones, blacks, and silvers, high-end film grain throughout. Typography overlay: bold white "GQ Style" serif logo at the top, smaller white sans-serif "HEISENBERG" on the mid-left.
+```
+
+---
+<!-- Case 323: クロームバイザーの横顔 (by @iamaiistudio) -->
+### Case 323: [クロームバイザーの横顔](https://x.com/iamaiistudio/status/2071712457262080034) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case323/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - クロームバイザーの横顔"></a> |
+
+**プロンプト:**
+
+```
+Photorealistic sci-fi portrait, young woman in left-facing side profile, dressed in a mirror-finish chrome-blue jacket and a futuristic helmet with a wide glossy visor obscuring her eyes. Helmet features smooth curves, white trim, clear side panels with subtle tech detailing. Visor has a cool blue reflective sheen, cyberpunk meets space-age fashion. Clean, minimal framing against a gradient blue backdrop. Cinematic studio lighting, high contrast, mirror-like reflections across jacket and helmet surfaces. Razor-sharp detail on facial features and material textures, slight bokeh, 8K resolution, hyper-realistic editorial aesthetic.
+```

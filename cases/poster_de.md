@@ -8563,3 +8563,81 @@ Create a whimsical, hand-painted storybook-style illustration inspired by three 
 
 Transform the realistic tea estate into a dreamy, colorful illustrated landscape with rolling hills, playful stylized trees, blooming wildflowers, and vibrant foliage. Use soft pastel tones, rich greens, warm yellows, blush pinks, and teal accents. Add whimsical doodle elements around the composition such as hearts, stars, clouds, sunshine, sparkles, tiny flowers, and hand-drawn decorative marks on a warm cream paper background. Maintain the same vertical three-panel layout with generous spacing, rounded organic shapes, textured brush strokes, and a cozy children’s book aesthetic. The illustration should feel joyful, peaceful, and magical, with clean outlines, subtle paper texture, high detail, and a charming gouache/watercolor-inspired finish. No text, no watermark, high-resolution, portrait orientation.
 ```
+
+---
+<!-- Case 430: Aquarell-Sommerromanze in der Stadt (by @Goodmanprotocol) -->
+### Case 430: [Aquarell-Sommerromanze in der Stadt](https://x.com/Goodmanprotocol/status/2071643725030457469) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case430/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Aquarell-Sommerromanze in der Stadt"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case430/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Aquarell-Sommerromanze in der Stadt"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case430/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Aquarell-Sommerromanze in der Stadt"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case430/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Aquarell-Sommerromanze in der Stadt"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Create a 3:4 vertical watercolor urban sketch travel poster on textured handmade watercolor paper.
+
+City input:
+[CITY NAME]
+
+Create a romantic everyday scene reflecting the real architecture, landmarks, street life, climate, and cultural mood of [CITY NAME]. Use recognizable city-specific elements such as local buildings, cafes, balconies, canals, bridges, trams, towers, rooftops, tiles, waterfronts, street furniture, plants, or signs. Avoid generic European scenery or incorrect landmarks.
+
+Main scene:
+Show two lovers as the main subjects, placed slightly below center. They may be walking, sitting at an outdoor cafe, sharing iced coffee, standing near the water, looking at a view, or gently holding hands. Their pose should feel natural, affectionate, quiet, and unposed. Do not show a single person.
+
+Characters:
+Dress the couple in stylish casual summer clothing suited to [CITY NAME]: linen shirts, light cardigans, relaxed trousers, summer dresses, sneakers, sandals, sunglasses, crossbody bags, tote bags, cameras, pastries, or iced drinks. Use mostly white, pale blue, aqua, and soft gray-blue clothing with one or two small lemon-yellow accents. Add gentle wind movement to hair and loose fabric.
+
+Composition:
+Use a clean vertical poster layout with large negative space and an airy editorial feel. Keep the couple small to medium in scale, framed by city-specific architecture or scenery. Place buildings and landmarks in the background or along the sides, softly blended into the paper texture. Keep the upper half bright and open, with the upper right reserved for typography.
+
+Typography:
+In the upper right corner, add the city name in elegant italic English lettering:
+"[CITY NAME]"
+
+Directly below, add one short poetic English sentence matching the city's fresh summer mood. Use delicate soft cobalt, gray-blue, or muted navy lettering. Keep it minimal, readable, and naturally integrated into the paper.
+
+Color direction:
+Use a refreshing blue-and-yellow summer palette:
+
+75% cool blues and blue-grays: sky blue, cyan, pale aqua, powder blue, faded turquoise, soft blue-gray, selective cobalt.
+
+15% clean white and warm off-white paper highlights.
+
+10% pale lemon yellow, soft butter yellow, sunlit cream, or light golden accents.
+
+Blue should dominate while yellow adds warmth and visual rhythm. Use yellow only as accents in awnings, window light, flowers, umbrellas, pastries, signs, clothing details, drink labels, or sunlit building edges. Avoid an all-blue flat background.
+
+Watercolor technique:
+Use translucent washes, soft blue bleeding, subtle pigment granulation, wet-on-dry textures, gentle brush blooms, pale shadows, visible handmade paper texture, minimal splashes, and delicate reflections where appropriate. Yellow washes should feel like light touching paper.
+
+Drawing detail:
+Use delicate thin ink line art with slightly imperfect hand-drawn lines. Add refined urban sketch details: windows, shutters, balconies, streetlamps, cafe chairs, paving stones, railings, plants, clothing folds, hair strands, hands, shoes, bags, cups, signs, and soft ground marks. Keep faces softly suggested, not realistic.
+
+Mood and quality:
+Minimalist watercolor urban sketch, romantic summer travel poster, quiet love story, city-specific atmosphere, breezy blue palette with lemon-yellow highlights, elegant fashion illustration, cozy slice-of-life, Japanese-inspired softness, premium editorial look, calm pastel mood, soft natural lighting, clean background, poster-ready, 8K.
+
+Negative prompt:
+single person, generic city, incorrect landmarks, all-blue background, monochrome blue, lifeless colors, yellow-dominant, orange-heavy, brown-dominant, dark vintage, muddy beige, neon colors, oversaturated colors, photorealistic, 3D render, heavy outlines, harsh shadows, crowded street, cluttered background, realistic faces, stiff pose, awkward anatomy, glossy texture, bold typography.
+```
+
+---
+<!-- Case 431: CMYK-Ronaldo-Sammlerposter (by @vireonixx) -->
+### Case 431: [CMYK-Ronaldo-Sammlerposter](https://x.com/vireonixx/status/2071629983324488160) (by [@vireonixx](https://x.com/vireonixx))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case431/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - CMYK-Ronaldo-Sammlerposter"></a> |
+
+**Prompt:**
+
+```
+Create a world-class collector's edition Cristiano Ronaldo poster inspired by premium offset printing, editorial publishing, and award-winning graphic design. The composition is dominated by a monumental close-up portrait of peak Real Madrid Cristiano Ronaldo occupying nearly seventy-five percent of the composition. His iconic hairstyle, sharp jawline, and confident expression should be rendered with extraordinary realism.
+
+The core visual concept explores the beauty of CMYK printing itself. Instead of ordinary colour grading, the portrait should subtly separate into overlapping cyan, magenta, yellow, and black print layers only around selected edges, creating sophisticated registration effects found in premium printing houses. The effect should feel handcrafted and luxurious rather than digital glitch art.
+
+Massive editorial typography should integrate naturally with the portrait while printer crop marks, colour calibration bars, registration targets, production notes, paper codes, and printing specifications become part of the graphic language.
+
+The palette is dominated by warm paper white with controlled CMYK colour accents. Rich paper grain, tactile ink textures, subtle overprint effects, premium offset realism, museum-quality print production, elegant editorial hierarchy, Behance Featured Project quality, contemporary sports branding, collector-edition masterpiece.
+```

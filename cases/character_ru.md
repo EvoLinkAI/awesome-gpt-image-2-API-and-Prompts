@@ -826,3 +826,26 @@ Format
 •Final output must be in 4:5 portrait orientation.
 ```
 
+---
+<!-- Case 34: Карикатурная фигурка с diamond grillz (by @iamaiistudio) -->
+### Case 34: [Карикатурная фигурка с diamond grillz](https://x.com/iamaiistudio/status/2071470936973533271) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case34/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Карикатурная фигурка с diamond grillz"></a> |
+
+**Промпт:**
+
+```
+Create a hyper-detailed full-body 3D stylized caricature of the person in [REFERENCE IMAGE], preserving their exact face, skin tone, and ethnic features.
+
+Style: Massive oversized head on a tiny compact body, classic caricature exaggeration. Expression: mischievous wink and wide smirk showing sparkling diamond grillz rendered with ray-traced reflections and prismatic glints.
+
+Pose: Standing upright, one arm extended toward the camera to showcase a thick iced-out diamond watch. Every gem catches and refracts light brilliantly.
+
+Outfit: Match exactly what they wear in [REFERENCE IMAGE]. Fabrics rendered with micro-detail stitching, realistic folds. Skin with subsurface scattering, studio-clean and smooth.
+
+Setting: Clean solid vibrant blue backdrop, soft front-facing softbox lighting. No backlighting, no rim light. Diamonds are the brightest focal points in the frame.
+
+Render: Octane Render quality, cinematic 8K, sharp edges, masterpiece level, no text or watermarks, 4:5 aspect ratio.
+```

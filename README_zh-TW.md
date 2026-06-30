@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![956 Curated Prompts](https://img.shields.io/badge/Prompts-956_Curated_Cases-111111)](README.md)
+[![966 Curated Prompts](https://img.shields.io/badge/Prompts-966_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -46,7 +46,7 @@
 
 歡迎來到 **Awesome GPT Image 2 API and Prompts** 倉庫！🤗
 
-這是一個精選集合，匯總了 **956+ 高品質 GPT-Image-2 提示詞**、API 使用模式，以及可重複利用的 AI 圖像生成視覺工作流。
+這是一個精選集合，匯總了 **966+ 高品質 GPT-Image-2 提示詞**、API 使用模式，以及可重複利用的 AI 圖像生成視覺工作流。
 
 無論你想找 GPT-Image-2 提示詞範例、文生圖最佳實作、圖像編輯技巧，還是可直接重用的 prompt 模板，這裡都可以作為你的參考入口。
 
@@ -108,6 +108,8 @@ curl --request POST \
 
 
 ## 📰 最新消息
+
+**2026年6月30日：** 完成語義審核與媒體校驗後，日常 image-prompt 更新循環新增了 10 個 GPT-Image-2 提示詞案例（2 個人像、1 個電商、2 個廣告創意、2 個海報、1 個角色、2 個 UI）
 
 **2026年6月28日：** 完成語義審核與媒體校驗後，日常 image-prompt 更新循環新增了 10 個 GPT-Image-2 提示詞案例（4 個海報、3 個角色、2 個肖像、1 個 UI）
 
@@ -239,7 +241,7 @@ Global: controlled studio lighting emphasizing meat texture and char marks, shal
 ```
 
 <!-- Case 165: 3D Pixel Food Transformation (by @iamaiistudio) -->
-### Case 165: [3D Pixel Food Transformation](https://x.com/iamaiistudio/status/2063171137685569561) (by [@iamaiistudio](https://x.com/iamaiistudio))
+### Case 165: [3D Pixel Food Transformation](https://x.com/iamaiistudio/status/2063171137685569661) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -1277,6 +1279,103 @@ A magical science advertisement poster. A curious young boy age 10 in a NASA tsh
 Oversized luxury wristwatch as a modern sculpture centerpiece, fashion model leaning against the dial face, monumental "TIME" typography looming in the background, deep emerald studio environment, reflective polished floor, Swiss high-end advertising aesthetic, cinematic editorial photography, ultra-clean minimalist composition, 1:1
 ```
 
+
+<!-- Case 204: 塗鴉逃脫工作室衝刺 (by @john_my07) -->
+### Case 204: [塗鴉逃脫工作室衝刺](https://x.com/john_my07/status/2071605998729740705) (by [@john_my07](https://x.com/john_my07))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case204/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 塗鴉逃脫工作室衝刺"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case204/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 塗鴉逃脫工作室衝刺"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case204/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 塗鴉逃脫工作室衝刺"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case204/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 塗鴉逃脫工作室衝刺"></a></td></tr>
+</table>
+
+**提示詞：**
+
+```
+Create an ultra-realistic editorial studio photograph set against a smooth off-white seamless backdrop with a bright, airy minimalist aesthetic.
+
+A fun-loving young woman with a pastel blue pixie cut is captured in a spontaneous moment of playful escape. She bursts into laughter while jogging forward, her smile wide and genuine, eyes nearly closed from amusement. Her posture shows energetic movement as she tries to continue running despite being gently held back, creating a humorous tug-of-war effect.
+
+Pose & Movement
+
+Natural mid-stride running motion.
+
+One leg lifted slightly off the floor.
+
+Arms moving freely with realistic running dynamics.
+
+One hand confidently holding a vibrant rainbow spiral lollipop.
+
+Subtle motion in the hair and clothing.
+
+Strong sense of forward momentum with believable body mechanics.
+
+Wardrobe
+
+Loose oversized powder-blue sweatshirt.
+
+Relaxed-fit beige trousers with wide legs.
+
+Red checkerboard slip-on skate shoes.
+
+Round eyeglasses casually resting atop her head rather than covering her eyes.
+
+Doodle Character Interaction
+A simple hand-drawn black doodle figure appears beside her, sketched in thick marker lines directly onto the photograph. The character features a round head, tiny dot eyes, and a straight neutral mouth.
+
+The doodle extends an exaggerated arm that grips the back of the woman's sweatshirt, stretching the fabric noticeably as it attempts to stop her from getting away. The tension creates realistic folds and pull lines in the sweatshirt while subtly drawing her shoulders backward even as her body continues moving forward.
+
+Small sketch-style motion marks around the doodle's arm suggest effort and resistance. Additional playful doodle accents around the woman's head emphasize her laughter, excitement, and movement.
+
+Details
+
+Anatomically accurate hands and fingers.
+
+Clear visibility of both hands despite oversized sleeves.
+
+Realistic grip and proportions on the lollipop.
+
+Convincing fabric tension and clothing physics.
+
+Bright high-key lighting with soft natural shadows.
+
+Clean editorial lifestyle photography aesthetic.
+
+Humorous visual storytelling.
+
+Modern premium magazine-quality look.
+
+Wholesome and playful mood.
+
+Ultra-realistic textures, sharp focus, crisp detail, 8K resolution.
+
+Vertical composition.
+```
+
+<!-- Case 205: 地鐵 CCTV 驚悚畫面 (by @frametheory058) -->
+### Case 205: [地鐵 CCTV 驚悚畫面](https://x.com/frametheory058/status/2071605430858756121) (by [@frametheory058](https://x.com/frametheory058))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case205/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 地鐵 CCTV 驚悚畫面"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case205/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 地鐵 CCTV 驚悚畫面"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case205/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 地鐵 CCTV 驚悚畫面"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case205/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 地鐵 CCTV 驚悚畫面"></a></td></tr>
+</table>
+
+**提示詞：**
+
+```
+Create a cinematic surveillance-thriller image set inside a massive multi-level underground metro station. The camera should feel like a ceiling-mounted CCTV positioned high above at roughly a 40-degree angle, looking down over a long industrial escalator and the complex architecture of the station.
+The composition should use a 4:5 vertical frame, with the escalator cutting diagonally through the image to create strong depth and scale. The station is crowded with hundreds of commuters moving in both directions, forming a chaotic flow of people with subtle motion blur.
+At the center of the frame, a single person matching the uploaded reference image is descending the escalator. The subject appears to be moving quickly, slightly leaning forward. One hand holds the escalator handrail for balance, while the other carries a small glossy black mini bag with realistic reflections.
+At a dramatic moment, the subject suddenly turns their head over their shoulder and looks directly into the camera, creating an intense fourth-wall-breaking moment, as if they know they are being watched.
+Add a realistic CCTV interface overlay, including:
+Live recording indicators
+Timestamp and camera ID
+A facial-tracking square locked onto the subject
+A secondary zoomed-in facial recognition panel in one corner
+Minimal technical HUD elements and surveillance graphics
+Lighting should be cold and fluorescent, typical of a modern subway station, with realistic reflections on the metallic escalator surfaces and polished handrails. Keep the surrounding crowd slightly blurred while the subject remains sharp and in focus.
+Overall mood: high-end documentary surveillance thriller, ultra-photorealistic, cinematic composition, realistic skin textures, natural crowd behavior, detailed environmental reflections, and professional movie-grade realism.
+```
+
 ## 🍌 Portrait & Photography Cases
 
 > **131 個精選案例** — [瀏覽全部人像與攝影提示詞 →](cases/portrait.md)
@@ -1360,7 +1459,7 @@ Mini "chibi 3D" versions of the same person appear around the original photo - s
 
 <!-- Case 124: Wimbledon Broadcast Crowd Shot (by @Mavericks_Prod) -->
 
-### Case 124: [Wimbledon Broadcast Crowd Shot](https://x.com/Mavericks_Prod/status/2054342640439566739) (by [@Mavericks_Prod](https://x.com/Mavericks_Prod))
+### Case 124: [Wimbledon Broadcast Crowd Shot](https://x.com/Mavericks_Prod/status/2054342640439666739) (by [@Mavericks_Prod](https://x.com/Mavericks_Prod))
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                 |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -3726,7 +3825,7 @@ A stylish woman standing still with hands in pockets, wearing a loose sage-green
 ```
 
 <!-- Case 315: 俯拍空拍棚拍人像 (by @iamaiistudio) -->
-### Case 315: [俯拍空拍棚拍人像](https://x.com/iamaiistudio/status/2069568331821318277) (by [@iamaiistudio](https://x.com/iamaiistudio))
+### Case 315: [俯拍空拍棚拍人像](https://x.com/iamaiistudio/status/2069668331821318277) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -5441,7 +5540,7 @@ OUTPUT: high-resolution editorial illustration, ultra-clean composition, refined
 ```
 
 <!-- Case 333: Graphic-Novel Eyes Banner (by @iamaiistudio) -->
-### Case 333: [Graphic-Novel Eyes Banner](https://x.com/iamaiistudio/status/2062189319562187193) (by [@iamaiistudio](https://x.com/iamaiistudio))
+### Case 333: [Graphic-Novel Eyes Banner](https://x.com/iamaiistudio/status/2062189319662187193) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -7805,7 +7904,7 @@ As soon as you think of it, you can play with it. AI x browser game-making is ge
 
 
 <!-- Case 400: 大片級動作電影鏡頭 (by @iamaiistudio) -->
-### Case 400: [大片級動作電影鏡頭](https://x.com/iamaiistudio/status/2066009564018082289) (by [@iamaiistudio](https://x.com/iamaiistudio))
+### Case 400: [大片級動作電影鏡頭](https://x.com/iamaiistudio/status/2066009664018082289) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -8395,6 +8494,110 @@ Create an airy city scene with large typography-safe negative space in the upper
 
 ```
 Swiss International design style, minimalist flat vector poster, vertical 9:16 format, diagonal-split layout. Top-left: Traditional Chinese headline in a serif typeface paired with flowing connected-script serif English. Bottom-right: key symbolic illustration — flat vector artwork with vivid fluorescent gradients, subtle grain texture, scattered pixel-art icons, cultural festival poster aesthetic, museum-quality graphic design. Theme: Infinite Love Marathon Concerts (floral motif). 4K.
+```
+
+
+<!-- Case 322: 陰鬱 GQ 海灘封面 (by @iamaiistudio) -->
+### Case 322: [陰鬱 GQ 海灘封面](https://x.com/iamaiistudio/status/2071772854908326260) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case322/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 陰鬱 GQ 海灘封面"></a> |
+
+**提示詞：**
+
+```
+Cinematic GQ Style magazine cover — male model with a dark beard and messy curly dark hair, leaning against a vintage 1960s silver convertible on a misty, overcast beach. He stares directly into the camera with a cool, intense expression. Outfit: oversized black leather bomber jacket with utility pockets worn open over a white ribbed tank top, high-waisted black trousers with double-buckle belt, two thin gold necklaces with small pendants hanging mid-chest. Background: shallow depth of field, desaturated sandy shore, pale hazy sky, polished metallic silver car reflecting flat diffused light. Lighting: moody cinematic grade, muted earth tones, blacks, and silvers, high-end film grain throughout. Typography overlay: bold white "GQ Style" serif logo at the top, smaller white sans-serif "HEISENBERG" on the mid-left.
+```
+
+<!-- Case 323: 鍍鉻面罩側面肖像 (by @iamaiistudio) -->
+### Case 323: [鍍鉻面罩側面肖像](https://x.com/iamaiistudio/status/2071712457262080034) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case323/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 鍍鉻面罩側面肖像"></a> |
+
+**提示詞：**
+
+```
+Photorealistic sci-fi portrait, young woman in left-facing side profile, dressed in a mirror-finish chrome-blue jacket and a futuristic helmet with a wide glossy visor obscuring her eyes. Helmet features smooth curves, white trim, clear side panels with subtle tech detailing. Visor has a cool blue reflective sheen, cyberpunk meets space-age fashion. Clean, minimal framing against a gradient blue backdrop. Cinematic studio lighting, high contrast, mirror-like reflections across jacket and helmet surfaces. Razor-sharp detail on facial features and material textures, slight bokeh, 8K resolution, hyper-realistic editorial aesthetic.
+```
+
+
+<!-- Case 430: 水彩夏日城市戀曲 (by @Goodmanprotocol) -->
+### Case 430: [水彩夏日城市戀曲](https://x.com/Goodmanprotocol/status/2071643725030457469) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case430/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 水彩夏日城市戀曲"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case430/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 水彩夏日城市戀曲"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case430/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 水彩夏日城市戀曲"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case430/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 水彩夏日城市戀曲"></a></td></tr>
+</table>
+
+**提示詞：**
+
+```
+Create a 3:4 vertical watercolor urban sketch travel poster on textured handmade watercolor paper.
+
+City input:
+[CITY NAME]
+
+Create a romantic everyday scene reflecting the real architecture, landmarks, street life, climate, and cultural mood of [CITY NAME]. Use recognizable city-specific elements such as local buildings, cafes, balconies, canals, bridges, trams, towers, rooftops, tiles, waterfronts, street furniture, plants, or signs. Avoid generic European scenery or incorrect landmarks.
+
+Main scene:
+Show two lovers as the main subjects, placed slightly below center. They may be walking, sitting at an outdoor cafe, sharing iced coffee, standing near the water, looking at a view, or gently holding hands. Their pose should feel natural, affectionate, quiet, and unposed. Do not show a single person.
+
+Characters:
+Dress the couple in stylish casual summer clothing suited to [CITY NAME]: linen shirts, light cardigans, relaxed trousers, summer dresses, sneakers, sandals, sunglasses, crossbody bags, tote bags, cameras, pastries, or iced drinks. Use mostly white, pale blue, aqua, and soft gray-blue clothing with one or two small lemon-yellow accents. Add gentle wind movement to hair and loose fabric.
+
+Composition:
+Use a clean vertical poster layout with large negative space and an airy editorial feel. Keep the couple small to medium in scale, framed by city-specific architecture or scenery. Place buildings and landmarks in the background or along the sides, softly blended into the paper texture. Keep the upper half bright and open, with the upper right reserved for typography.
+
+Typography:
+In the upper right corner, add the city name in elegant italic English lettering:
+"[CITY NAME]"
+
+Directly below, add one short poetic English sentence matching the city's fresh summer mood. Use delicate soft cobalt, gray-blue, or muted navy lettering. Keep it minimal, readable, and naturally integrated into the paper.
+
+Color direction:
+Use a refreshing blue-and-yellow summer palette:
+
+75% cool blues and blue-grays: sky blue, cyan, pale aqua, powder blue, faded turquoise, soft blue-gray, selective cobalt.
+
+15% clean white and warm off-white paper highlights.
+
+10% pale lemon yellow, soft butter yellow, sunlit cream, or light golden accents.
+
+Blue should dominate while yellow adds warmth and visual rhythm. Use yellow only as accents in awnings, window light, flowers, umbrellas, pastries, signs, clothing details, drink labels, or sunlit building edges. Avoid an all-blue flat background.
+
+Watercolor technique:
+Use translucent washes, soft blue bleeding, subtle pigment granulation, wet-on-dry textures, gentle brush blooms, pale shadows, visible handmade paper texture, minimal splashes, and delicate reflections where appropriate. Yellow washes should feel like light touching paper.
+
+Drawing detail:
+Use delicate thin ink line art with slightly imperfect hand-drawn lines. Add refined urban sketch details: windows, shutters, balconies, streetlamps, cafe chairs, paving stones, railings, plants, clothing folds, hair strands, hands, shoes, bags, cups, signs, and soft ground marks. Keep faces softly suggested, not realistic.
+
+Mood and quality:
+Minimalist watercolor urban sketch, romantic summer travel poster, quiet love story, city-specific atmosphere, breezy blue palette with lemon-yellow highlights, elegant fashion illustration, cozy slice-of-life, Japanese-inspired softness, premium editorial look, calm pastel mood, soft natural lighting, clean background, poster-ready, 8K.
+
+Negative prompt:
+single person, generic city, incorrect landmarks, all-blue background, monochrome blue, lifeless colors, yellow-dominant, orange-heavy, brown-dominant, dark vintage, muddy beige, neon colors, oversaturated colors, photorealistic, 3D render, heavy outlines, harsh shadows, crowded street, cluttered background, realistic faces, stiff pose, awkward anatomy, glossy texture, bold typography.
+```
+
+<!-- Case 431: CMYK 羅納爾多收藏海報 (by @vireonixx) -->
+### Case 431: [CMYK 羅納爾多收藏海報](https://x.com/vireonixx/status/2071629983324488160) (by [@vireonixx](https://x.com/vireonixx))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case431/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - CMYK 羅納爾多收藏海報"></a> |
+
+**提示詞：**
+
+```
+Create a world-class collector's edition Cristiano Ronaldo poster inspired by premium offset printing, editorial publishing, and award-winning graphic design. The composition is dominated by a monumental close-up portrait of peak Real Madrid Cristiano Ronaldo occupying nearly seventy-five percent of the composition. His iconic hairstyle, sharp jawline, and confident expression should be rendered with extraordinary realism.
+
+The core visual concept explores the beauty of CMYK printing itself. Instead of ordinary colour grading, the portrait should subtly separate into overlapping cyan, magenta, yellow, and black print layers only around selected edges, creating sophisticated registration effects found in premium printing houses. The effect should feel handcrafted and luxurious rather than digital glitch art.
+
+Massive editorial typography should integrate naturally with the portrait while printer crop marks, colour calibration bars, registration targets, production notes, paper codes, and printing specifications become part of the graphic language.
+
+The palette is dominated by warm paper white with controlled CMYK colour accents. Rich paper grain, tactile ink textures, subtle overprint effects, premium offset realism, museum-quality print production, elegant editorial hierarchy, Behance Featured Project quality, contemporary sports branding, collector-edition masterpiece.
 ```
 
 ## 🧍 Character Design Cases
@@ -9021,6 +9224,30 @@ Cute minimalist pastel doodle illustration, kawaii character standing side-by-si
 A highly detailed collectible toy figure inspired by a LEGO-style minifigure, standing in a professional studio. The figure has a realistic young woman’s face with porcelain skin, straight jet-black hair, blunt bangs, and a single striking white streak running through the hair. She wears small silver earrings and maintains a calm, confident expression. The body is a glossy plastic brick-toy minifigure wearing a soccer jersey with the number 10, matching shorts, and national-team-inspired colors. Full-body composition, centered framing, shallow depth of field, premium product photography, ultra-clean lighting, reflective plastic surfaces, realistic shadows, sharp focus, luxury collectible aesthetic, high-end commercial advertising style, photorealistic face blended seamlessly with toy body, 8K resolution, vibrant color grading, studio backdrop matching the jersey color theme.
 ```
 
+
+
+<!-- Case 34: 鑽石牙飾誇張公仔 (by @iamaiistudio) -->
+### Case 34: [鑽石牙飾誇張公仔](https://x.com/iamaiistudio/status/2071470936973533271) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/character_case34/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 鑽石牙飾誇張公仔"></a> |
+
+**提示詞：**
+
+```
+Create a hyper-detailed full-body 3D stylized caricature of the person in [REFERENCE IMAGE], preserving their exact face, skin tone, and ethnic features.
+
+Style: Massive oversized head on a tiny compact body, classic caricature exaggeration. Expression: mischievous wink and wide smirk showing sparkling diamond grillz rendered with ray-traced reflections and prismatic glints.
+
+Pose: Standing upright, one arm extended toward the camera to showcase a thick iced-out diamond watch. Every gem catches and refracts light brilliantly.
+
+Outfit: Match exactly what they wear in [REFERENCE IMAGE]. Fabrics rendered with micro-detail stitching, realistic folds. Skin with subsurface scattering, studio-clean and smooth.
+
+Setting: Clean solid vibrant blue backdrop, soft front-facing softbox lighting. No backlighting, no rim light. Diamonds are the brightest focal points in the frame.
+
+Render: Octane Render quality, cinematic 8K, sharp edges, masterpiece level, no text or watermarks, 4:5 aspect ratio.
+```
 
 ## 📱 UI & Social Media Mockup Cases
 
@@ -10742,6 +10969,75 @@ Product rules: maintain 100% fidelity to the product's shape, proportions, label
 Lighting and finish: soft controlled studio lighting, subtle highlights, realistic shadows, ultra-sharp focus, high dynamic range, editorial luxury aesthetic.
 
 Mood: polished, modern, hyperreal, aspirational. Built for brand sites, social grids, and digital billboards.
+```
+
+
+<!-- Case 177: VOLT Rush 柑橘爆發 (by @iamaiistudio) -->
+### Case 177: [VOLT Rush 柑橘爆發](https://x.com/iamaiistudio/status/2071742565339320451) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case177/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VOLT Rush 柑橘爆發"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case177/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VOLT Rush 柑橘爆發"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case177/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VOLT Rush 柑橘爆發"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case177/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VOLT Rush 柑橘爆發"></a></td></tr>
+</table>
+
+**提示詞：**
+
+```
+Ultra-cinematic product photography of a neon-green energy drink can labeled "VOLT RUSH", tilted at a sharp diagonal, bursting through glowing citrus slices and electric sparks. Frozen lime juice splashes and ice shards suspended mid-air, micro droplets clearly visible. High-contrast studio lighting with green neon rim lights, deep dark background, glossy aluminum surface, shallow depth of field, photorealistic, 8K, premium advertising style.
+```
+
+
+<!-- Case 198: Y2K 原宿品牌徽章 (by @iamaiistudio) -->
+### Case 198: [Y2K 原宿品牌徽章](https://x.com/iamaiistudio/status/2071683274725028140) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case198/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Y2K 原宿品牌徽章"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case198/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Y2K 原宿品牌徽章"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case198/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Y2K 原宿品牌徽章"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case198/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Y2K 原宿品牌徽章"></a></td></tr>
+</table>
+
+**提示詞：**
+
+```
+[BRAND NAME]
+
+You are a senior vector designer specializing in Y2K Harajuku badge art. Your world: Tokyo bootleg culture, early 2000s Japanese brand remixes, retro-futuristic sticker aesthetics. Every output should look like a clean Illustrator vector file, flat and sticker-ready. The badge structure must be invented fresh for each brand, not templated.
+
+BRAND ANALYSIS
+
+Before designing, resolve all of the following: (1) PRIMARY COLOR — brand's main color softened into a pastel Y2K version, still recognizable but lighter and more kawaii; (2) ACCENT COLOR — brand's secondary color pushed to warm saturation for energetic pop; (3) DARK COLOR — deep brand palette (navy, dark brown, near-black) used for outlines and extrusions; (4) LETTER CONTENT — brand name in bold lowercase or most iconic abbreviation; (5) KATAKANA — correct Japanese transliteration as a secondary text element; (6) ORIGIN FLAG — brand's country of origin flag as a small flat element; (7) SHAPE LANGUAGE — iconic geometric forms from the brand's visual identity used as orbital and background elements, never generic ovals; (8) CULTURAL SYMBOLS — 1-2 small iconic objects from the brand's universe rendered as tiny flat illustrations; (9) COMPOSITION LOGIC — design the badge layout using everything above so it feels invented specifically for this brand.
+
+CANVAS
+
+1:1 square. Flat off-white or warm light grey background. Completely empty, no texture, no gradient.
+
+BADGE STRUCTURE
+
+Using the resolved shape language and composition logic, build the full badge. Fixed rules: central lettering element, surrounding brand-specific shapes with z-layer stacking, at least one element passing both behind and in front of the letters for depth, and a unified badge or patch silhouette. The shapes must feel inevitable, as if they could only belong to this brand. Everything else is determined by the brand's own visual DNA.
+
+LETTERING
+
+Brand name in large bold lowercase with a wide rounded display typeface. Flat PRIMARY COLOR fill. Thick DARK COLOR extrusion offset down-right at 8-12% of letter height. Bold DARK COLOR outline. No gradients, no rendering.
+
+Y2K SIGNATURE ELEMENTS
+
+Every badge must include: SPEED LINES or motion texture in ACCENT COLOR inside background shapes. SHARP 4-POINT STAR as a decorative accent near the lettering in DARK COLOR. KATAKANA transliteration tucked naturally into the composition. ORIGIN FLAG as a small accurate flat element. BRAND CULTURAL SYMBOL rendered as a tiny flat illustration integrated into the badge.
+
+TECH SPECS
+
+Flat vector only. Zero gradients, effects, blur, or rendering. Clean crisp edges throughout. Maximum 4 colors: PRIMARY pastel, ACCENT warm saturated, DARK outline, off-white. Must feel like a collectible sticker or embroidered patch. Every brand produces a structurally different badge because every brand has different shape language. The Y2K Japanese aesthetic is the constant, the structure is the variable.
+```
+
+<!-- Case 199: 懷舊記憶網格佈局 (by @iamaiistudio) -->
+### Case 199: [懷舊記憶網格佈局](https://x.com/iamaiistudio/status/2071561442013118600) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case199/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 懷舊記憶網格佈局"></a> |
+
+**提示詞：**
+
+```
+Generate a {argument name="grid layout" default="4x3"} seamless grid layout where every panel shows a separate scene featuring the {argument name="subject" default="a young woman"}. Keep subject appearance, colors, and lighting perfectly consistent across all panels. Theme: {argument name="theme" default="childhood memories"}, mood: {argument name="mood" default="warm, nostalgic"}, style: {argument name="style" default="nostalgic cinematic realism"}. No text, no gaps.
 ```
 
 ## 🧪 Comparison & Community Examples
