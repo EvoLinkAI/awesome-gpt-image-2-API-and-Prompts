@@ -12315,8 +12315,8 @@ A photorealistic split-frame composition divided precisely down the center. Left
 
 Эта библиотека остаётся основным источником повторно используемых промптов GPT Image 2. Для дополнительных реализаций используйте отдельные репозитории:
 
-- [Использовать вызываемый skill GPT Image 2](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
-- [Открыть workflow GPT Image 2 × Seedance 2.5](https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow)
+- [Использовать вызываемый skill GPT Image 2](https://github.com/Evolink-AI/gpt-image-2-gen-skill)
+- [Открыть workflow GPT Image 2 × Seedance 2](https://github.com/Evolink-AI/GPT-Image-2-Seedance2-Workflow)
 - [Прочитать официальную документацию API GPT Image 2](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-image-2-API-and-Prompts&utm_content=docs_link)
 
 > [!NOTE]

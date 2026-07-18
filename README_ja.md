@@ -12291,8 +12291,8 @@ Pull Request を作成: 既存フォーマットに沿って、該当する `cas
 
 このプロンプトライブラリは、再利用可能な GPT Image 2 プロンプトの主要ソースです。実装が必要な場合は、次の独立したリポジトリを利用してください：
 
-- [呼び出し可能な GPT Image 2 スキルを使う](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
-- [GPT Image 2 × Seedance 2.5 ワークフローを開く](https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow)
+- [呼び出し可能な GPT Image 2 スキルを使う](https://github.com/Evolink-AI/gpt-image-2-gen-skill)
+- [GPT Image 2 × Seedance 2 ワークフローを開く](https://github.com/Evolink-AI/GPT-Image-2-Seedance2-Workflow)
 - [GPT Image 2 の公式 API ドキュメントを読む](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-image-2-API-and-Prompts&utm_content=docs_link)
 
 > [!NOTE]

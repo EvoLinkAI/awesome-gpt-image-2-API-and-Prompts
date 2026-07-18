@@ -12312,8 +12312,8 @@ Ausführliche Hinweise findest du in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Diese Prompt-Bibliothek bleibt die primäre Quelle für wiederverwendbare GPT-Image-2-Prompts. Nutze diese separaten Repositories für ergänzende Implementierungen:
 
-- [Den aufrufbaren GPT-Image-2-Skill verwenden](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
-- [Den GPT Image 2 × Seedance 2.5 Workflow öffnen](https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow)
+- [Den aufrufbaren GPT-Image-2-Skill verwenden](https://github.com/Evolink-AI/gpt-image-2-gen-skill)
+- [Den GPT Image 2 × Seedance 2 Workflow öffnen](https://github.com/Evolink-AI/GPT-Image-2-Seedance2-Workflow)
 - [Die offizielle GPT-Image-2-API-Dokumentation lesen](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-image-2-API-and-Prompts&utm_content=docs_link)
 
 > [!NOTE]

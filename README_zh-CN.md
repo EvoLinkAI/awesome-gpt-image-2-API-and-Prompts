@@ -12299,8 +12299,8 @@ A photorealistic split-frame composition divided precisely down the center. Left
 
 这个提示词资料库仍是可复用 GPT Image 2 提示词的主要来源。需要相邻实现时，请使用以下独立仓库：
 
-- [使用可调用的 GPT Image 2 skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
-- [打开 GPT Image 2 × Seedance 2.5 工作流](https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow)
+- [使用可调用的 GPT Image 2 skill](https://github.com/Evolink-AI/gpt-image-2-gen-skill)
+- [打开 GPT Image 2 × Seedance 2 工作流](https://github.com/Evolink-AI/GPT-Image-2-Seedance2-Workflow)
 - [阅读 GPT Image 2 官方 API 文档](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-image-2-API-and-Prompts&utm_content=docs_link)
 
 > [!NOTE]

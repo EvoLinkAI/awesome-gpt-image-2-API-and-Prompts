@@ -12293,8 +12293,8 @@ Ayrıntılı kurallar için [CONTRIBUTING.md](CONTRIBUTING.md) dosyasına bakın
 
 Bu prompt kütüphanesi yeniden kullanılabilir GPT Image 2 promptlarının ana kaynağıdır. Ek bir uygulama gerektiğinde şu ayrı depoları kullanın:
 
-- [Çağrılabilir GPT Image 2 skill'ini kullanın](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
-- [GPT Image 2 × Seedance 2.5 iş akışını açın](https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow)
+- [Çağrılabilir GPT Image 2 skill'ini kullanın](https://github.com/Evolink-AI/gpt-image-2-gen-skill)
+- [GPT Image 2 × Seedance 2 iş akışını açın](https://github.com/Evolink-AI/GPT-Image-2-Seedance2-Workflow)
 - [Resmî GPT Image 2 API belgelerini okuyun](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-image-2-API-and-Prompts&utm_content=docs_link)
 
 > [!NOTE]

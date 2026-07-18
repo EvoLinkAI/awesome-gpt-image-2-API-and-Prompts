@@ -12288,8 +12288,8 @@ Pull Request 열기: 기존 형식에 맞춰 적절한 `cases/*.md` 파일에 �
 
 이 프롬프트 라이브러리는 재사용 가능한 GPT Image 2 프롬프트의 기본 소스입니다. 추가 구현이 필요하면 다음 별도 저장소를 사용하세요:
 
-- [호출 가능한 GPT Image 2 스킬 사용하기](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
-- [GPT Image 2 × Seedance 2.5 워크플로 열기](https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow)
+- [호출 가능한 GPT Image 2 스킬 사용하기](https://github.com/Evolink-AI/gpt-image-2-gen-skill)
+- [GPT Image 2 × Seedance 2 워크플로 열기](https://github.com/Evolink-AI/GPT-Image-2-Seedance2-Workflow)
 - [GPT Image 2 공식 API 문서 읽기](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-image-2-API-and-Prompts&utm_content=docs_link)
 
 > [!NOTE]

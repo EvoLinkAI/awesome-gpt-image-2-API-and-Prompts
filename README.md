@@ -12252,8 +12252,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 This prompt library remains the primary source for reusable GPT Image 2 prompts. Use these separate repositories when you need an adjacent implementation:
 
-- [Use the callable GPT Image 2 skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
-- [Open the GPT Image 2 × Seedance 2.5 workflow](https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow)
+- [Use the callable GPT Image 2 skill](https://github.com/Evolink-AI/gpt-image-2-gen-skill)
+- [Open the GPT Image 2 × Seedance 2 workflow](https://github.com/Evolink-AI/GPT-Image-2-Seedance2-Workflow)
 - [Read the official GPT Image 2 API documentation](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-image-2-API-and-Prompts&utm_content=docs_link)
 
 > [!NOTE]

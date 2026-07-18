@@ -71,8 +71,8 @@ FORBIDDEN_API_FIRST_MARKERS = [
     "curl --request POST",
 ]
 RELATED_REPOSITORY_URLS = [
-    "https://github.com/EvoLinkAI/gpt-image-2-gen-skill",
-    "https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow",
+    "https://github.com/Evolink-AI/gpt-image-2-gen-skill",
+    "https://github.com/Evolink-AI/GPT-Image-2-Seedance2-Workflow",
 ]
 HTML_MEDIA_RE = re.compile(
     r"<(?:img|source)\b[^>]*\b(?:src|poster)=[\"']([^\"']+)[\"']",

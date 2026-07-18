@@ -12308,8 +12308,8 @@ Veja [CONTRIBUTING.md](CONTRIBUTING.md) para diretrizes detalhadas.
 
 Esta biblioteca continua sendo a fonte principal de prompts reutilizáveis do GPT Image 2. Use estes repositórios separados quando precisar de uma implementação complementar:
 
-- [Use a skill invocável do GPT Image 2](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
-- [Abra o fluxo GPT Image 2 × Seedance 2.5](https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow)
+- [Use a skill invocável do GPT Image 2](https://github.com/Evolink-AI/gpt-image-2-gen-skill)
+- [Abra o fluxo GPT Image 2 × Seedance 2](https://github.com/Evolink-AI/GPT-Image-2-Seedance2-Workflow)
 - [Leia a documentação oficial da API do GPT Image 2](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-image-2-API-and-Prompts&utm_content=docs_link)
 
 > [!NOTE]
