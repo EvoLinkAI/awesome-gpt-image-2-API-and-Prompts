@@ -86,7 +86,8 @@ A warm, editorial-style lifestyle product photo shot indoors from a low close-up
 A luxury e-commerce advertising photo of a premium perfume bottle on a polished gray-and-white marble vanity, shot in a warm cinematic studio style with soft golden lighting, shallow depth of field, and elegant reflections. The composition is square and high-end, with the perfume bottle centered slightly right of frame and promotional text on the left. The bottle is a tall sculpted hourglass-shaped glass flacon with smoky transparent gray glass fading darker at the base, a glossy gold spherical cap, a gold collar engraved with fine branding, and a large metallic gold interlocking monogram on the front. Keep the branding-inspired feel but do not add extra products. In the foreground left, include 1 cut-crystal bowl with a gold rim, partially cropped. In the background right, include 1 brushed gold cylindrical vase holding 1 bouquet of soft white flowers, blurred. Behind the bottle, add 1 black marble rectangular box with subtle white veining and gold trim. In the lower right foreground, include 1 draped piece of champagne-colored satin fabric, softly out of focus. The background should be dark, luxurious, and softly blurred, with rich brown-black tones and a vertical shadowed panel on the left to support typography. Add elegant serif headline text on the upper left reading {argument name="headline text" default="Premium Perfume,"} in large warm beige letters, with a smaller serif subheading beneath reading {argument name="tagline" default="Subtlety and Elegance"}, plus a thin short gold horizontal line below the subheading. Place a small white logo in the top-right corner reading {argument name="brand logo" default="Pollo.ai"}. Emphasize premium materials, realistic glass refraction, gold metallic highlights, luxury product photography, refined composition, soft bokeh, and upscale beauty-ad aesthetics.
 ```
 
-### Case 151: [E-commerce Main Image - Miniature Diorama Skincare Advertisement](https://x.com/Strength04_X/status/2048074514278563949) (by [@Strength04_X](https://x.com/Strength04_X))
+<!-- Case 1: E-commerce Main Image - Miniature Diorama Skincare Advertisement (by @Strength04_X) -->
+### Case 1: [E-commerce Main Image - Miniature Diorama Skincare Advertisement](https://x.com/Strength04_X/status/2048074514278563949) (by [@Strength04_X](https://x.com/Strength04_X))
 
 | 输出效果 |
 | :----: |
@@ -227,7 +228,8 @@ Style: ultra clean, editorial minimal, high-end branding, 8K.
 A high-end studio advertising poster for {argument name="brand name" default="crocs"}, in a monochrome pastel blue and white color palette, with a glossy reflective floor and a soft sky-blue backdrop. The background is dominated by the word {argument name="headline text" default="CROCS"} in gigantic bold white condensed sans-serif letters spanning nearly the full height of the image. In the top-right corner, add small white text reading "Designed with ChatGPT". Feature 3 adult women with shoulder-length wavy light brown to dark blonde hair, all wearing loose oversized white long-sleeve tops and flowing white wide-leg pants, styled as minimalist fashion models with relaxed neutral expressions. Their faces are intentionally obscured or blurred. One model reclines against an enormous upright white clog shoe on the left side, one model sits casually on top of a giant white clog on the upper right, and one model lounges on the floor at the lower right, leaning back on one arm while seated partly on a glossy blue sphere. Include 2 oversized white clog shoes as hero props: one standing vertically on the left showing the sole and side profile, and one angled on blue crystalline blocks at center-right showing the upper and toe box. Both clogs are classic foam slip-on style with perforation holes, chunky tread, heel straps, and circular logo rivets. The center-right clog is decorated with exactly 8 visible charms pinned to the upper: a blue-green iridescent round charm, a white daisy with yellow center, a black-and-white round emblem near the strap, a small "CROCS" word charm, a dark flower, a peace-hand sign, an orange smiley face, a white cloud, and an orange flower. Scatter exactly 7 glossy floating or grounded blue spheres of varying sizes around the set: one large sphere behind the left model, one medium sphere floating near center, one medium sphere at bottom left foreground, one medium sphere used as a seat under the lower-right model, one small sphere near the upper left, and 2 additional blue spheres integrated into the composition. Add translucent sculptural gel-like forms at the far left and far right edges, plus angular blue crystal-like rocks beneath the right shoe. At the bottom center, place white promotional copy in a clean sans-serif font: {argument name="tagline line 1" default="Made for comfort, worn for confidence."} on the first line and {argument name="tagline line 2" default="Because life feels better when your feet stop complaining."} on the second line. Beneath that, show 4 minimalist feature icons with labels in white: "ICONIC COMFORT", "LIGHTWEIGHT", "EASY TO CLEAN", and "UNIQUELY YOU". Place the {argument name="logo text" default="crocs"} logo in bold lowercase white at the bottom center with a small trademark symbol. The overall style should feel like a premium surreal fashion campaign, clean editorial lighting, soft shadows, glossy textures, airy composition, and modern lifestyle product advertising.
 ```
 
-### Case 160: [E-commerce Main Image - 9-Panel Product TVC Storyboard](https://x.com/Magncsans/status/2047876253898903594) (by [@Magncsans](https://x.com/Magncsans))
+<!-- Case 2: E-commerce Main Image - 9-Panel Product TVC Storyboard (by @Magncsans) -->
+### Case 2: [E-commerce Main Image - 9-Panel Product TVC Storyboard](https://x.com/Magncsans/status/2047876253898903594) (by [@Magncsans](https://x.com/Magncsans))
 
 | 输出效果 |
 | :----: |
@@ -322,7 +324,8 @@ Create a square [ASPECT RATIO] premium food photography image of a steaming [FOO
 ```
 
 
-### Case 163: [Burger hero image plus 9-cell ad storyboard](https://x.com/Gdgtify/status/2049449869530775877) (by [@Gdgtify](https://x.com/Gdgtify))
+<!-- Case 3: Burger hero image plus 9-cell ad storyboard (by @Gdgtify) -->
+### Case 3: [Burger hero image plus 9-cell ad storyboard](https://x.com/Gdgtify/status/2049449869530775877) (by [@Gdgtify](https://x.com/Gdgtify))
 
 | 输出效果 |
 | :----: |
@@ -337,7 +340,8 @@ Prompt 2: Create a 9-cell hybrid keyframe-to-transition storyboard sheet for a 1
 ```
 
 ---
-### Case 164: Döner Commercial Food Photography Set
+<!-- Case 4: Döner Commercial Food Photography Set (by @iamaiistudio) -->
+### Case 4: [Döner Commercial Food Photography Set](https://x.com/iamaiistudio/status/2063094917774086510) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063094917774086510)
 
@@ -368,7 +372,8 @@ Global: controlled studio lighting emphasizing meat texture and char marks, shal
 ```
 
 ---
-### Case 165: 3D Pixel Food Transformation
+<!-- Case 5: 3D Pixel Food Transformation (by @iamaiistudio) -->
+### Case 5: [3D Pixel Food Transformation](https://x.com/iamaiistudio/status/2063171137685569561) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063171137685569561)
 
@@ -385,7 +390,8 @@ Full prompt:
 ```
 
 ---
-### Case 166: Ancient Palace Perfume Ad
+<!-- Case 6: Ancient Palace Perfume Ad (by @iamaiistudio) -->
+### Case 6: [Ancient Palace Perfume Ad](https://x.com/iamaiistudio/status/2063187221730185227) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063187221730185227)
 
@@ -405,7 +411,8 @@ Ancient Chinese palace perfume advertisement inspired by the legendary dancer Zh
 ```
 
 ---
-### Case 167: Plush Soda Can Product Shot
+<!-- Case 7: Plush Soda Can Product Shot (by @iamaiistudio) -->
+### Case 7: [Plush Soda Can Product Shot](https://x.com/iamaiistudio/status/2063261665207239055) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063261665207239055)
 
@@ -431,7 +438,8 @@ Razor-sharp focus, vivid color saturation, clean shadows, sleek commercial produ
 ```
 
 ---
-### Case 168: VOLT Goal Celebration Ad
+<!-- Case 8: VOLT Goal Celebration Ad (by @RuzainaMeer) -->
+### Case 8: [VOLT Goal Celebration Ad](https://x.com/RuzainaMeer/status/2063513621754491039) (by [@RuzainaMeer](https://x.com/RuzainaMeer))
 
 **Source**: [@RuzainaMeer](https://x.com/RuzainaMeer/status/2063513621754491039)
 
@@ -452,7 +460,8 @@ A beautiful young woman in a green and white football jersey is sitting in a pac
 ```
 
 ---
-### Case 169: Lightning Storm Supercar Ad
+<!-- Case 9: Lightning Storm Supercar Ad (by @iamrealsnow) -->
+### Case 9: [Lightning Storm Supercar Ad](https://x.com/iamrealsnow/status/2063649073819959502) (by [@iamrealsnow](https://x.com/iamrealsnow))
 
 **Source**: [@iamrealsnow](https://x.com/iamrealsnow/status/2063649073819959502)
 
@@ -470,7 +479,8 @@ Prompt: Supercar emerging from a storm cloud, body formed entirely from blue lig
 ```
 
 ---
-### Case 170: Luxury Jewelry Contrast Campaign
+<!-- Case 10: Luxury Jewelry Contrast Campaign (by @aziz4ai) -->
+### Case 10: [Luxury Jewelry Contrast Campaign](https://x.com/aziz4ai/status/2063737218003333288) (by [@aziz4ai](https://x.com/aziz4ai))
 
 **Source**: [@aziz4ai](https://x.com/aziz4ai/status/2063737218003333288)
 
@@ -500,7 +510,8 @@ The final image should feel like a world-class luxury editorial ad from a top cr
 Avoid repeated concepts, repeated props, repeated backgrounds, flat lighting, weak framing, visual clutter, cheap styling, generic catalog presentation, text, watermark, and logos.
 ```
 
-### Case 171: [Miniature Brand Universe Shoe](https://x.com/AIwithAliya/status/2064034557352202253) (by [@AIwithAliya](https://x.com/AIwithAliya))
+<!-- Case 11: Miniature Brand Universe Shoe (by @AIwithAliya) -->
+### Case 11: [Miniature Brand Universe Shoe](https://x.com/AIwithAliya/status/2064034557352202253) (by [@AIwithAliya](https://x.com/AIwithAliya))
 
 ![Miniature Brand Universe Shoe](../../images/ecommerce_case171/output.jpg)
 
@@ -510,7 +521,8 @@ A high-performance running shoe transformed into a miniature brand universe. The
 ```
 
 ---
-### Case 172: Romantic Smartphone Couple Scene Product Shot
+<!-- Case 12: Romantic Smartphone Couple Scene Product Shot (by @hmontilla_) -->
+### Case 12: [Romantic Smartphone Couple Scene Product Shot](https://x.com/hmontilla_/status/2065072437398589669) (by [@hmontilla_](https://x.com/hmontilla_))
 
 **Source**: [@hmontilla_](https://x.com/hmontilla_/status/2065072437398589669)
 
@@ -548,7 +560,8 @@ Distorted hands, extra fingers, broken anatomy, duplicated limbs, unrealistic re
 ```
 
 ---
-### Case 173: 花卉精华液产品特写
+<!-- Case 13: 花卉精华液产品特写 (by @iamaiistudio) -->
+### Case 13: [花卉精华液产品特写](https://x.com/iamaiistudio/status/2067413876564795743) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2067413876564795743)
 
@@ -567,8 +580,8 @@ Minimalist studio product photography, a small transparent glass facial oil drop
 full prompt:
 ```
 
-<!-- Case 173: 花卉精华产品大片 (by @iamaiistudio) -->
-### Case 173: [花卉精华产品大片](https://x.com/iamaiistudio/status/2067413876564795743) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 13: 花卉精华产品大片 (by @iamaiistudio) -->
+### Case 13: [花卉精华产品大片](https://x.com/iamaiistudio/status/2067413876564795743) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 花卉精华产品大片"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 花卉精华产品大片"></a></td></tr>
@@ -583,8 +596,8 @@ Minimalist studio product photography, a small transparent glass facial oil drop
 full prompt:
 ```
 
-<!-- Case 174: 冰淇淋配料标注广告 (by @iamaiistudio) -->
-### Case 174: [冰淇淋配料标注广告](https://x.com/iamaiistudio/status/2067465624683700642) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 14: 冰淇淋配料标注广告 (by @iamaiistudio) -->
+### Case 14: [冰淇淋配料标注广告](https://x.com/iamaiistudio/status/2067465624683700642) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -678,8 +691,8 @@ full prompt:
 }
 ```
 
-<!-- Case 175: 香辣番茄辣酱产品特写 (by @iamaiistudio) -->
-### Case 175: [香辣番茄辣酱产品特写](https://x.com/iamaiistudio/status/2068032837610356989) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 15: 香辣番茄辣酱产品特写 (by @iamaiistudio) -->
+### Case 15: [香辣番茄辣酱产品特写](https://x.com/iamaiistudio/status/2068032837610356989) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case175/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 香辣番茄辣酱产品特写"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case175/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 香辣番茄辣酱产品特写"></a></td></tr>
@@ -692,8 +705,8 @@ full prompt:
 Overhead shot of a glass jar of spicy tomato chili chutney on a dark stone surface, surrounded by whole red tomatoes, tomato halves, fresh red chili peppers, black peppercorns, and a small wooden bowl with chutney and a spoon. Warm earthy backdrop, soft directional light, deep rich shadows, high contrast, clean minimal styling, commercial product photography, ultra-detailed, 4K.
 ```
 
-<!-- Case 176: 悬浮美食摄影组图 (by @iamaiistudio) -->
-### Case 176: [悬浮美食摄影组图](https://x.com/iamaiistudio/status/2067851560168931394) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 16: 悬浮美食摄影组图 (by @iamaiistudio) -->
+### Case 16: [悬浮美食摄影组图](https://x.com/iamaiistudio/status/2067851560168931394) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case176/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 悬浮美食摄影组图"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case176/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 悬浮美食摄影组图"></a></td></tr>
@@ -707,8 +720,8 @@ A professional studio food photography series showcasing deconstructed dishes ca
 ```
 
 ---
-<!-- Case 177: VOLT Rush 柑橘爆发 (by @iamaiistudio) -->
-### Case 177: [VOLT Rush 柑橘爆发](https://x.com/iamaiistudio/status/2071742565339320451) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 429: VOLT Rush 柑橘爆发 (by @iamaiistudio) -->
+### Case 429: [VOLT Rush 柑橘爆发](https://x.com/iamaiistudio/status/2071742565339320451) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case177/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VOLT Rush 柑橘爆发"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case177/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VOLT Rush 柑橘爆发"></a></td></tr>

@@ -87,7 +87,8 @@ Format
 ```
 Show me the attached image as a snapshot from an actual anime
 ```
-### Case 2: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
+<!-- Case 363: Persona5 Character Reference Card (by @iamrednightS) -->
+### Case 363: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
 
 | 輸出效果 |
 | :----: |
@@ -144,7 +145,8 @@ Show me the attached image as a snapshot from an actual anime
 高解像度、プロのコンセプトアートスタイル
 ```
 
-### Case 7: [Mecha Girl Sea-City Key Visual](https://x.com/old_pgmrs_will/status/2046144801071079612) (by [@old_pgmrs_will](https://x.com/old_pgmrs_will))
+<!-- Case 364: Mecha Girl Sea-City Key Visual (by @old_pgmrs_will) -->
+### Case 364: [Mecha Girl Sea-City Key Visual](https://x.com/old_pgmrs_will/status/2046144801071079612) (by [@old_pgmrs_will](https://x.com/old_pgmrs_will))
 
 | 輸出效果 |
 | :----: |
@@ -226,7 +228,8 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 An anime-style illustration of a {argument name="action type" default="high-impact martial arts battle"} between two young female fighters in a {argument name="setting" default="traditional wooden martial arts dojo"}. In the foreground, a girl with black hair in a high bun wears a {argument name="character 1 color theme" default="red and white"} Chinese-style martial arts outfit with baggy pants. She is in a dynamic, low, forward-thrusting stance, surrounded by swirling red energy and water splashes. In the background to the right, a girl with light purple hair in twin buns wears a {argument name="character 2 color theme" default="green and purple"} Chinese dress with gold embroidery and black tights. She is leaping through the air in a flying kick pose, surrounded by swirling blue energy. The wooden floorboards are splintering from the intense impact, with debris and dust flying through the air. Above them hangs a weathered wooden sign with the text "{argument name="sign text" default="武術会"}". The scene features dramatic lighting, a low-angle dynamic perspective, and intense action effects.
 ```
 
-### Case 11: [GTA 6 in Bangalore Flower Market](https://x.com/ismajc/status/2048174302164394493) (by [@ismajc](https://x.com/ismajc))
+<!-- Case 365: GTA 6 in Bangalore Flower Market (by @ismajc) -->
+### Case 365: [GTA 6 in Bangalore Flower Market](https://x.com/ismajc/status/2048174302164394493) (by [@ismajc](https://x.com/ismajc))
 
 | 輸出效果 |
 | :----: |
@@ -294,7 +297,8 @@ A character promotional poster titled “INPUT NAME,” designed in a unified ve
 
 
 ---
-### Case 18: Stylized 3D Skater Character
+<!-- Case 366: Stylized 3D Skater Character (by @iamaiistudio) -->
+### Case 366: [Stylized 3D Skater Character](https://x.com/iamaiistudio/status/2062038112398954712) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062038112398954712)
 
@@ -333,7 +337,8 @@ Aspect ratio: 4:5 vertical.
 <img src="../images/character_case18/output.jpg" width="500">
 
 ---
-### Case 19: 40K Power Armour Squad Portrait
+<!-- Case 367: 40K Power Armour Squad Portrait (by @EvaGlitchAI) -->
+### Case 367: [40K Power Armour Squad Portrait](https://x.com/EvaGlitchAI/status/2065204081363435604) (by [@EvaGlitchAI](https://x.com/EvaGlitchAI))
 
 **Source**: [@EvaGlitchAI](https://x.com/EvaGlitchAI/status/2065204081363435604)
 
@@ -512,7 +517,8 @@ Do not use photorealism unless specifically requested.
 ```
 
 ---
-### Case 20: Vertical Character Concept Sheet
+<!-- Case 368: Vertical Character Concept Sheet (by @iamaiistudio) -->
+### Case 368: [Vertical Character Concept Sheet](https://x.com/iamaiistudio/status/2065118633198829601) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065118633198829601)
 
@@ -569,7 +575,8 @@ Ultra-detailed, 4K quality, glossy magazine finish, cinematic lighting, sharp fo
 ```
 
 ---
-### Case 21: 3D Acrobat Jumping Editorial Cartoon
+<!-- Case 369: 3D Acrobat Jumping Editorial Cartoon (by @iamaiistudio) -->
+### Case 369: [3D Acrobat Jumping Editorial Cartoon](https://x.com/iamaiistudio/status/2065058228585844954) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065058228585844954)
 
@@ -608,7 +615,8 @@ Rendered in C4D or Blender: stylized soft-sculpture aesthetic, matte clay finish
 ```
 
 ---
-### Case 22: 雨中灵姬东方幻想 3D CG 角色
+<!-- Case 370: 雨中灵姬东方幻想 3D CG 角色 (by @liyue_ai) -->
+### Case 370: [雨中灵姬东方幻想 3D CG 角色](https://x.com/liyue_ai/status/2065107695557075460) (by [@liyue_ai](https://x.com/liyue_ai))
 
 **Source**: [@liyue_ai](https://x.com/liyue_ai/status/2065107695557075460)
 
@@ -639,7 +647,8 @@ high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic l
 ```
 
 ---
-### Case 23: 超現實卡通肖像模板
+<!-- Case 371: 超現實卡通肖像模板 (by @Goodmanprotocol) -->
+### Case 371: [超現實卡通肖像模板](https://x.com/Goodmanprotocol/status/2066048157805629937) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
 **來源**: [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2066048157805629937)
 
@@ -657,7 +666,8 @@ Vertical bizarre flat cartoon portrait of [SUBJECT from the attached photo] with
 ```
 
 ---
-### Case 24: 韓式舞蹈動作分解表
+<!-- Case 372: 韓式舞蹈動作分解表 (by @iamaiistudio) -->
+### Case 372: [韓式舞蹈動作分解表](https://x.com/iamaiistudio/status/2066659127485718574) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **來源**: [@iamaiistudio](https://x.com/iamaiistudio/status/2066659127485718574)
 
@@ -701,7 +711,8 @@ no cluttered backgrounds
 ```
 
 ---
-### Case 25: 輝光檔案守護者角色海報
+<!-- Case 373: 輝光檔案守護者角色海報 (by @92digitalartArt) -->
+### Case 373: [輝光檔案守護者角色海報](https://x.com/92digitalartArt/status/2066558474650095890) (by [@92digitalartArt](https://x.com/92digitalartArt))
 
 **來源**: [@92digitalartArt](https://x.com/92digitalartArt/status/2066558474650095890)
 
@@ -721,7 +732,8 @@ human-like alien, humanoid face, eyes, nose, mouth, jaw, blue-skinned human, elf
 ```
 
 ---
-### Case 26: 視覺小說角色檔案頁
+<!-- Case 374: 視覺小說角色檔案頁 (by @iamaiistudio) -->
+### Case 374: [視覺小說角色檔案頁](https://x.com/iamaiistudio/status/2067308176715001944) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **來源**: [@iamaiistudio](https://x.com/iamaiistudio/status/2067308176715001944)
 
@@ -746,7 +758,8 @@ Catchphrase: "(line here)"
 ```
 
 ---
-### Case 27: 中世紀鍊金術士角色設定頁
+<!-- Case 375: 中世紀鍊金術士角色設定頁 (by @itsPixieVerse) -->
+### Case 375: [中世紀鍊金術士角色設定頁](https://x.com/itsPixieVerse/status/2067750004178215241) (by [@itsPixieVerse](https://x.com/itsPixieVerse))
 
 **來源**: [@itsPixieVerse](https://x.com/itsPixieVerse/status/2067750004178215241)
 
@@ -780,8 +793,8 @@ Use this tri-fold layout:
 - Place these views over very subtle vertical and horizontal grid lines resembling a technical schematic blueprint.
 ```
 
-<!-- Case 28: Pixar 香蕉英雄角色 (by @iamaiistudio) -->
-### Case 28: [Pixar 香蕉英雄角色](https://x.com/iamaiistudio/status/2068003049600380972) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 376: Pixar 香蕉英雄角色 (by @iamaiistudio) -->
+### Case 376: [Pixar 香蕉英雄角色](https://x.com/iamaiistudio/status/2068003049600380972) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -793,8 +806,8 @@ Use this tri-fold layout:
 Pixar-style 3D animated banana character, single fruit brought to life. A charismatic male figure with bold confident eyes, thick expressive brows, and a wide grin full of gleaming white teeth with sparkle accents. Smooth, slightly glossy yellow peel with soft highlights. Stubby cartoon arms and legs, posed upright with arms crossed in a heroic stance. Background features a blurred bunch of bananas. Standing on a wooden dining table beside a sun-filled window in a cozy modern home interior. Rich vibrant colors, cinematic lighting, soft natural shadows, ultra-detailed high-fidelity textures.
 ```
 
-<!-- Case 29: Pastel Kawaii Animal Companions (by @Taaruk_) -->
-### Case 29: [粉彩卡哇伊動物夥伴](https://x.com/Taaruk_/status/2068351521016955098) (by [@Taaruk_](https://x.com/Taaruk_))
+<!-- Case 377: Pastel Kawaii Animal Companions (by @Taaruk_) -->
+### Case 377: [粉彩卡哇伊動物夥伴](https://x.com/Taaruk_/status/2068351521016955098) (by [@Taaruk_](https://x.com/Taaruk_))
 
 | 輸出效果 |
 | :----: |
@@ -806,8 +819,8 @@ Pixar-style 3D animated banana character, single fruit brought to life. A charis
 Cute minimalist pastel doodle illustration, kawaii character standing side-by-side with their adorable animal companion, inspired by modern Japanese stationery art and children's picture books, clean vector linework, soft cream background, muted pastel color palette (pink, blue, mint, lavender, yellow), simple geometric shapes, tiny confetti dots and floating decorative elements, rounded character design with oversized sweater, wide pants, sneakers, glasses, calm expression, animal companion variations including llama, bear, axolotl, rabbit, cat, fox, turtle or fantasy creature, cozy scenic background with seaside boardwalk, lakeside village, mountain town or whimsical nature landscape, flat design, thick outlines, charming and playful aesthetic, symmetrical composition, full body pose, cute friendship theme, highly detailed vector illustration, sticker-like appearance, children's book art style, soft shadows, clean negative space, vibrant yet gentle colors, trending on Pinterest, adorable wholesome atmosphere, 4k, masterpiece.
 ```
 
-<!-- Case 30: LEGO Football Collectible Figure (by @ChillaiKalan__) -->
-### Case 30: [樂高足球收藏人偶](https://x.com/ChillaiKalan__/status/2068717001145778630) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+<!-- Case 378: LEGO Football Collectible Figure (by @ChillaiKalan__) -->
+### Case 378: [樂高足球收藏人偶](https://x.com/ChillaiKalan__/status/2068717001145778630) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 樂高足球收藏人偶"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 樂高足球收藏人偶"></a></td></tr>
@@ -820,8 +833,8 @@ Cute minimalist pastel doodle illustration, kawaii character standing side-by-si
 A highly detailed collectible toy figure inspired by a LEGO-style minifigure, standing in a professional studio. The figure has a realistic young woman’s face with porcelain skin, straight jet-black hair, blunt bangs, and a single striking white streak running through the hair. She wears small silver earrings and maintains a calm, confident expression. The body is a glossy plastic brick-toy minifigure wearing a soccer jersey with the number 10, matching shorts, and national-team-inspired colors. Full-body composition, centered framing, shallow depth of field, premium product photography, ultra-clean lighting, reflective plastic surfaces, realistic shadows, sharp focus, luxury collectible aesthetic, high-end commercial advertising style, photorealistic face blended seamlessly with toy body, 8K resolution, vibrant color grading, studio backdrop matching the jersey color theme.
 ```
 
-<!-- Case 31: 溫馨生活風格貼紙九宮格 (by @RuzainaMeer) -->
-### Case 31: [溫馨生活風格貼紙九宮格](https://x.com/RuzainaMeer/status/2071097968846057649) (by [@RuzainaMeer](https://x.com/RuzainaMeer))
+<!-- Case 360: 溫馨生活風格貼紙九宮格 (by @RuzainaMeer) -->
+### Case 360: [溫馨生活風格貼紙九宮格](https://x.com/RuzainaMeer/status/2071097968846057649) (by [@RuzainaMeer](https://x.com/RuzainaMeer))
 
 | Output |
 | :----: |
@@ -843,8 +856,8 @@ Panel 9 (bottom-right): Traveling with a backpack, wearing a straw hat, sunglass
 Consistent character design across all panels. Soft lineart, warm skin tone, expressive large eyes, cozy and aesthetic illustration style similar to Korean webtoon sticker art. Clean white background per panel, arranged in a 3x3 grid layout.
 ```
 
-<!-- Case 32: 90年代動漫叛逆肖像 (by @oggii_0) -->
-### Case 32: [90年代動漫叛逆肖像](https://x.com/oggii_0/status/2071084089084613037) (by [@oggii_0](https://x.com/oggii_0))
+<!-- Case 361: 90年代動漫叛逆肖像 (by @oggii_0) -->
+### Case 361: [90年代動漫叛逆肖像](https://x.com/oggii_0/status/2071084089084613037) (by [@oggii_0](https://x.com/oggii_0))
 
 | Output |
 | :----: |
@@ -860,8 +873,8 @@ Capture the authentic aesthetic of that era, with a particular focus on the visu
 Preserve the person's key facial features and likeness from the original photo, but adapt them naturally to the 90s anime style. Give the character a strong-willed, confident, and slightly rebellious personality. A cigarette in his mouth is acceptable as part of the character design.
 ```
 
-<!-- Case 33: 世界盃搖頭公仔 (by @SaasJunctionHQ) -->
-### Case 33: [世界盃搖頭公仔](https://x.com/SaasJunctionHQ/status/2070943717238919211) (by [@SaasJunctionHQ](https://x.com/SaasJunctionHQ))
+<!-- Case 362: 世界盃搖頭公仔 (by @SaasJunctionHQ) -->
+### Case 362: [世界盃搖頭公仔](https://x.com/SaasJunctionHQ/status/2070943717238919211) (by [@SaasJunctionHQ](https://x.com/SaasJunctionHQ))
 
 | Output |
 | :----: |
@@ -895,8 +908,8 @@ Format
 ```
 
 ---
-<!-- Case 34: 鑽石牙飾誇張公仔 (by @iamaiistudio) -->
-### Case 34: [鑽石牙飾誇張公仔](https://x.com/iamaiistudio/status/2071470936973533271) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 379: 鑽石牙飾誇張公仔 (by @iamaiistudio) -->
+### Case 379: [鑽石牙飾誇張公仔](https://x.com/iamaiistudio/status/2071470936973533271) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |

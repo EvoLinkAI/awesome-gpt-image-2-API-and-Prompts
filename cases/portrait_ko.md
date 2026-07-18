@@ -2,7 +2,7 @@
 
 > Part of [awesome-gpt-image-2-prompts](../README_ko.md)
 
-### Case 1: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
+### Case 52: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
 | 결과 |
 | :----: |
@@ -12,7 +12,7 @@
 
 ```
 
-<!-- Case 320: Monochrome Studio Portrait Grid (by @harboriis) -->
+<!-- Case 52: Monochrome Studio Portrait Grid (by @harboriis) -->
 ### Case 320: [모노크롬 스튜디오 포트레이트 그리드](https://x.com/harboriis/status/2071068008341262538) (by [@harboriis](https://x.com/harboriis))
 
 | Output |
@@ -507,7 +507,8 @@ A restored vintage family snapshot, photographed indoors in soft natural light, 
 A heavily damaged old family snapshot in faded black and white with a slight sepia cast, shown as a worn physical photograph scanned straight-on. The image depicts a seated woman holding a small child on her lap indoors, both centered in a simple portrait composition. The woman has short dark wavy hair and wears a dark sleeveless dress or pinafore layered over a lighter short-sleeved blouse. The child appears to be a toddler with very short light hair, wearing a light-colored outfit, facing the camera while sitting against the woman’s chest and arm. Behind them is a patterned curtain with small floral or leaf motifs, and above it a dark window area with a pale vertical window frame is visible near the top center. The print is severely deteriorated: extensive scratches, creases, emulsion damage, stains, blotches, and peeling cover the entire surface, with especially heavy white abrasion and loss of detail across the bottom third and scattered cracking throughout. Keep the overall look authentic to a mid-20th-century vernacular photo, low contrast, soft focus, and visibly aged paper texture. Add a rectangular blurred censor block over the woman’s face only, while the child’s face remains visible but faded. No text, no border, just the distressed archival photograph filling the frame.
 ```
 
-### Case 84: [Ink-Etched Family Portrait](https://x.com/gdb/status/2048184698195870102) (by [@gdb](https://x.com/gdb))
+<!-- Case 53: Ink-Etched Family Portrait (by @gdb) -->
+### Case 53: [Ink-Etched Family Portrait](https://x.com/gdb/status/2048184698195870102) (by [@gdb](https://x.com/gdb))
 
 | 결과 |
 | :----: |
@@ -519,7 +520,8 @@ A heavily damaged old family snapshot in faded black and white with a slight sep
 A black-and-white hand-drawn family portrait in the style of detailed pen-and-ink crosshatching on textured white paper, showing 4 people seated closely together in a casual candid composition. On the left, an adult man in a dark baseball cap worn backward and a dark T-shirt leans into the frame, with a crossbody sling bag worn across his chest and visible zipper details. On the right, an adult woman with curly hair tied up in a loose high bun wears a light T-shirt with large collegiate block letters reading {argument name="shirt text" default="CITY"}. In the center are 2 young children sitting close together, both with short curly hair and matching light-colored T-shirts printed all over with strawberries. The child on the left leans inward with one arm crossing the other child, and the child on the right tilts their head slightly upward. The adults frame the children protectively, creating a warm family snapshot feeling. Render the whole image as a monochrome etched illustration with dense fine-line hatching, engraved shadows, crisp contour lines, and a realistic yet artistic likeness, with no color, no background setting beyond a plain light paper texture, and a vertical portrait crop.
 ```
 
-### Case 85: [Vintage Engraved Hoodie Portrait](https://x.com/gdb/status/2048184698195870102) (by [@gdb](https://x.com/gdb))
+<!-- Case 53: Vintage Engraved Hoodie Portrait (by @gdb) -->
+### Case 53: [Vintage Engraved Hoodie Portrait](https://x.com/gdb/status/2048184698195870102) (by [@gdb](https://x.com/gdb))
 
 | 결과 |
 | :----: |
@@ -1337,9 +1339,9 @@ Elegant Korean female model in blush pink satin slip dress with delicate spaghet
 
 ---
 
-<!-- Case 170: Wimbledon Broadcast Crowd Shot (by @Mavericks_Prod) -->
+<!-- Case 55: Wimbledon Broadcast Crowd Shot (by @Mavericks_Prod) -->
 
-### Case 170: [Wimbledon Broadcast Crowd Shot](https://x.com/Mavericks_Prod/status/2054342640439566739) (by [@Mavericks_Prod](https://x.com/Mavericks_Prod))
+### Case 55: [Wimbledon Broadcast Crowd Shot](https://x.com/Mavericks_Prod/status/2054342640439566739) (by [@Mavericks_Prod](https://x.com/Mavericks_Prod))
 
 | Output |
 | :----: |
@@ -1351,9 +1353,9 @@ Elegant Korean female model in blush pink satin slip dress with delicate spaghet
 A screenshot from a live Wimbledon TV broadcast during a packed Centre Court match. The camera cuts to the audience, an unbelievably attractive woman in her 20s with long black hair, flawless skin, elegant makeup, and a luxurious aura, seated in the VIP section wearing a sophisticated cream-white low-cut summer outfit with subtle jewelry. She smiles naturally while reacting to the match, unaware she's on camera. Wealthy spectators and champagne glasses around her, old-money tennis atmosphere, shallow depth of field. Full live tennis broadcast overlay: scoreboard, network watermark, broadcast graphics, 16:9 aspect ratio. The image looks exactly like a real TV screenshot, telephoto broadcast lens, realistic live color grading, slight compression artifacts, interlacing grain, subtle motion blur, imperfect live-camera framing.
 ```
 
-<!-- Case 171: Rainy Street Golden Portrait (by @harboriis) -->
+<!-- Case 56: Rainy Street Golden Portrait (by @harboriis) -->
 
-### Case 171: [Rainy Street Golden Portrait](https://x.com/harboriis/status/2054238941482733685) (by [@harboriis](https://x.com/harboriis))
+### Case 56: [Rainy Street Golden Portrait](https://x.com/harboriis/status/2054238941482733685) (by [@harboriis](https://x.com/harboriis))
 
 | Output |
 | :----: |
@@ -1371,9 +1373,9 @@ Soft cinematic clouds filling the sky with warm orange, peach, and golden tones.
 Shot on Sony A7R IV, 35mm lens, f/1.8, shallow depth of field, HDR photography, photorealistic, cinematic color grading, warm highlights with cool shadows, highly detailed urban realism, editorial photography style, 8K ultra resolution.
 ```
 
-<!-- Case 172: Cozy Cafe Editorial Portrait (by @sha_zdiii) -->
+<!-- Case 57: Cozy Cafe Editorial Portrait (by @sha_zdiii) -->
 
-### Case 172: [Cozy Cafe Editorial Portrait](https://x.com/sha_zdiii/status/2054047328420634927) (by [@sha_zdiii](https://x.com/sha_zdiii))
+### Case 57: [Cozy Cafe Editorial Portrait](https://x.com/sha_zdiii/status/2054047328420634927) (by [@sha_zdiii](https://x.com/sha_zdiii))
 
 | Output |
 | :----: |
@@ -1391,9 +1393,9 @@ Add cute scrapbook-style doodles and handwritten notes around the image in [dood
 Color palette should focus on [color theme] tones. Style inspired by viral Pinterest café photography, Korean lifestyle aesthetics, Japanese cozy café culture, dreamy Gen-Z romance mood, shallow depth of field, cinematic composition, ultra realistic food textures, soft blurry background, ultra detailed realistic photography, clean aesthetic layout, 8k.
 ```
 
-<!-- Case 173: Watercolor Fashion Sketch (by @Naiknelofar788) -->
+<!-- Case 58: Watercolor Fashion Sketch (by @Naiknelofar788) -->
 
-### Case 173: [Watercolor Fashion Sketch](https://x.com/Naiknelofar788/status/2054741712011223312) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+### Case 58: [Watercolor Fashion Sketch](https://x.com/Naiknelofar788/status/2054741712011223312) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
 
 | Output |
 | :----: |
@@ -1405,9 +1407,9 @@ Color palette should focus on [color theme] tones. Style inspired by viral Pinte
 Transform the uploaded photo into a full-body watercolor fashion illustration in the style of an elegant runway design sketch. Preserve the original outfit, pose, silhouette, colors, fabrics, accessories, shoes, hairstyle and overall styling from the photo. Do not redesign the clothing. Use elongated fashion-sketch proportions The clothing should remain realistic and recognizable, with accurate cut, fit, folds, fabric texture, prints and details. Style: high-fashion watercolor illustration, loose expressive ink lines, delicate pencil contour, transparent watercolor washes, soft shadows, painterly texture, minimalist editorial mood. White or very light background, clean composition, full body centered, lots of negative space. Elegant, modern, airy, like a professional fashion designer sketch.
 ```
 
-<!-- Case 174: Retro Newsstand Fashion Scene (by @harboriis) -->
+<!-- Case 59: Retro Newsstand Fashion Scene (by @harboriis) -->
 
-### Case 174: [Retro Newsstand Fashion Scene](https://x.com/harboriis/status/2054484765001306285) (by [@harboriis](https://x.com/harboriis))
+### Case 59: [Retro Newsstand Fashion Scene](https://x.com/harboriis/status/2054484765001306285) (by [@harboriis](https://x.com/harboriis))
 
 | Output |
 | :----: |
@@ -1419,9 +1421,9 @@ Transform the uploaded photo into a full-body watercolor fashion illustration in
 A cinematic fashion editorial scene of 8 diverse young adults gathered around a vintage urban newsstand kiosk with a bold "NEWSSTAND" sign, set in a gritty indoor street environment with worn concrete floors, dark industrial walls, and subtle urban details. Newspapers fly dynamically through the air in mid-motion, creating layered depth and energy with natural motion blur. The group is styled in coordinated 90s-inspired retro streetwear - oversized jackets, layered fits, sunglasses, caps, and muted earth tones. (olive green, brown, cream, navy). Composition is carefully balanced: one subject leans casually against the kiosk holding a newspaper, one sits confidently on a cream vintage scooter in the foreground, another rests on a teal scooter, while others stand or sit on chairs with relaxed, confident poses and subtle attitude. Shot from a slightly elevated angle (top-down perspective), wide 35mm lens, maintaining natural proportions. Lighting is soft cinematic with warm highlights and diffused shadows, creating a premium fashion campaign mood. Background includes scattered newspapers, a red fire hydrant, and industrial textures for realism. Ultra-detailed, photorealistic, shallow depth of field, crisp subject focus, soft film grain, natural color grading, high-end magazine aesthetic, 4K quality.
 ```
 
-<!-- Case 175: Early 1990s Flash Portrait (by @bmx_ai13) -->
+<!-- Case 60: Early 1990s Flash Portrait (by @bmx_ai13) -->
 
-### Case 175: [Early 1990s Flash Portrait](https://x.com/bmx_ai13/status/2054459126084718785) (by [@bmx_ai13](https://x.com/bmx_ai13))
+### Case 60: [Early 1990s Flash Portrait](https://x.com/bmx_ai13/status/2054459126084718785) (by [@bmx_ai13](https://x.com/bmx_ai13))
 
 | Output |
 | :----: |
@@ -1433,8 +1435,8 @@ A cinematic fashion editorial scene of 8 diverse young adults gathered around a 
 Early 1990s Flash Camera Portrait GPT image 2 on ChatGPT Prompt Template. Use the uploaded image as the main reference. Transform the uploaded photo into a realistic candid portrait with an early 1990s digital camera aesthetic. Preserve the subject’s identity, facial features, pose, outfit, and overall composition, but restyle the image with harsh blown-out flash highlights, subtle red-eye effect, low-resolution image quality, raw snapshot imperfections, nostalgic flash-filter styling, and a vintage timestamp look. The final image should feel candid, imperfect, and authentic, like an old retro party or personal snapshot taken with an early consumer digital camera. Keep the background dark or naturally subdued when appropriate, maintain a direct-flash look, and give the image a raw, unpolished, memory-like atmosphere. Include: - harsh direct camera flash - overexposed or blown-out highlights - subtle red-eye effect - low-resolution / soft digital detail - slight grain or noisy texture - authentic retro snapshot feeling - vintage date/timestamp aesthetic in one corner - candid, natural, imperfect energy Avoid: - cartoon or anime style - overly polished beauty retouching - studio lighting - ultra-sharp modern DSLR look - glossy AI skin - text, logos, watermarks, or graphic overlays other than the timestamp aesthetic - distorted anatomy or altered identity Make the aspect ratio 3:4
 ```
 
-<!-- Case 176: Origami Portrait Illustration (by @Inshrah_ali_) -->
-### Case 176: [Origami Portrait Illustration](https://x.com/Inshrah_ali_/status/2055696156211179912) (by [@Inshrah_ali_](https://x.com/Inshrah_ali_))
+<!-- Case 61: Origami Portrait Illustration (by @Inshrah_ali_) -->
+### Case 61: [Origami Portrait Illustration](https://x.com/Inshrah_ali_/status/2055696156211179912) (by [@Inshrah_ali_](https://x.com/Inshrah_ali_))
 
 | Output |
 | :----: |
@@ -1446,8 +1448,8 @@ Early 1990s Flash Camera Portrait GPT image 2 on ChatGPT Prompt Template. Use th
 Ultra-detailed origami paper art portrait of given picture, entirely crafted from meticulously folded paper layers and intricate geometric origami shapes. Realistic paper texture with visible creases and handcrafted folds, defining a low-poly facial structure. Elegant Japanese-inspired aesthetic. Layered paper background featuring delicate cherry blossoms, majestic mountains, stylized sun motifs, and abstract folded patterns. Luxurious gold, black, cream, and white color palette. she wears a football jersey made from artfully folded paper fabric. Dramatic cinematic studio lighting, casting ultra-realistic shadows and creating profound depth. A highly detailed handcrafted paper sculpture, presented in a premium gallery artwork style. Sharp focus, sophisticated composition, and tactile paper texture. Masterpiece quality, 8k ultra detailed. Toy-free, no plastic, no CGI look.
 ```
 
-<!-- Case 177: Luxury Portrait With Tiny Alter Ego (by @Professor_134) -->
-### Case 177: [Luxury Portrait With Tiny Alter Ego](https://x.com/Professor_134/status/2055561008626950422) (by [@Professor_134](https://x.com/Professor_134))
+<!-- Case 62: Luxury Portrait With Tiny Alter Ego (by @Professor_134) -->
+### Case 62: [Luxury Portrait With Tiny Alter Ego](https://x.com/Professor_134/status/2055561008626950422) (by [@Professor_134](https://x.com/Professor_134))
 
 | Output |
 | :----: |
@@ -1468,8 +1470,8 @@ Style references: luxury fashion campaign, Pixar realism, Disney-inspired miniat
 Generate image using uploaded image as reference
 ```
 
-<!-- Case 178: Ink Glyph Portrait (by @harboriis) -->
-### Case 178: [Ink Glyph Portrait](https://x.com/harboriis/status/2055560455494738411) (by [@harboriis](https://x.com/harboriis))
+<!-- Case 63: Ink Glyph Portrait (by @harboriis) -->
+### Case 63: [Ink Glyph Portrait](https://x.com/harboriis/status/2055560455494738411) (by [@harboriis](https://x.com/harboriis))
 
 | Output |
 | :----: |
@@ -1481,8 +1483,8 @@ Generate image using uploaded image as reference
 Use the uploaded photo as the main face reference. Preserve the exact facial structure, skin tone, beard shape, nose, eyes and expression from the reference image. A dramatic, high-impact portrait rendered in an expressive ink sketch and mixed-media illustration style, using the uploaded image for exact facial likeness and proportions. The man is shown in side profile, his presence intense and chaotic. His face and upper body are layered with cryptic handwritten  text, symbols, and abstract glyphs, partially wrapping around facial contours, suggesting inner turmoil and hidden meaning He wears a dark, abstract jacket, heavily texture strokes, sharp angular linework, and vibrant ink creating a raw, rebellious visual energy. The illu bold and experimental, blending fine pen detaili aggressive brush marks, splashes, and controll The background is a pale, aged parchment ton grain, faded paper texture, delicate linework, in! stains-evoking an old manuscript  Or forgotten High contrast, expressive composition, artistic with precision, editorial art meets conceptual il intense, and emotionally charged
 ```
 
-<!-- Case 179: Y2K Cyber-Pop Editorial Shot (by @noorlewisx) -->
-### Case 179: [Y2K Cyber-Pop Editorial Shot](https://x.com/noorlewisx/status/2055507148541493282) (by [@noorlewisx](https://x.com/noorlewisx))
+<!-- Case 64: Y2K Cyber-Pop Editorial Shot (by @noorlewisx) -->
+### Case 64: [Y2K Cyber-Pop Editorial Shot](https://x.com/noorlewisx/status/2055507148541493282) (by [@noorlewisx](https://x.com/noorlewisx))
 
 | Output |
 | :----: |
@@ -1494,8 +1496,8 @@ Use the uploaded photo as the main face reference. Preserve the exact facial str
 Don’t alter my facial feature. Create me a wide editorial shot of a girl leaning dramatically across a cluttered floor/desk in a chaotic Y2K cyber-pop room, low front-facing angle with cinematic framing. Moody cool-toned lighting mixed with warm highlights, glossy flash photography feel, dreamy magazine-editorial atmosphere. Long sleek jet-black hair with center part, soft pale glam makeup, subtle blush, glossy gradient red lips, large doll-like eyes with soft eyeliner and lashes. Red fitted tank top and dark mini skirt, colorful manicure, slightly messy dramatic pose with arms stretched forward, intense direct gaze at camera. Surrounding scene filled with scattered random objects, cables, gadgets, accessories, glittery props, and bedroom clutter for a chaotic pop-girl aesthetic. Collage-style edit layered with floating heart gems, cut-out eyes, sticker elements, scrapbook graphics, fake text-message popups, polaroid frames, magazine cutout of the girl, bold typography overlays, hyperpop/K-pop editorial vibe, nostalgic Y2K internet aesthetic, glossy fashion-campaign energy. Scale ratio 4:3
 ```
 
-<!-- Case 180: Cozy Doodle Lifestyle Photo (by @Sairah_0) -->
-### Case 180: [Cozy Doodle Lifestyle Photo](https://x.com/Sairah_0/status/2055500670564991079) (by [@Sairah_0](https://x.com/Sairah_0))
+<!-- Case 65: Cozy Doodle Lifestyle Photo (by @Sairah_0) -->
+### Case 65: [Cozy Doodle Lifestyle Photo](https://x.com/Sairah_0/status/2055500670564991079) (by [@Sairah_0](https://x.com/Sairah_0))
 
 | Output |
 | :----: |
@@ -1595,7 +1597,8 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 ```
 
 
-### Case 185: [Y2K Street-Art Editorial Poster](https://x.com/kingofdairyque/status/2056273485131821345) (by [@kingofdairyque](https://x.com/kingofdairyque))
+<!-- Case 66: Y2K Street-Art Editorial Poster (by @kingofdairyque) -->
+### Case 66: [Y2K Street-Art Editorial Poster](https://x.com/kingofdairyque/status/2056273485131821345) (by [@kingofdairyque](https://x.com/kingofdairyque))
 
 | Output |
 | :----: |
@@ -1607,7 +1610,8 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 hair instructions, controlling hairstyle, changing hairstyle, young female, young male, bad anatomy, extra fingers, deformed hands, stiff pose, awkward body lean, distorted sunglasses, warped face, asymmetrical eyes, blurry face, low quality, low resolution, muddy colors, overcluttered layout, too many stickers, unreadable typography, misspelled text, cheap poster design, random logos, watermark, cartoon-only style, duplicate subject, extra limbs, plastic skin.
 ```
 
-### Case 186: [LEGO Miniature City Editorial](https://x.com/frametheory058/status/2056561951610921186) (by [@frametheory058](https://x.com/frametheory058))
+<!-- Case 67: LEGO Miniature City Editorial (by @frametheory058) -->
+### Case 67: [LEGO Miniature City Editorial](https://x.com/frametheory058/status/2056561951610921186) (by [@frametheory058](https://x.com/frametheory058))
 
 | Output |
 | :----: |
@@ -1621,7 +1625,8 @@ Create a premium vertical 4:5 editorial illustration of the same character from 
 Only the character remains organic and natural. Everything else must be built entirely from visible LEGO-style bricks: landmarks, streets, bridges, rivers, lakes, trees, vehicles, trains, people, cafés, shops, food stalls, parks, signs, boa
 ```
 
-### Case 187: [Fashion Collage Multi-Style Portrait](https://x.com/Mind_Boticni/status/2056350780840611954) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
+<!-- Case 68: Fashion Collage Multi-Style Portrait (by @Mind_Boticni) -->
+### Case 68: [Fashion Collage Multi-Style Portrait](https://x.com/Mind_Boticni/status/2056350780840611954) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
 
 | Output |
 | :----: |
@@ -1633,7 +1638,8 @@ Only the character remains organic and natural. Everything else must be built en
 Create a premium 1:1 ultra-stylish fashion collage advertisement featuring the same young handsome bearded male model across multiple cinematic portrait styles inside one single high-end composition. The model should have sharp jawline, textured beard, messy stylish hair, attractive confident expression, modern masculine aura, and luxury Gen-Z street fashion styling. Entire mood should feel bold, dark, mysterious, and visually addictive — designed for viral social media aesthetics. Theme: midnig
 ```
 
-### Case 188: [Busan Travel Journal Illustration](https://x.com/Sairah_0/status/2056580402761155037) (by [@Sairah_0](https://x.com/Sairah_0))
+<!-- Case 69: Busan Travel Journal Illustration (by @Sairah_0) -->
+### Case 69: [Busan Travel Journal Illustration](https://x.com/Sairah_0/status/2056580402761155037) (by [@Sairah_0](https://x.com/Sairah_0))
 
 | Output |
 | :----: |
@@ -1645,7 +1651,8 @@ Create a premium 1:1 ultra-stylish fashion collage advertisement featuring the s
 Dreamy Busan Korea travel journal illustration, cozy vintage scrapbook aesthetic, watercolor and ink art style, red-haired girl sitting at a seaside café writing in a notebook, cream knitted cardigan, floral dress, cinematic ocean view, colorful Gamcheon Culture Village houses on cliffside, Korean signs, travel stamps, boarding pass, handwritten notes, postcards, maps, tape stickers, seashells, coffee cup, retro camera on wooden table, soft pastel tones, warm sunlight, detailed paper textures, w
 ```
 
-### Case 189: [Cinematic Volleyball Sports Portrait](https://x.com/meng_dagg695/status/2056590467622744500) (by [@meng_dagg695](https://x.com/meng_dagg695))
+<!-- Case 70: Cinematic Volleyball Sports Portrait (by @meng_dagg695) -->
+### Case 70: [Cinematic Volleyball Sports Portrait](https://x.com/meng_dagg695/status/2056590467622744500) (by [@meng_dagg695](https://x.com/meng_dagg695))
 
 | Output |
 | :----: |
@@ -1657,7 +1664,8 @@ Dreamy Busan Korea travel journal illustration, cozy vintage scrapbook aesthetic
 Ultra-realistic cinematic sports portrait of a young athletic woman playing volleyball outdoors on a sunny tropical day, captured mid-action while gently tossing/spinning a colorful volleyball upward with one hand. She is standing on an outdoor sports court surrounded by green mesh fencing, lush tropical plants, palm leaves, and soft natural greenery in the background.
 ```
 
-### Case 190: [3D Designer-Toy Portrait](https://x.com/iamsofiaijaz/status/2056569264262517002) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+<!-- Case 71: 3D Designer-Toy Portrait (by @iamsofiaijaz) -->
+### Case 71: [3D Designer-Toy Portrait](https://x.com/iamsofiaijaz/status/2056569264262517002) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
 
 | Output |
 | :----: |
@@ -1669,7 +1677,8 @@ Ultra-realistic cinematic sports portrait of a young athletic woman playing voll
 Stylized 3D designer-toy portrait, centered symmetrical close-up composition, maintain the exact face, hairstyle, and facial proportions of the character in the reference image, [GLASSES: e.g. oversized translucent cat-eye glasses / no glasses / chunky black frames], [EYES: e.g. sharp green eyes / dark brown eyes], [FACE DETAILS: e.g. freckles,, silver ear piercings], soft neutral facial expression with cool detached attitude,  streetwear-inspired badges / no hat], [OUTFIT: e.g. chunky neon-gree
 ```
 
-### Case 191: [Dark Silhouette Rim-Light Portrait](https://x.com/XSydneyFan/status/2056427756213465521) (by [@XSydneyFan](https://x.com/XSydneyFan))
+<!-- Case 72: Dark Silhouette Rim-Light Portrait (by @XSydneyFan) -->
+### Case 72: [Dark Silhouette Rim-Light Portrait](https://x.com/XSydneyFan/status/2056427756213465521) (by [@XSydneyFan](https://x.com/XSydneyFan))
 
 | Output |
 | :----: |
@@ -1682,7 +1691,8 @@ Stylized 3D designer-toy portrait, centered symmetrical close-up composition, ma
 2:3ar
 ```
 
-### Case 192: [Cozy Bedroom Korean Girl Portrait](https://x.com/john_my07/status/2056609974852497451) (by [@john_my07](https://x.com/john_my07))
+<!-- Case 73: Cozy Bedroom Korean Girl Portrait (by @john_my07) -->
+### Case 73: [Cozy Bedroom Korean Girl Portrait](https://x.com/john_my07/status/2056609974852497451) (by [@john_my07](https://x.com/john_my07))
 
 | Output |
 | :----: |
@@ -1695,7 +1705,8 @@ Ultra-realistic cozy bedroom portrait of the same beautiful Korean girl from the
 She is lying comfortably on her stomach across a soft cream-colored bed in her cozy bedroom at night, posing playfully toward the camera with a gentle relaxed smile. Her legs are bent upward behind her while resting her chin softly
 ```
 
-### Case 193: [Anime Brand Campaign Portrait](https://x.com/ChillaiKalan__/status/2056580787538161753) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+<!-- Case 74: Anime Brand Campaign Portrait (by @ChillaiKalan__) -->
+### Case 74: [Anime Brand Campaign Portrait](https://x.com/ChillaiKalan__/status/2056580787538161753) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
 
 | Output |
 | :----: |
@@ -1707,7 +1718,8 @@ She is lying comfortably on her stomach across a soft cream-colored bed in her c
 Semi-realistic anime style young Korean woman in the uploaded image, ORBIT brand campaign, oversized nuclear orange and white technical jacket, wide black pants, futuristic sneakers, vivid orange seamless backdrop, chrome silver props, circular orbital shapes, sharp flash photography, premium streetwear hype drop energy, clean fashion editorial.
 ```
 
-### Case 194: [Woman in Crystal Perfume Bottle](https://x.com/MrDasOnX/status/2056413830687899819) (by [@MrDasOnX](https://x.com/MrDasOnX))
+<!-- Case 75: Woman in Crystal Perfume Bottle (by @MrDasOnX) -->
+### Case 75: [Woman in Crystal Perfume Bottle](https://x.com/MrDasOnX/status/2056413830687899819) (by [@MrDasOnX](https://x.com/MrDasOnX))
 
 | Output |
 | :----: |
@@ -1719,7 +1731,8 @@ Semi-realistic anime style young Korean woman in the uploaded image, ORBIT brand
 Ultra-realistic surreal conceptual portrait of a distressed middle-aged woman trapped inside an elegant transparent crystal perfume bottle filled halfway with pale pink perfume liquid. The bottle is upright and centered, featuring a faceted glass body with a luxurious gold spray nozzle and cap. Tiny condensation droplets and fine mist residue cling to the inner glass, catching the light. A soft layer of shimmering perfume vapor swirls inside the bottle around the woman’s shoulders and chest leve
 ```
 
-### Case 195: [Summer Campus Tesla Lifestyle Poster](https://x.com/Shinning1010/status/2056334868963881144) (by [@Shinning1010](https://x.com/Shinning1010))
+<!-- Case 76: Summer Campus Tesla Lifestyle Poster (by @Shinning1010) -->
+### Case 76: [Summer Campus Tesla Lifestyle Poster](https://x.com/Shinning1010/status/2056334868963881144) (by [@Shinning1010](https://x.com/Shinning1010))
 
 | Output |
 | :----: |
@@ -1731,7 +1744,8 @@ Ultra-realistic surreal conceptual portrait of a distressed middle-aged woman tr
 Create a premium summer campus lifestyle Tesla poster focused mainly on an adult East Asian female model with a casual cute campus look. Use the uploaded portrait photo only for appearance and hairstyle, preserving face shape, facial features, hairstyle, skin tone, body proportion, and overall temperament. Scene: sunny summer university campus, clean tree-lined walkway, bright greenery, warm daylight, relaxed youthful lifestyle atmosphere. The model is the visual center, clear face, natural swee
 ```
 
-### Case 196: [Bubble-Tea Shop Action Portrait](https://x.com/heyfatema/status/2056415080783499427) (by [@heyfatema](https://x.com/heyfatema))
+<!-- Case 77: Bubble-Tea Shop Action Portrait (by @heyfatema) -->
+### Case 77: [Bubble-Tea Shop Action Portrait](https://x.com/heyfatema/status/2056415080783499427) (by [@heyfatema](https://x.com/heyfatema))
 
 | Output |
 | :----: |
@@ -1746,7 +1760,8 @@ Primary request: create a dynamic bubble-tea shop action portrait using the uplo
 Scene/backdrop: a bright modern bubble-tea counter interior with stainless steel panels, glass display edges, overhead circular lights, drink-making equipment, and a dramatic low-angle view from near the floor. Pink strawberry milk tea splashes
 ```
 
-### Case 197: [Night Outdoor Portrait](https://x.com/chatgptpaglu/status/2056603808403485006) (by [@chatgptpaglu](https://x.com/chatgptpaglu))
+<!-- Case 78: Night Outdoor Portrait (by @chatgptpaglu) -->
+### Case 78: [Night Outdoor Portrait](https://x.com/chatgptpaglu/status/2056603808403485006) (by [@chatgptpaglu](https://x.com/chatgptpaglu))
 
 | Output |
 | :----: |
@@ -1758,8 +1773,8 @@ Scene/backdrop: a bright modern bubble-tea counter interior with stainless steel
 A medium-shot photograph of a young woman with wavy, light brown hair and soft, rosy makeup, posing outdoors at night. She is wearing a slightly oversized black t-shirt with small white text on the left chest, pulling the shirt up slightly with both hands to reveal her midriff and the waistband of black underwear peeking out from low-rise, faded blue denim jeans. She is leaning against a white metal balcony railing, looking off-camera to her right with a neutral expression. The background
 ```
 
-<!-- Case 198: 패션 블루프린트 에디토리얼 시트 (by @ZephyraLeigh) -->
-### Case 198: [패션 블루프린트 에디토리얼 시트](https://twitter.com/ZephyraLeigh/status/2056770705677775247) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
+<!-- Case 79: 패션 블루프린트 에디토리얼 시트 (by @ZephyraLeigh) -->
+### Case 79: [패션 블루프린트 에디토리얼 시트](https://twitter.com/ZephyraLeigh/status/2056770705677775247) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
 
 | 결과 |
 | :----: |
@@ -1773,8 +1788,8 @@ Fashion blueprint sheet of a stylish young woman posing beside a bright orange w
 Surrounding the model are fashion infographic elements, jewelry breakdowns, fabric texture descriptions, tailoring notes, pose analysis, accessory close-ups, cinematic sunlight reflections, modern Korean street-fashion aesthetic, editorial photography style, ultra detailed, professional fashion concept sheet, 8k, 1744x2336
 ```
 
-<!-- Case 199: 음료와 함께한 경쾌한 스트리트 포트레이트 (by @rovvmut_) -->
-### Case 199: [음료와 함께한 경쾌한 스트리트 포트레이트](https://twitter.com/rovvmut_/status/2056786034864927229) (by [@rovvmut_](https://x.com/rovvmut_))
+<!-- Case 80: 음료와 함께한 경쾌한 스트리트 포트레이트 (by @rovvmut_) -->
+### Case 80: [음료와 함께한 경쾌한 스트리트 포트레이트](https://twitter.com/rovvmut_/status/2056786034864927229) (by [@rovvmut_](https://x.com/rovvmut_))
 
 | 결과 |
 | :----: |
@@ -1786,8 +1801,8 @@ Surrounding the model are fashion infographic elements, jewelry breakdowns, fabr
 A medium low-angle shot of a joyful young woman with dark hair and straight bangs, smiling brightly against a vibrant, clear blue sky. She wears a white graphic t-shirt featuring three landscape panels. In her right hand, she holds up a clear plastic cup filled with bright orange juice, featuring a white hand-drawn doodle of a smiley face on the side. Whimsical, hand-drawn white digital doodles are overlaid around her: stylized headphones rest around her neck, musical notes and stars float above her head, and glowing white motion outlines trace her silhouette. Bright, natural daylight evenly illuminates the scene, enhancing the playful, energetic pop-art aesthetic.
 ```
 
-<!-- Case 200: 필름 스트립 콜라주 포트레이트 포스터 (by @robertsmith_ai) -->
-### Case 200: [필름 스트립 콜라주 포트레이트 포스터](https://twitter.com/robertsmith_ai/status/2056766784846606727) (by [@robertsmith_ai](https://x.com/robertsmith_ai))
+<!-- Case 81: 필름 스트립 콜라주 포트레이트 포스터 (by @robertsmith_ai) -->
+### Case 81: [필름 스트립 콜라주 포트레이트 포스터](https://twitter.com/robertsmith_ai/status/2056766784846606727) (by [@robertsmith_ai](https://x.com/robertsmith_ai))
 
 | 결과 |
 | :----: |
@@ -1799,8 +1814,8 @@ A medium low-angle shot of a joyful young woman with dark hair and straight bang
 High-end portrait collage poster in vertical format. The background contains four layered rounded strips displaying black-and-white film-like images of a curly-haired male model wearing dark sunglasses in varied poses. In front, a vivid color cutout of the same character is placed to the left, dressed in an unbuttoned soft pink shirt, styled like a luxury fashion campaign with dramatic lighting and depth.
 ```
 
-<!-- Case 201: 레퍼런스 기반 포트레이트 일관성 (by @mehvishs25) -->
-### Case 201: [레퍼런스 기반 포트레이트 일관성](https://twitter.com/mehvishs25/status/2056770900125790595) (by [@mehvishs25](https://x.com/mehvishs25))
+<!-- Case 82: 레퍼런스 기반 포트레이트 일관성 (by @mehvishs25) -->
+### Case 82: [레퍼런스 기반 포트레이트 일관성](https://twitter.com/mehvishs25/status/2056770900125790595) (by [@mehvishs25](https://x.com/mehvishs25))
 
 | 결과 |
 | :----: |
@@ -1818,8 +1833,8 @@ Bright natural sunlight streaming through the classroom windows, creating soft c
 Calm slice-of-life atmosphere, minimalist Korean school aesthetic, candid model pose, soft daylight photography, shallow depth of field, cinematic composition, highly detailed, photorealistic classroom environment, luxury lifestyle editorial feel, soft glow, realistic DSLR photography, peaceful modern mood.
 ```
 
-<!-- Case 202: 런던 패션 스트리트 포트레이트 (by @ShamiWeb3) -->
-### Case 202: [런던 패션 스트리트 포트레이트](https://twitter.com/ShamiWeb3/status/2056904361792716894) (by [@ShamiWeb3](https://x.com/ShamiWeb3))
+<!-- Case 83: 런던 패션 스트리트 포트레이트 (by @ShamiWeb3) -->
+### Case 83: [런던 패션 스트리트 포트레이트](https://twitter.com/ShamiWeb3/status/2056904361792716894) (by [@ShamiWeb3](https://x.com/ShamiWeb3))
 
 | 결과 |
 | :----: |
@@ -1834,8 +1849,8 @@ The camera performs a smooth head-to-toe scan, displaying elegant text labels fo
 Bright natural sunlight, shallow depth of field, smooth gimbal movement, luxury editorial aesthetic, polished and sophisticated mood, 9:16 vertical, 15 seconds.
 ```
 
-<!-- Case 203: 여행 셀피 포트레이트 레퍼런스 (by @linaa_ai) -->
-### Case 203: [여행 셀피 포트레이트 레퍼런스](https://twitter.com/linaa_ai/status/2056777746265858158) (by [@linaa_ai](https://x.com/linaa_ai))
+<!-- Case 84: 여행 셀피 포트레이트 레퍼런스 (by @linaa_ai) -->
+### Case 84: [여행 셀피 포트레이트 레퍼런스](https://twitter.com/linaa_ai/status/2056777746265858158) (by [@linaa_ai](https://x.com/linaa_ai))
 
 | 결과 |
 | :----: |
@@ -1861,8 +1876,8 @@ Negative Prompt：
 watermark, logo, text, caption, signature, AI label, brand mark, extra fingers, missing fingers, fused fingers, deformed hands, oversized malformed palm, asymmetrical eyes, crossed eyes, warped face, plastic skin, waxy skin, over-smoothed beauty filter, blurry face, low detail, low resolution, heavy compression artifacts, distorted anatomy, duplicate person, bad perspective, bent flag strings, warped flags, fake CGI look, overexposed face, muddy colors
 ```
 
-<!-- Case 204: 초현실적 폰 스타일 포트레이트 (by @AiwithZohaib) -->
-### Case 204: [초현실적 폰 스타일 포트레이트](https://twitter.com/AiwithZohaib/status/2056835104824312018) (by [@AiwithZohaib](https://x.com/AiwithZohaib))
+<!-- Case 85: 초현실적 폰 스타일 포트레이트 (by @AiwithZohaib) -->
+### Case 85: [초현실적 폰 스타일 포트레이트](https://twitter.com/AiwithZohaib/status/2056835104824312018) (by [@AiwithZohaib](https://x.com/AiwithZohaib))
 
 | 결과 |
 | :----: |
@@ -1910,8 +1925,8 @@ Soft mobile-phone lighting, realistic shadows, natural tonal range, authentic ca
 The overall result should resemble a genuine smartphone portrait captured casually in real life, with cinematic realism and natural feminine elegance.
 ```
 
-<!-- Case 205: 목판화 각인 포트레이트 스타일 (by @zulkarnaimx) -->
-### Case 205: [목판화 각인 포트레이트 스타일](https://twitter.com/zulkarnaimx/status/2056778953273258275) (by [@zulkarnaimx](https://x.com/zulkarnaimx))
+<!-- Case 86: 목판화 각인 포트레이트 스타일 (by @zulkarnaimx) -->
+### Case 86: [목판화 각인 포트레이트 스타일](https://twitter.com/zulkarnaimx/status/2056778953273258275) (by [@zulkarnaimx](https://x.com/zulkarnaimx))
 
 | 결과 |
 | :----: |
@@ -1929,8 +1944,8 @@ Negative Prompt:
 color, watercolor, soft shading, blurred lines, low contrast, realistic photography, 3D render, anime style, cartoon style, messy sketch, thick uneven strokes, background objects, noisy texture, pixelated, distorted face, extra eyes, extra ears, bad anatomy, modern digital painting, glossy skin, overexposed highlights
 ```
 
-<!-- Case 206: 픽사풍 3D 캐릭터 디자인 시트 (by @TechieBySA) -->
-### Case 206: [픽사풍 3D 캐릭터 디자인 시트](https://twitter.com/TechieBySA/status/2056784334628036676) (by [@TechieBySA](https://x.com/TechieBySA))
+<!-- Case 87: 픽사풍 3D 캐릭터 디자인 시트 (by @TechieBySA) -->
+### Case 87: [픽사풍 3D 캐릭터 디자인 시트](https://twitter.com/TechieBySA/status/2056784334628036676) (by [@TechieBySA](https://x.com/TechieBySA))
 
 | 결과 |
 | :----: |
@@ -1971,8 +1986,8 @@ THE POLE BENDS. THE BAR STAYS. PAUL DOES NOT KNOW HOW.
 STYLE NOTES: Pixar 3D vivid rendering. Clean white background on both character sides. Electric blue stat bars throughout. Bottom strip cinematic and tight — close-ups bleeding into each other with transparent edges like a film production sheet, not boxed panels with full backgrounds. Paul identical across all poses. Maximum brightness and color throughout.”
 ```
 
-<!-- Case 207: 말차 여신 뷰티 포트레이트 (by @NyaiiBubu) -->
-### Case 207: [말차 여신 뷰티 포트레이트](https://twitter.com/NyaiiBubu/status/2056817669668737442) (by [@NyaiiBubu](https://x.com/NyaiiBubu))
+<!-- Case 88: 말차 여신 뷰티 포트레이트 (by @NyaiiBubu) -->
+### Case 88: [말차 여신 뷰티 포트레이트](https://twitter.com/NyaiiBubu/status/2056817669668737442) (by [@NyaiiBubu](https://x.com/NyaiiBubu))
 
 | 결과 |
 | :----: |
@@ -1986,8 +2001,8 @@ STYLE NOTES: Pixar 3D vivid rendering. Clean white background on both character 
 ultra realistic surreal beauty editorial portrait, matcha goddess aesthetic, ethereal asian woman with glossy dewy skin, face covered in dripping liquid matcha cream, surreal cosmetic food fusion, floating matcha cubes, matcha powder particles, green tea mousse textures, edible haute couture, cinematic luxury skincare campaign, dreamy fantasy atmosphere, glowing olive green tones, wet reflective skin, delicate floral accents, suspended droplets, gold flakes, soft volumetric lighting, macro beauty photography, shallow depth of field, highly detailed skin texture, elegant feminine pose, luxury fashion editorial, surreal dessert inspired composition, artistic liquid dynamics, photorealistic, cinematic bokeh background, ultra detailed, 8k, soft glow, clean composition, no text, no logo, no product packaging, vertical 9:16
 ```
 
-<!-- Case 208: 빈티지 카메라 LCD 화면 샷 (by @ZaraElira4) -->
-### Case 208: [빈티지 카메라 LCD 화면 샷](https://twitter.com/ZaraElira4/status/2056786815978524772) (by [@ZaraElira4](https://x.com/ZaraElira4))
+<!-- Case 89: 빈티지 카메라 LCD 화면 샷 (by @ZaraElira4) -->
+### Case 89: [빈티지 카메라 LCD 화면 샷](https://twitter.com/ZaraElira4/status/2056786815978524772) (by [@ZaraElira4](https://x.com/ZaraElira4))
 
 | 결과 |
 | :----: |
@@ -2010,8 +2025,8 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 ```
 
 
-<!-- Case 209: 写实感人物竖版照片 (by @liyue_ai) -->
-### Case 209: [写实感人物竖版照片](https://x.com/liyue_ai/status/2057371613059002495) (by [@liyue_ai](https://x.com/liyue_ai))
+<!-- Case 90: 写实感人物竖版照片 (by @liyue_ai) -->
+### Case 90: [写实感人物竖版照片](https://x.com/liyue_ai/status/2057371613059002495) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
@@ -2036,8 +2051,8 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 不要二次元，不要3D CG，不要摄影棚大片，不要低质粗糙照片，不要过度噪点，不要明显脏感，不要过度磨皮，不要塑料皮肤，不要畸形手指，不要多余手指，不要背景纯白。
 ```
 
-<!-- Case 210: Y2K Japanese Street Editorial Poster (by @noorlewisx) -->
-### Case 210: [Y2K Japanese Street Editorial Poster](https://x.com/noorlewisx/status/2057349206025847224) (by [@noorlewisx](https://x.com/noorlewisx))
+<!-- Case 91: Y2K Japanese Street Editorial Poster (by @noorlewisx) -->
+### Case 91: [Y2K Japanese Street Editorial Poster](https://x.com/noorlewisx/status/2057349206025847224) (by [@noorlewisx](https://x.com/noorlewisx))
 
 | Output |
 | :----: |
@@ -2049,8 +2064,8 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 Create a bold Y2K Japanese street-editorial collage poster with a clean high-fashion magazine aesthetic, gritty paper textures, torn magazine cutouts, distressed ink splashes, and urban Tokyo-inspired design.
 ```
 
-<!-- Case 211: Editorial Male Portrait (by @frametheory058) -->
-### Case 211: [Editorial Male Portrait](https://x.com/frametheory058/status/2057309251048206778) (by [@frametheory058](https://x.com/frametheory058))
+<!-- Case 92: Editorial Male Portrait (by @frametheory058) -->
+### Case 92: [Editorial Male Portrait](https://x.com/frametheory058/status/2057309251048206778) (by [@frametheory058](https://x.com/frametheory058))
 
 | Output |
 | :----: |
@@ -2062,8 +2077,8 @@ Create a bold Y2K Japanese street-editorial collage poster with a clean high-fas
 Ultra-realistic 8K editorial male portrait of the uploaded man, using his exact face as the ONLY identity reference — preserve 100% facial structure, jawline, hairstyle volume, beard texture, skin tone, eye shape, pores, and natural imperfections with zero beautification or face alteration. Luxury “quiet wealth” aesthetic blended with cinematic Instagram masculinity. Centered close-up composition, direct eye contact, calm dominant expression, slightly serious mood, no smile. Styled in a fitted black turtleneck under a premium black tailored blazer, no accessories. Dark emerald-green cinematic studio gradient background with soft atmospheric depth. Shot on an 85mm lens at f/1.8 with razor-sharp focus on the eyes, creamy bokeh, ultra-detailed skin texture, visible beard strands, realistic hair fibers, HDR dynamic range, deep contrast shadows, subtle rim light around hair and jawline, soft key light from front-left sculpting the face naturally. Premium GQ magazine color grading, luxury fashion campaign vibe, hyper-realistic photorealism, dramatic yet minimal composition, insanely detailed, rich blacks, elite masculine aura, emotionally captivating, instantly viral social media quality, masterpiece-level realism, natural cinematic skin, modern billionaire aesthetic, studio perfection, award-winning editorial photography --ar 4:5
 ```
 
-<!-- Case 212: Avant-Garde Tokyo Fashion Zine Poster (by @john_my07) -->
-### Case 212: [Avant-Garde Tokyo Fashion Zine Poster](https://x.com/john_my07/status/2057319214739046552) (by [@john_my07](https://x.com/john_my07))
+<!-- Case 93: Avant-Garde Tokyo Fashion Zine Poster (by @john_my07) -->
+### Case 93: [Avant-Garde Tokyo Fashion Zine Poster](https://x.com/john_my07/status/2057319214739046552) (by [@john_my07](https://x.com/john_my07))
 
 | Output |
 | :----: |
@@ -2079,8 +2094,8 @@ Graphic styling: oversized experimental Japanese typography integrated into the 
 Overall mood: clean but rebellious, premium Japanese street-editorial energy, cinematic contrast, muted neutral palette with charcoal, ivory, faded silver, and washed earth tones, subtle flash photography feel, raw fashion photography realism, modern visual culture poster design, highly detailed luxury collage artwork, sharp focus, authentic print imperfections, ultra high resolution, 8K aesthetic, absolutely no kawaii elements, no pastel tones, no cartoon styling.
 ```
 
-<!-- Case 213: Miki Style Line Art Portrait (by @ChillaiKalan__) -->
-### Case 213: [Miki Style Line Art Portrait](https://x.com/ChillaiKalan__/status/2057286038624878604) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+<!-- Case 94: Miki Style Line Art Portrait (by @ChillaiKalan__) -->
+### Case 94: [Miki Style Line Art Portrait](https://x.com/ChillaiKalan__/status/2057286038624878604) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
 
 | Output |
 | :----: |
@@ -2096,8 +2111,8 @@ Lighting & Color: Soft diffused natural daylight from the upper-left, illuminati
 Composition: Profile chest-up bust shot portrait, composed cleanly, with a calm, nostalgic atmosphere.
 ```
 
-<!-- Case 214: Korean Beauty Ultra-Realistic Portrait (by @ZephyraLeigh) -->
-### Case 214: [Korean Beauty Ultra-Realistic Portrait](https://x.com/ZephyraLeigh/status/2057315596862370103) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
+<!-- Case 95: Korean Beauty Ultra-Realistic Portrait (by @ZephyraLeigh) -->
+### Case 95: [Korean Beauty Ultra-Realistic Portrait](https://x.com/ZephyraLeigh/status/2057315596862370103) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
 
 | Output |
 | :----: |
@@ -2109,8 +2124,8 @@ Composition: Profile chest-up bust shot portrait, composed cleanly, with a calm,
 low quality, blurry, distorted anatomy, extra fingers, bad hands, unrealistic smile, messy hair, cartoon, anime, watermark, logo, text, noisy image, oversaturated colors, poorly drawn face, low resolution, bad proportions. 1744x2336
 ```
 
-<!-- Case 215: Cinematic B&W Portrait (by @Ciri_ai) -->
-### Case 215: [Cinematic B&W Portrait](https://x.com/Ciri_ai/status/2057318412175757523) (by [@Ciri_ai](https://x.com/Ciri_ai))
+<!-- Case 96: Cinematic B&W Portrait (by @Ciri_ai) -->
+### Case 96: [Cinematic B&W Portrait](https://x.com/Ciri_ai/status/2057318412175757523) (by [@Ciri_ai](https://x.com/Ciri_ai))
 
 | Output |
 | :----: |
@@ -2122,8 +2137,8 @@ low quality, blurry, distorted anatomy, extra fingers, bad hands, unrealistic sm
 A hyper-realistic, cinematic black-and-white portrait of a woman caught in mid-motion, her face partially obscured by sweeping hair strands and intentional motion blur. The subject is framed from the shoulders up, slightly off-center, with her head turning laterally as if pulled by momentum. Long exposure creates luminous horizontal light streaks behind her, suggesting an urban night environment dissolving into abstraction.
 ```
 
-<!-- Case 216: Artistic Sketch Portrait Young Man (by @iamsofiaijaz) -->
-### Case 216: [Artistic Sketch Portrait Young Man](https://x.com/iamsofiaijaz/status/2057440838033252767) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+<!-- Case 97: Artistic Sketch Portrait Young Man (by @iamsofiaijaz) -->
+### Case 97: [Artistic Sketch Portrait Young Man](https://x.com/iamsofiaijaz/status/2057440838033252767) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
 
 | Output |
 | :----: |
@@ -2135,8 +2150,8 @@ A hyper-realistic, cinematic black-and-white portrait of a woman caught in mid-m
 Create a unique artistic sketch-style portrait of a modern young man wearing black sunglasses, with textured pencil and ink drawing effects mixed with abstract collage elements. Change the shirt color to deep olive green with soft watercolor shading. Add layered geometric frames around the face, expressive cross-hatching, ink splashes, handwritten typography notes, and contemporary fashion mood-board aesthetics. Keep the hairstyle detailed and voluminous with realistic sketch strokes. Use an off-white textured paper background with artistic grunge accents, dynamic composition, and editorial magazine-style illustration. High detail, cinematic lighting, modern urban art style, creative mixed-media sketch effect.
 ```
 
-<!-- Case 217: NBA Legend Mid-Air Action Poster (by @Taaruk_) -->
-### Case 217: [NBA Legend Mid-Air Action Poster](https://x.com/Taaruk_/status/2057491440406810988) (by [@Taaruk_](https://x.com/Taaruk_))
+<!-- Case 98: NBA Legend Mid-Air Action Poster (by @Taaruk_) -->
+### Case 98: [NBA Legend Mid-Air Action Poster](https://x.com/Taaruk_/status/2057491440406810988) (by [@Taaruk_](https://x.com/Taaruk_))
 
 | Output |
 | :----: |
@@ -2148,8 +2163,8 @@ Create a unique artistic sketch-style portrait of a modern young man wearing bla
 Dynamic NBA legend poster design, iconic basketball superstar in mid-air action pose performing dunk, jumpshot, or intense celebration, cinematic sports illustration style, highly detailed muscular anatomy, dramatic motion, realistic face with painterly polygon brush texture, explosive paint splashes behind character matching team colors, bold typography with player name in huge vertical letters, motivational quote text layout, sports stats and achievements infographic, clean minimal cream background, modern editorial composition.
 ```
 
-<!-- Case 218: Korean Beauty Fashion Portrait (by @Sheldon056) -->
-### Case 218: [Korean Beauty Fashion Portrait](https://x.com/Sheldon056/status/2057296658191483236) (by [@Sheldon056](https://x.com/Sheldon056))
+<!-- Case 99: Korean Beauty Fashion Portrait (by @Sheldon056) -->
+### Case 99: [Korean Beauty Fashion Portrait](https://x.com/Sheldon056/status/2057296658191483236) (by [@Sheldon056](https://x.com/Sheldon056))
 
 | Output |
 | :----: |
@@ -2161,8 +2176,8 @@ Dynamic NBA legend poster design, iconic basketball superstar in mid-air action 
 Create a high-quality “chibi sticker diary portrait” based on the uploaded real-life photo. Preserve the subject’s original identity, realistic facial structure, hairstyle, hair color, glasses, outfit, pose, proportions, lighting, and background. Keep the main subject photorealistic and do not transform the entire image into a full illustration.
 ```
 
-<!-- Case 219: Cinematic Football Portrait Poster (by @de_mon010) -->
-### Case 219: [Cinematic Football Portrait Poster](https://x.com/de_mon010/status/2057375542652064220) (by [@de_mon010](https://x.com/de_mon010))
+<!-- Case 100: Cinematic Football Portrait Poster (by @de_mon010) -->
+### Case 100: [Cinematic Football Portrait Poster](https://x.com/de_mon010/status/2057375542652064220) (by [@de_mon010](https://x.com/de_mon010))
 
 | Output |
 | :----: |
@@ -2174,8 +2189,8 @@ Create a high-quality “chibi sticker diary portrait” based on the uploaded r
 Ultra realistic cinematic football poster of a stylish young South Asian male footballer with voluminous messy black hair, sharp jawline, trimmed beard, glowing fair skin, wearing Portugal national team red jersey with number 7. Multi-layered dramatic sports collage composition with three different poses — smiling front portrait pointing at Portugal badge, intense side profile close-up, and back pose showing custom name “HASANUR 7” on jersey. Dynamic action shot at the bottom celebratingon football field with clenched fists and soccer ball. Dark stormy sky with lightning, glowing stadium lights, red smoke flares, flying embers, Portugal flag waving in background, intense red and blue cinematic color grading, ultra detailed facial features, realistic skin texture, high contrast sports photography style, epic FIFA World Cup poster aesthetic, shallow depth of field, hyper realistic, 8K, vertical wallpaper composition.
 ```
 
-<!-- Case 220: Switzerland Watercolor Travel Poster (by @Sairah_0) -->
-### Case 220: [Switzerland Watercolor Travel Poster](https://x.com/Sairah_0/status/2057302629408276624) (by [@Sairah_0](https://x.com/Sairah_0))
+<!-- Case 101: Switzerland Watercolor Travel Poster (by @Sairah_0) -->
+### Case 101: [Switzerland Watercolor Travel Poster](https://x.com/Sairah_0/status/2057302629408276624) (by [@Sairah_0](https://x.com/Sairah_0))
 
 | Output |
 | :----: |
@@ -2187,8 +2202,8 @@ Ultra realistic cinematic football poster of a stylish young South Asian male fo
 (Switzerland Poster)
 ```
 
-<!-- Case 221: Cinematic Lifestyle Outdoor Portrait (by @aiwithaly) -->
-### Case 221: [Cinematic Lifestyle Outdoor Portrait](https://x.com/aiwithaly/status/2057417304628248645) (by [@aiwithaly](https://x.com/aiwithaly))
+<!-- Case 102: Cinematic Lifestyle Outdoor Portrait (by @aiwithaly) -->
+### Case 102: [Cinematic Lifestyle Outdoor Portrait](https://x.com/aiwithaly/status/2057417304628248645) (by [@aiwithaly](https://x.com/aiwithaly))
 
 | Output |
 | :----: |
@@ -2200,8 +2215,8 @@ Ultra realistic cinematic football poster of a stylish young South Asian male fo
 Cinematic lifestyle portrait of a cheerful young woman sitting on a rustic wooden bench in a lush botanical courtyard, holding an iced coffee in a clear plastic cup with straw, smiling naturally at camera, short wavy dark brown hair, soft natural makeup, oversized pastel pink graphic t-shirt with vintage sun illustration, white shorts, white chunky sneakers with orange soles, one leg extended toward camera creating dramatic perspective, relaxed summer aesthetic, golden hour sunlight filtering through tropical leaves, luxury university campus or historic garden background with stone architecture and large windows, shallow depth of field, warm tones, candid street photography style, ultra realistic skin texture, cozy youthful vibe, DSLR quality, high detail, photorealistic, dynamic low-angle composition, soft shadows, fashion editorial look, 8k.
 ```
 
-<!-- Case 222: Luxury Cycling Storyboard Poster (by @Strength04_X) -->
-### Case 222: [Luxury Cycling Storyboard Poster](https://x.com/Strength04_X/status/2057348086247358551) (by [@Strength04_X](https://x.com/Strength04_X))
+<!-- Case 103: Luxury Cycling Storyboard Poster (by @Strength04_X) -->
+### Case 103: [Luxury Cycling Storyboard Poster](https://x.com/Strength04_X/status/2057348086247358551) (by [@Strength04_X](https://x.com/Strength04_X))
 
 | Output |
 | :----: |
@@ -2213,8 +2228,8 @@ Cinematic lifestyle portrait of a cheerful young woman sitting on a rustic woode
 - Step 1: Generate storyboard with GPT Image 2
 ```
 
-<!-- Case 223: Y2K Japanese Street Collage Poster (by @Kashberg_0) -->
-### Case 223: [Y2K Japanese Street Collage Poster](https://x.com/Kashberg_0/status/2057288879150182779) (by [@Kashberg_0](https://x.com/Kashberg_0))
+<!-- Case 104: Y2K Japanese Street Collage Poster (by @Kashberg_0) -->
+### Case 104: [Y2K Japanese Street Collage Poster](https://x.com/Kashberg_0/status/2057288879150182779) (by [@Kashberg_0](https://x.com/Kashberg_0))
 
 | Output |
 | :----: |
@@ -2226,8 +2241,8 @@ Cinematic lifestyle portrait of a cheerful young woman sitting on a rustic woode
 Create a bold Y2K Japanese street-editorial collage poster with a clean high-fashion magazine aesthetic, gritty paper textures, torn magazine cutouts, distressed ink splashes, and urban Tokyo-inspired design.
 ```
 
-<!-- Case 224: Cosmic Garden Fantasy Portrait (by @DoctorAmna11) -->
-### Case 224: [Cosmic Garden Fantasy Portrait](https://x.com/DoctorAmna11/status/2057463557349117968) (by [@DoctorAmna11](https://x.com/DoctorAmna11))
+<!-- Case 105: Cosmic Garden Fantasy Portrait (by @DoctorAmna11) -->
+### Case 105: [Cosmic Garden Fantasy Portrait](https://x.com/DoctorAmna11/status/2057463557349117968) (by [@DoctorAmna11](https://x.com/DoctorAmna11))
 
 | Output |
 | :----: |
@@ -2239,8 +2254,8 @@ Create a bold Y2K Japanese street-editorial collage poster with a clean high-fas
 Ultra-realistic cinematic fantasy-science portrait of a beautiful young female scientist inside a futuristic bio-cosmic laboratory garden at night, inspired by dreamy sci-fi storytelling. She is leaning over a glowing holographic solar system projection floating above a sleek glass table, gently touching a luminous orbit line with curiosity and wonder. Her facial features are soft, elegant, and expressive with natural makeup, thick defined eyebrows, warm smile, glowing skin, and loosely tied dark brown hair with cinematic flyaway strands.
 ```
 
-<!-- Case 225: Streetwear Magazine Cover Portrait (by @harboriis) -->
-### Case 225: [Streetwear Magazine Cover Portrait](https://x.com/harboriis/status/2057402894014689418) (by [@harboriis](https://x.com/harboriis))
+<!-- Case 106: Streetwear Magazine Cover Portrait (by @harboriis) -->
+### Case 106: [Streetwear Magazine Cover Portrait](https://x.com/harboriis/status/2057402894014689418) (by [@harboriis](https://x.com/harboriis))
 
 | Output |
 | :----: |
@@ -2253,8 +2268,8 @@ vertical streetwear magazine cover template, in a warm chocolate brown color pal
 snippets, and grunge borders, creating a cohesive Japanese street-culture aesthetic.
 ```
 
-<!-- Case 226: Cat-Eye Glasses Fashion Portrait (by @ChillaiKalan__) -->
-### Case 226: [Cat-Eye Glasses Fashion Portrait](https://x.com/ChillaiKalan__/status/2057542507928736240) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+<!-- Case 107: Cat-Eye Glasses Fashion Portrait (by @ChillaiKalan__) -->
+### Case 107: [Cat-Eye Glasses Fashion Portrait](https://x.com/ChillaiKalan__/status/2057542507928736240) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
 
 | Output |
 | :----: |
@@ -2266,8 +2281,8 @@ snippets, and grunge borders, creating a cohesive Japanese street-culture aesthe
 A young woman with long, dark hair and striking cat-eye glasses is captured in a studio portrait against a solid blue background. She is turned away from the camera, looking over her shoulder with a confident gaze. Her makeup is subtle, with a focus on rosy cheeks and a warm-toned lipstick. She wears a dark, high-necked top that accentuates the curve of her neck and shoulder. The lighting is dramatic, with a strong light source from the left, casting a bright highlight on her face and shoulder, while the right side of her body and hair fall into shadow. The overall mood is sophisticated and alluring.
 ```
 
-<!-- Case 227: Bold Monochrome Identity Portrait (by @harboriis) -->
-### Case 227: [Bold Monochrome Identity Portrait](https://x.com/harboriis/status/2057475687276253495) (by [@harboriis](https://x.com/harboriis))
+<!-- Case 108: Bold Monochrome Identity Portrait (by @harboriis) -->
+### Case 108: [Bold Monochrome Identity Portrait](https://x.com/harboriis/status/2057475687276253495) (by [@harboriis](https://x.com/harboriis))
 
 | Output |
 | :----: |
@@ -2279,8 +2294,8 @@ A young woman with long, dark hair and striking cat-eye glasses is captured in a
 Use my uploaded image as the face reference.
 ```
 
-<!-- Case 228: Clean Tech Advertisement Poster (by @Strength04_X) -->
-### Case 228: [Clean Tech Advertisement Poster](https://x.com/Strength04_X/status/2057389379971334309) (by [@Strength04_X](https://x.com/Strength04_X))
+<!-- Case 109: Clean Tech Advertisement Poster (by @Strength04_X) -->
+### Case 109: [Clean Tech Advertisement Poster](https://x.com/Strength04_X/status/2057389379971334309) (by [@Strength04_X](https://x.com/Strength04_X))
 
 | Output |
 | :----: |
@@ -2292,8 +2307,8 @@ Use my uploaded image as the face reference.
 - A clean tech advertisement poster. A stylish young woman in a white minimalist outfit tilts her head with eyes closed enjoying music beside a giant white wireless earbud case 2.5x her height open and glowing softly, "AURA" engraved on the case lid in silver. Pure clean white background with subtle soft shadows and faint sound wave lines. Ultra minimal thin sans-serif typography "AURA" in light grey filling the background.
 ```
 
-<!-- Case 229: Flat Vector Editorial Pattern Illustration (by @Goodmanprotocol) -->
-### Case 229: [Flat Vector Editorial Pattern Illustration](https://x.com/Goodmanprotocol/status/2057347670130511912) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+<!-- Case 110: Flat Vector Editorial Pattern Illustration (by @Goodmanprotocol) -->
+### Case 110: [Flat Vector Editorial Pattern Illustration](https://x.com/Goodmanprotocol/status/2057347670130511912) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
 | Output |
 | :----: |
@@ -2305,8 +2320,8 @@ Use my uploaded image as the face reference.
 Create a sophisticated flat-vector editorial pattern illustration of [Chicago bulls], composed as a seamless lifestyle-art collage combining iconic landmarks, local culture, vacation scenes, and symbolic city objects.
 ```
 
-<!-- Case 230: Korean Beauty Identity Portrait (by @linaa_ai) -->
-### Case 230: [Korean Beauty Identity Portrait](https://x.com/linaa_ai/status/2057400518604206372) (by [@linaa_ai](https://x.com/linaa_ai))
+<!-- Case 111: Korean Beauty Identity Portrait (by @linaa_ai) -->
+### Case 111: [Korean Beauty Identity Portrait](https://x.com/linaa_ai/status/2057400518604206372) (by [@linaa_ai](https://x.com/linaa_ai))
 
 | Output |
 | :----: |
@@ -2318,8 +2333,8 @@ Create a sophisticated flat-vector editorial pattern illustration of [Chicago bu
 Using the provided reference image, create an ultra-realistic Korean street-fashion editorial portrait of a stylish young woman posing outdoors beside a bold orange wall under bright natural sunlight. She is wearing an oversized pastel mint green blazer with structured tailoring, matching high-waisted wide-leg trousers, and a fitted dark brown cropped tube top. Add luxury silver accessories including statement earrings, layered necklaces, rings, and a decorative chain detail attached to the blazer. She has long sleek straight dark brown hair, flawless porcelain skin, soft glam makeup with nude matte lips, sharp brows, and a confident elegant expression. Relaxed fashion pose with one hand against the wall, modern chic attitude. Background features clear blue sky, soft urban scenery, cinematic sunlight shadows, and vibrant color contrast between the orange wall and mint outfit. High-fashion editorial photography, Vogue Korea inspired, luxury street style aesthetic, ultra-detailed fabric textures, realistic skin detail, sharp focus, soft depth of field, premium color grading, photorealistic, 85mm lens, 8k. Negative Prompt: low quality, blurry, bad anatomy, distorted face, extra fingers, bad hands, oversaturated colors, messy hair, duplicate accessories, cartoon, anime, watermark, logo, text, noisy image, low resolution, unrealistic skin, poorly drawn features. 1744x2336
 ```
 
-<!-- Case 231: Hollywood Luxury Anime Fashion Portrait (by @Mind_Boticni) -->
-### Case 231: [Hollywood Luxury Anime Fashion Portrait](https://x.com/Mind_Boticni/status/2057519900676280623) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
+<!-- Case 112: Hollywood Luxury Anime Fashion Portrait (by @Mind_Boticni) -->
+### Case 112: [Hollywood Luxury Anime Fashion Portrait](https://x.com/Mind_Boticni/status/2057519900676280623) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
 
 | Output |
 | :----: |
@@ -2331,8 +2346,8 @@ Using the provided reference image, create an ultra-realistic Korean street-fash
 Create a premium 1:1 Hollywood-style luxury anime fashion editorial collage featuring the same stylish Japanese college male anime character with perfectly consistent facial identity across all frames. The character should have sharp anime facial design (clean jawline, expressive eyes, refined proportions) with ultra-detailed semi-realistic anime shading.Include multiple cinematic moments: close-up beauty anime portrait with soft glowing skin, walking through neon Tokyo streets in designer streetwear, sitting in modern university classroom with confident calm expression, rooftop golden hour silhouette with wind effects, and stylish mirror selfie in luxury dorm room.Use cinematic anime lighting, soft bloom, depth of field, film grain, and luxury editorial composition.Add layered magazine collage style with torn paper textures, glossy reflections
 ```
 
-<!-- Case 232: Identity Reference Beauty Portrait (by @heyfatema) -->
-### Case 232: [Identity Reference Beauty Portrait](https://x.com/heyfatema/status/2057345382800306192) (by [@heyfatema](https://x.com/heyfatema))
+<!-- Case 113: Identity Reference Beauty Portrait (by @heyfatema) -->
+### Case 113: [Identity Reference Beauty Portrait](https://x.com/heyfatema/status/2057345382800306192) (by [@heyfatema](https://x.com/heyfatema))
 
 | Output |
 | :----: |
@@ -2344,8 +2359,8 @@ Create a premium 1:1 Hollywood-style luxury anime fashion editorial collage feat
 Use only my uploaded portrait photo as the identity reference. Accurately preserve my real face shape, facial proportions, facial contours, skin tone, hairstyle outline, hair volume, hairline, and overall natural presence. Do not turn me into another person. Do not over-beautify the face. Do not create an influencer-style face, plastic skin, or anime look.
 ```
 
-<!-- Case 233: Pixel Art Character Portrait (by @oggii_0) -->
-### Case 233: [Pixel Art Character Portrait](https://x.com/oggii_0/status/2057504810598089187) (by [@oggii_0](https://x.com/oggii_0))
+<!-- Case 114: Pixel Art Character Portrait (by @oggii_0) -->
+### Case 114: [Pixel Art Character Portrait](https://x.com/oggii_0/status/2057504810598089187) (by [@oggii_0](https://x.com/oggii_0))
 
 | Output |
 | :----: |
@@ -2357,8 +2372,8 @@ Use only my uploaded portrait photo as the identity reference. Accurately preser
 Create a cute and stylish pixel-art illustration based on the uploaded image in the style of:
 ```
 
-<!-- Case 234: Negative Prompt Portrait Template (by @ZephyraLeigh) -->
-### Case 234: [Negative Prompt Portrait Template](https://x.com/ZephyraLeigh/status/2057633608459059272) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
+<!-- Case 115: Negative Prompt Portrait Template (by @ZephyraLeigh) -->
+### Case 115: [Negative Prompt Portrait Template](https://x.com/ZephyraLeigh/status/2057633608459059272) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
 
 | Output |
 | :----: |
@@ -2370,8 +2385,8 @@ Create a cute and stylish pixel-art illustration based on the uploaded image in 
 low quality, blurry, distorted face, extra fingers, bad hands, duplicate facial features, unrealistic reflection, cartoon, anime, watermark, logo, text, noisy image, oversaturated colors, poorly drawn eyes, bad anatomy, broken proportions, low resolution.
 ```
 
-<!-- Case 235: Identity Reference Fashion Portrait (by @mehvishs25) -->
-### Case 235: [Identity Reference Fashion Portrait](https://x.com/mehvishs25/status/2057635435330064495) (by [@mehvishs25](https://x.com/mehvishs25))
+<!-- Case 116: Identity Reference Fashion Portrait (by @mehvishs25) -->
+### Case 116: [Identity Reference Fashion Portrait](https://x.com/mehvishs25/status/2057635435330064495) (by [@mehvishs25](https://x.com/mehvishs25))
 
 | Output |
 | :----: |
@@ -2389,8 +2404,8 @@ Color palette and mood: muted neutral tones with charcoal black, faded white, so
 Avoid: pastel colors, kawaii styling, cartoon elements, bubbles, exaggerated neon effects, anime aesthetics, overly colorful backgrounds, unrealistic beauty filters, duplicated faces, distorted anatomy, or fake AI-looking skin.
 ```
 
-<!-- Case 236: Pixar 3D Character Design Sheet (by @TechieBySA) -->
-### Case 236: [Pixar 3D Character Design Sheet](https://x.com/TechieBySA/status/2057511465884557754) (by [@TechieBySA](https://x.com/TechieBySA))
+<!-- Case 117: Pixar 3D Character Design Sheet (by @TechieBySA) -->
+### Case 117: [Pixar 3D Character Design Sheet](https://x.com/TechieBySA/status/2057511465884557754) (by [@TechieBySA](https://x.com/TechieBySA))
 
 | Output |
 | :----: |
@@ -2402,8 +2417,8 @@ Avoid: pastel colors, kawaii styling, cartoon elements, bubbles, exaggerated neo
 “Create a Pixar 3D style character design sheet. Clean white background. Two characters side by side with a clean dividing line. Bold brushstroke-style title at the top: STEVE VS THE PLANK. Subtitle beneath: 60 seconds. Feels like a week.
 ```
 
-<!-- Case 237: Automotive Design Deconstruction Poster (by @Gdgtify) -->
-### Case 237: [Automotive Design Deconstruction Poster](https://x.com/Gdgtify/status/2057541939587878914) (by [@Gdgtify](https://x.com/Gdgtify))
+<!-- Case 118: Automotive Design Deconstruction Poster (by @Gdgtify) -->
+### Case 118: [Automotive Design Deconstruction Poster](https://x.com/Gdgtify/status/2057541939587878914) (by [@Gdgtify](https://x.com/Gdgtify))
 
 | Output |
 | :----: |
@@ -2415,8 +2430,8 @@ Avoid: pastel colors, kawaii styling, cartoon elements, bubbles, exaggerated neo
 You are an AI automotive designer that deconstructs any object's aerodynamic philosophy, material science, and functional poetry to birth a drivable sculpture. SEMANTIC INFERENCE FRAMEWORK Kinetic DNA Analysis:  Motion Signature: Is it about cutting through or flowing with? Power Source Metaphor: Does it suggest electric silence or combustion rage? Stance Philosophy: Does it crouch predatory or float serene?  Transmutation Logic: When the object embodies:  Sharp edges, aggressive angles, predatory stance, weapon-like intent → Manifest as: Track-Focused Hypercar (exposed carbon, active aero, GT3 energy)  When the object embodies:  Smooth curves, organic flow, biomimicry, effortless grace → Manifest as: Electric Grand Tourer (seamless body, hidden intakes, silent luxury)  When the object embodies:  Brutalist geometry, industrial strength, utilitarian honesty → Manifest as: Safari Rally Weapon (lifted suspension, protective armor, adventure-ready)  OUTPUT: Full car render (3/4 front view), interior detail shot, spec sheet (0-60, top speed, powertrain), brand collaboration ("Pagani x Cactus Edition").
 ```
 
-<!-- Case 238: Japanese Graffiti Portrait Poster (by @robertsmith_ai) -->
-### Case 238: [Japanese Graffiti Portrait Poster](https://x.com/robertsmith_ai/status/2057627319263707543) (by [@robertsmith_ai](https://x.com/robertsmith_ai))
+<!-- Case 119: Japanese Graffiti Portrait Poster (by @robertsmith_ai) -->
+### Case 119: [Japanese Graffiti Portrait Poster](https://x.com/robertsmith_ai/status/2057627319263707543) (by [@robertsmith_ai](https://x.com/robertsmith_ai))
 
 | Output |
 | :----: |
@@ -2428,8 +2443,8 @@ You are an AI automotive designer that deconstructs any object's aerodynamic phi
 Create a high-detail portrait poster in a bold Japanese graffiti-inspired art style, combining modern urban street aesthetics with expressive Japanese visual culture. The poster should feature dynamic graffiti typography, layered spray-paint textures, hand-drawn symbols, abstract paint splashes, neon brush strokes, urban sticker elements, Japanese calligraphy accents, and decorative ornaments that strongly reinforce the energetic atmosphere of the design. The overall composition should feel artistic, rebellious, fashionable, and visually striking, while still maintaining a premium editorial poster quality instead of looking messy or overdone. Humanity somehow turned vandalism into luxury wall art. Impressive species. The subject must not replicate the exact pose or expression from the reference photo. Instead, create a completely new pose that feels natural, confident, and full of life. The expression should appear emotionally expressive, charismatic, and engaging, avoiding stiff, awkward, flat, or emotionless body language. The pose should reflect the elegance and sophistication commonly seen in international fashion models, with stylish posture, natural movement, and subtle attitude that enhances the overall cinematic fashion aesthetic. The outfit should feature contemporary stylish casual fashion with strong visual appeal. Avoid plain or repetitive clothing designs. Use fashionable layering, modern streetwear inspiration, premium casual styling, and a balanced combination of colors, patterns, textures, and fabric types that create a rich and non-monotonous appearance. The clothing should feel trendy, fashionable, youthful, and visually premium while still fitting naturally into the Japanese graffiti poster concept. The background and poster decorations should be filled with thematic urban Japanese-inspired visual elements such as graffiti walls, spray textures, painted symbols, urban signage, layered stickers, modern Japanese graphic motifs, abstract shapes, paint drips, street fashion aesthetics, and stylish decorative compositions that enhance depth and artistic intensity without distracting from the subject. Lighting should feel cinematic and fashionable, with strong contrast, clean highlights, realistic skin texture, and high-end editorial poster quality. The final result must look like a premium modern street-fashion campaign poster with highly detailed textures, balanced composition, vibrant color harmony, realistic proportions, ultra-sharp focus, and immersive visual storytelling. Ultra-detailed, highly aesthetic, premium composition, realistic texture rendering, fashionable urban atmosphere, cinematic quality, poster-ready design, 8K ultra high resolution.
 ```
 
-<!-- Case 239: Brand Identity Portrait (by @Shinning1010) -->
-### Case 239: [Brand Identity Portrait](https://x.com/Shinning1010/status/2057332420383494441) (by [@Shinning1010](https://x.com/Shinning1010))
+<!-- Case 120: Brand Identity Portrait (by @Shinning1010) -->
+### Case 120: [Brand Identity Portrait](https://x.com/Shinning1010/status/2057332420383494441) (by [@Shinning1010](https://x.com/Shinning1010))
 
 | Output |
 | :----: |
@@ -2441,8 +2456,8 @@ Create a high-detail portrait poster in a bold Japanese graffiti-inspired art st
 Use my uploaded portrait photo as the only identity reference. Preserve only the person’s real facial features, face shape, hairstyle, hair color, skin tone, and overall temperament. Generate an ultra-realistic close-up portrait in natural light. The subject is shown in side profile, gently lowering her head toward a blooming white lily. The flower is placed in the foreground and covered with visible dewdrops. Warm golden backlight comes from the side and behind, creating a soft glowing rim light on the hair, with slight lens flare and a shallow depth of field. The background is a dark green natural blur. The expression is calm, soft, and natural, with the subject not looking at the camera. Keep realistic skin texture, clear eyelashes, and detailed hair strands. The overall mood is romantic, clean, dreamy, and cinematic, like a summer morning photo. Vertical 9:16, high-quality realistic photography, no text, no watermark
 ```
 
-<!-- Case 240: Outdoor Lifestyle Open Sky Portrait (by @Shorelyn_) -->
-### Case 240: [Outdoor Lifestyle Open Sky Portrait](https://x.com/Shorelyn_/status/2057304323047240086) (by [@Shorelyn_](https://x.com/Shorelyn_))
+<!-- Case 121: Outdoor Lifestyle Open Sky Portrait (by @Shorelyn_) -->
+### Case 121: [Outdoor Lifestyle Open Sky Portrait](https://x.com/Shorelyn_/status/2057304323047240086) (by [@Shorelyn_](https://x.com/Shorelyn_))
 
 | Output |
 | :----: |
@@ -2647,7 +2662,8 @@ Create a 3:4 cinematic, atmospheric editorial portrait using the attached photo 
 <img src="../images/portrait_case257/output.jpg" width="500">
 
 ---
-### Case 258: Korean Fashion Collage Poster
+<!-- Case 128: Korean Fashion Collage Poster (by @saniaspeaks_) -->
+### Case 128: [Korean Fashion Collage Poster](https://x.com/saniaspeaks_/status/2059447270115029120) (by [@saniaspeaks_](https://x.com/saniaspeaks_))
 
 **Source**: [@saniaspeaks_](https://x.com/saniaspeaks_/status/2059447270115029120)
 
@@ -2663,7 +2679,8 @@ Young Korean woman in ultra-realistic style in the uploaded image, elegant colla
 ---
 
 ---
-### Case 259: Dreamy Japanese Summer Portrait
+<!-- Case 129: Dreamy Japanese Summer Portrait (by @Taaruk_) -->
+### Case 129: [Dreamy Japanese Summer Portrait](https://x.com/Taaruk_/status/2060752935588630990) (by [@Taaruk_](https://x.com/Taaruk_))
 
 **Source**: [@Taaruk_](https://x.com/Taaruk_/status/2060752935588630990)
 
@@ -2678,7 +2695,8 @@ dreamy summer afternoon in a quiet suburban neighborhood, beautiful young woman 
 <img src="../images/portrait_case259/output.jpg" width="500">
 
 ---
-### Case 260: Grunge Fashion Editorial Collage
+<!-- Case 130: Grunge Fashion Editorial Collage (by @AvelyrahnAI) -->
+### Case 130: [Grunge Fashion Editorial Collage](https://x.com/AvelyrahnAI/status/2060732082599743586) (by [@AvelyrahnAI](https://x.com/AvelyrahnAI))
 
 **Source**: [@AvelyrahnAI](https://x.com/AvelyrahnAI/status/2060732082599743586)
 
@@ -2692,7 +2710,8 @@ A high-fashion editorial portrait of a stylish woman with a long, thick French s
 <img src="../images/portrait_case260/output.jpg" width="500">
 
 ---
-### Case 261: Pop-Fashion Photobooth Strips
+<!-- Case 131: Pop-Fashion Photobooth Strips (by @Mind_Boticni) -->
+### Case 131: [Pop-Fashion Photobooth Strips](https://x.com/Mind_Boticni/status/2060959441889948116) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
 
 **Source**: [@Mind_Boticni](https://x.com/Mind_Boticni/status/2060959441889948116)
 
@@ -2715,7 +2734,8 @@ Vibrant contemporary aesthetic with neon pink, sky blue, and warm yellow highlig
 ---
 
 ---
-### Case 262: Boho Stone-Wall Portrait
+<!-- Case 132: Boho Stone-Wall Portrait (by @iamaiistudio) -->
+### Case 132: [Boho Stone-Wall Portrait](https://x.com/iamaiistudio/status/2061600215073996840) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2061600215073996840)
 
@@ -2734,7 +2754,8 @@ Use soft diffused natural daylight with even front illumination and gentle shado
 
 <img src="../images/portrait_case262/output.jpg" width="500">
 ---
-### Case 263: Ink Manuscript Side Portrait
+<!-- Case 133: Ink Manuscript Side Portrait (by @iamaiistudio) -->
+### Case 133: [Ink Manuscript Side Portrait](https://x.com/iamaiistudio/status/2061539512300511530) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2061539512300511530)
 
@@ -2753,7 +2774,8 @@ Use a pale aged-parchment background with subtle grain, faded paper texture, del
 
 <img src="../images/portrait_case263/output.jpg" width="500">
 ---
-### Case 264: Window-Light Cinematic Portrait
+<!-- Case 134: Window-Light Cinematic Portrait (by @Ozayrr_irl) -->
+### Case 134: [Window-Light Cinematic Portrait](https://x.com/Ozayrr_irl/status/2061439592549466615) (by [@Ozayrr_irl](https://x.com/Ozayrr_irl))
 
 **Source**: [@Ozayrr_irl](https://x.com/Ozayrr_irl/status/2061439592549466615)
 
@@ -2769,7 +2791,8 @@ Use the exact same face from the reference image and generate a Ultra realistic 
 ---
 
 ---
-### Case 265: Futuristic Martial Arts Heroine Portrait
+<!-- Case 135: Futuristic Martial Arts Heroine Portrait (by @vireonixx) -->
+### Case 135: [Futuristic Martial Arts Heroine Portrait](https://x.com/vireonixx/status/2062352968364818576) (by [@vireonixx](https://x.com/vireonixx))
 
 **Source**: [@vireonixx](https://x.com/vireonixx/status/2062352968364818576)
 
@@ -2795,7 +2818,8 @@ Hyper-detailed skin rendering, subsurface scattering, realistic global illuminat
 <img src="../images/portrait_case265/output.jpg" width="500">
 
 ---
-### Case 266: Under-Glass Worms-Eye Crowd Shot
+<!-- Case 136: Under-Glass Worms-Eye Crowd Shot (by @iamaiistudio) -->
+### Case 136: [Under-Glass Worms-Eye Crowd Shot](https://x.com/iamaiistudio/status/2062205313877762389) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062205313877762389)
 
@@ -2809,7 +2833,8 @@ Camera placed directly beneath a completely transparent glass floor, pointing st
 <img src="../images/portrait_case266/output.jpg" width="500">
 
 ---
-### Case 267: Black-and-White Identity Collage Grid
+<!-- Case 137: Black-and-White Identity Collage Grid (by @mehvishs25) -->
+### Case 137: [Black-and-White Identity Collage Grid](https://x.com/mehvishs25/status/2063293613514330224) (by [@mehvishs25](https://x.com/mehvishs25))
 
 **Source**: [@mehvishs25](https://x.com/mehvishs25/status/2063293613514330224)
 
@@ -2854,7 +2879,8 @@ Final processing should feature a rich monochrome conversion with smooth tonal t
 ```
 
 ---
-### Case 268: Plush Mascot Companion Portrait
+<!-- Case 138: Plush Mascot Companion Portrait (by @doctorwasif) -->
+### Case 138: [Plush Mascot Companion Portrait](https://x.com/doctorwasif/status/2063304967218475072) (by [@doctorwasif](https://x.com/doctorwasif))
 
 **Source**: [@doctorwasif](https://x.com/doctorwasif/status/2063304967218475072)
 
@@ -2872,7 +2898,8 @@ Use the uploaded portrait as the identity reference and preserve the person's re
 ```
 
 ---
-### Case 269: Editorial Y2K Identity Grid
+<!-- Case 139: Editorial Y2K Identity Grid (by @Ciri_ai) -->
+### Case 139: [Editorial Y2K Identity Grid](https://x.com/Ciri_ai/status/2063592048150909396) (by [@Ciri_ai](https://x.com/Ciri_ai))
 
 **Source**: [@Ciri_ai](https://x.com/Ciri_ai/status/2063592048150909396)
 
@@ -2887,7 +2914,8 @@ A vertical collage of three YZK photos. Using the uploaded selfie as the ONLY an
 ```
 
 ---
-### Case 270: Cool Grey Editorial 3x3
+<!-- Case 140: Cool Grey Editorial 3x3 (by @Mind_Boticni) -->
+### Case 140: [Cool Grey Editorial 3x3](https://x.com/Mind_Boticni/status/2063587170519314754) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
 
 **Source**: [@Mind_Boticni](https://x.com/Mind_Boticni/status/2063587170519314754)
 
@@ -2904,7 +2932,8 @@ Shots include: 1. tight cheek + neck close-up with blurred finger foreground (85
 ```
 
 ---
-### Case 271: Black-and-White Fashion Grid
+<!-- Case 141: Black-and-White Fashion Grid (by @j_smeaton99) -->
+### Case 141: [Black-and-White Fashion Grid](https://x.com/j_smeaton99/status/2063661848478859690) (by [@j_smeaton99](https://x.com/j_smeaton99))
 
 **Source**: [@j_smeaton99](https://x.com/j_smeaton99/status/2063661848478859690)
 
@@ -2949,7 +2978,8 @@ Final processing should feature a rich monochrome conversion with smooth tonal t
 ```
 
 ---
-### Case 272: Nightlife Restaurant Flash Collage
+<!-- Case 142: Nightlife Restaurant Flash Collage (by @ZephyraLeigh) -->
+### Case 142: [Nightlife Restaurant Flash Collage](https://x.com/ZephyraLeigh/status/2063656432864842045) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
 
 **Source**: [@ZephyraLeigh](https://x.com/ZephyraLeigh/status/2063656432864842045)
 
@@ -2980,7 +3010,8 @@ Pinterest aesthetic, Instagram nightlife photography, candid fashion editorial, 
 ```
 
 ---
-### Case 273: Vintage Newsstand Double Exposure
+<!-- Case 143: Vintage Newsstand Double Exposure (by @AiwithZohaib) -->
+### Case 143: [Vintage Newsstand Double Exposure](https://x.com/AiwithZohaib/status/2063754827017101475) (by [@AiwithZohaib](https://x.com/AiwithZohaib))
 
 **Source**: [@AiwithZohaib](https://x.com/AiwithZohaib/status/2063754827017101475)
 
@@ -2997,7 +3028,8 @@ Her exquisite face is blurred with motion, the outline of her figure slightly sw
 Follow : @AiwithZohaib
 ```
 
-### Case 274: [Fashion Casting Contact Sheet](https://x.com/Ciri_ai/status/2064027400426709259) (by [@Ciri_ai](https://x.com/Ciri_ai))
+<!-- Case 144: Fashion Casting Contact Sheet (by @Ciri_ai) -->
+### Case 144: [Fashion Casting Contact Sheet](https://x.com/Ciri_ai/status/2064027400426709259) (by [@Ciri_ai](https://x.com/Ciri_ai))
 
 ![Fashion Casting Contact Sheet](../../images/portrait_case274/output.jpg)
 
@@ -3007,7 +3039,8 @@ Black-and-white fashion casting contact sheet of [HUMAN] with [HAIR], arranged i
 ```
 
 
-### Case 275: [Identity-Locked Portrait Edit](https://x.com/Kashberg_0/status/2064022776600760625) (by [@Kashberg_0](https://x.com/Kashberg_0))
+<!-- Case 145: Identity-Locked Portrait Edit (by @Kashberg_0) -->
+### Case 145: [Identity-Locked Portrait Edit](https://x.com/Kashberg_0/status/2064022776600760625) (by [@Kashberg_0](https://x.com/Kashberg_0))
 
 ![Identity-Locked Portrait Edit](../../images/portrait_case275/output.jpg)
 
@@ -3089,7 +3122,8 @@ Negative prompt:
 - no watermark
 ```
 
-### Case 276: [High Angle Cinematic Portrait](https://x.com/AvelyrahnAI/status/2064547040508662240) (by [@AvelyrahnAI](https://x.com/AvelyrahnAI))
+<!-- Case 146: High Angle Cinematic Portrait (by @AvelyrahnAI) -->
+### Case 146: [High Angle Cinematic Portrait](https://x.com/AvelyrahnAI/status/2064547040508662240) (by [@AvelyrahnAI](https://x.com/AvelyrahnAI))
 
 ![High Angle Cinematic Portrait](../../images/portrait_case276/output.jpg)
 
@@ -3106,7 +3140,8 @@ Depth of Field: Latar belakangnya sangat buram (bokeh), membuat subjek wanita me
 Foto ini memiliki atmosfer yang sangat melankolis, artistik, dan sinematik. Komposisinya bermain dengan kontras antara cahaya hangat dan bayangan yang dalam, menciptakan kesan misterius namun intim.
 ```
 
-### Case 277: [Chiaroscuro Hyper-realistic Portrait](https://x.com/iamsofiaijaz/status/2064545265521217953) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+<!-- Case 147: Chiaroscuro Hyper-realistic Portrait (by @iamsofiaijaz) -->
+### Case 147: [Chiaroscuro Hyper-realistic Portrait](https://x.com/iamsofiaijaz/status/2064545265521217953) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
 
 ![Chiaroscuro Hyper-realistic Portrait](../../images/portrait_case277/output.jpg)
 
@@ -3118,7 +3153,8 @@ His hands are near the chest in a natural, precise pose, with the fingers gently
 The background is solid seamless black. Use strong directional studio lighting with rich contrast, clean shadow falloff, and realistic skin texture. Highlight fine details such as hair strands, beard bristles, eye moisture, facial texture, the watch face, metal bracelet reflections, and the silver ring. Shot with an 85mm portrait lens look, shallow depth of field, premium commercial photography, ultra-sharp focus, smooth natural skin transitions, cinematic contrast, no artificial plastic skin, no extra fingers, no distorted hands, no messy anatomy.
 ```
 
-### Case 278: [Kawaii Character Side Profile Portrait](https://x.com/VIBEQUIRKLABS/status/2064543699460354240) (by [@VIBEQUIRKLABS](https://x.com/VIBEQUIRKLABS))
+<!-- Case 148: Kawaii Character Side Profile Portrait (by @VIBEQUIRKLABS) -->
+### Case 148: [Kawaii Character Side Profile Portrait](https://x.com/VIBEQUIRKLABS/status/2064543699460354240) (by [@VIBEQUIRKLABS](https://x.com/VIBEQUIRKLABS))
 
 ![Kawaii Character Side Profile Portrait](../../images/portrait_case278/output.jpg)
 
@@ -3127,7 +3163,8 @@ The background is solid seamless black. Use strong directional studio lighting w
 Create a photorealistic editorial portrait of one 20-year-old Japanese or Korean female portrait subject with white frame, thin-frame glasses, worn normally on the face, lenses aligned over the eyes and small teardrop gemstone earring detail, delicate understated sparkle, natural basic body, about 160-165 cm visual height, balanced torso-to-leg ratio around 4:6, young seductive alluring beauty face, magnetic feminine facial balance, defined eyes and lips, collarbone-length layered hair, airy natural volume, soft face-framing movement, soft black-tea brown hair, muted brown-black salon tone. She is sitting on a chair that naturally fits the current scene. The setting is British record listening corner, turntable setup, stacked vinyl sleeves, bookshelf speakers, aged wood cabinet, lamp fixture, small side table, indoor rainy-day daylight environment, dim grey window brightness. She wears gothic casual knit-and-ruffle outfit, fitted knit top, lace camisole layer, large ribbon bow, high-waist layered ruffle mini skirt. Inspired by Leslie Kee, polished commercial portrait image language. Camera positioned on the subject's left side, 90-degree left profile view, ultra shallow depth of field.
 ```
 
-### Case 279: [Monochrome Vector Vogue Portrait](https://x.com/noorlewisx/status/2064539506305561076) (by [@noorlewisx](https://x.com/noorlewisx))
+<!-- Case 149: Monochrome Vector Vogue Portrait (by @noorlewisx) -->
+### Case 149: [Monochrome Vector Vogue Portrait](https://x.com/noorlewisx/status/2064539506305561076) (by [@noorlewisx](https://x.com/noorlewisx))
 
 ![Monochrome Vector Vogue Portrait](../../images/portrait_case279/output.jpg)
 
@@ -3142,7 +3179,8 @@ Illuminate the portrait with intense red neon rim lighting that traces the conto
 Set against a pure black background, emphasizing strong contrast and visual impact. Style the artwork with sharp vector edges, bold shadows, clean negative space, graphic-novel aesthetics, modern streetwear fashion energy, and premium poster-quality composition. Ultra-detailed yet minimalist, edgy, contemporary, visually powerful, and magazine-cover worthy. Strong confident female presence, cinematic attitude, luxury editorial feel, and flawless vector illustration quality.
 ```
 
-### Case 280: [Minimalist Vogue Editorial Cover](https://x.com/vireonixx/status/2064536416592552092) (by [@vireonixx](https://x.com/vireonixx))
+<!-- Case 150: Minimalist Vogue Editorial Cover (by @vireonixx) -->
+### Case 150: [Minimalist Vogue Editorial Cover](https://x.com/vireonixx/status/2064536416592552092) (by [@vireonixx](https://x.com/vireonixx))
 
 ![Minimalist Vogue Editorial Cover](../../images/portrait_case280/output.jpg)
 
@@ -3166,7 +3204,8 @@ ACCESSORIES:
 Thin silver metal-frame eyeglasses with minimalist design. Luxury wristwatch featuring a clean dial, refined metallic case, and understated elegance. Accessories should appear functional, sophisticated, and premium
 ```
 
-### Case 281: [Cinematic Street Photography Portrait](https://x.com/frametheory058/status/2064536055366480248) (by [@frametheory058](https://x.com/frametheory058))
+<!-- Case 151: Cinematic Street Photography Portrait (by @frametheory058) -->
+### Case 151: [Cinematic Street Photography Portrait](https://x.com/frametheory058/status/2064536055366480248) (by [@frametheory058](https://x.com/frametheory058))
 
 ![Cinematic Street Photography Portrait](../../images/portrait_case281/output.jpg)
 
@@ -3227,7 +3266,8 @@ The contrast between the real me and the hand-drawn sketch version of me should 
 Aspect ratio: 4:5
 ```
 
-### Case 282: [Winter Wolf Cinematic Portrait](https://x.com/iamaiistudio/status/2064409499906224232) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 152: Winter Wolf Cinematic Portrait (by @iamaiistudio) -->
+### Case 152: [Winter Wolf Cinematic Portrait](https://x.com/iamaiistudio/status/2064409499906224232) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 ![Winter Wolf Cinematic Portrait](../../images/portrait_case282/output.jpg)
 
@@ -3242,7 +3282,8 @@ Cinematic winter portrait of a young pale-skinned woman with long dark snow-dust
 #AIart #GPTImage2
 ```
 
-### Case 283: [Full Shot Man White Chair](https://x.com/JamilAI55/status/2064548739419947299) (by [@JamilAI55](https://x.com/JamilAI55))
+<!-- Case 153: Full Shot Man White Chair (by @JamilAI55) -->
+### Case 153: [Full Shot Man White Chair](https://x.com/JamilAI55/status/2064548739419947299) (by [@JamilAI55](https://x.com/JamilAI55))
 
 ![Full Shot Man White Chair](../../images/portrait_case283/output.jpg)
 
@@ -3251,7 +3292,8 @@ Cinematic winter portrait of a young pale-skinned woman with long dark snow-dust
 A full shot of a man sitting on a white chair with his legs crossed, wearing a dark button-down shirt, white pants, and white slides, uploaded face as reference, with an old-fashioned film camera on a tripod to his left, a potted green plant to his right, and various design-related elements scattered around him, including a notepad listing 'Creative Cloud' applications, a Polaroid photo with the words 'Creativity is Fun,' and text snippets like 'Be Different' and 'Dare to Stand Out,' all arranged in a collage style, with a color palette of muted blues, grays, and whites, and pops of color from the plant and text, creating a visually engaging and informative composition, reminiscent of a graphic design mood board, with a slightly desaturated look and a clean, modern aesthetic.
 ```
 
-### Case 284: [Eiffel Tower Low Angle Fashion Portrait](https://x.com/CHAseUnre/status/2064514382756012487) (by [@CHAseUnre](https://x.com/CHAseUnre))
+<!-- Case 154: Eiffel Tower Low Angle Fashion Portrait (by @CHAseUnre) -->
+### Case 154: [Eiffel Tower Low Angle Fashion Portrait](https://x.com/CHAseUnre/status/2064514382756012487) (by [@CHAseUnre](https://x.com/CHAseUnre))
 
 ![Eiffel Tower Low Angle Fashion Portrait](../../images/portrait_case284/output.jpg)
 
@@ -3265,7 +3307,8 @@ A full shot of a man sitting on a white chair with his legs crossed, wearing a d
 ```
 
 ---
-### Case 285: Anime-Inspired Pastel Hoodie Portrait
+<!-- Case 155: Anime-Inspired Pastel Hoodie Portrait (by @de_mon010) -->
+### Case 155: [Anime-Inspired Pastel Hoodie Portrait](https://x.com/de_mon010/status/2065247896287744162) (by [@de_mon010](https://x.com/de_mon010))
 
 **Source**: [@de_mon010](https://x.com/de_mon010/status/2065247896287744162)
 
@@ -3282,7 +3325,8 @@ Semi-realistic anime-inspired portrait of a stylish man, delicate round-frame gl
 ```
 
 ---
-### Case 286: Italian Summer Afternoon Portrait
+<!-- Case 156: Italian Summer Afternoon Portrait (by @iamaiistudio) -->
+### Case 156: [Italian Summer Afternoon Portrait](https://x.com/iamaiistudio/status/2065209349132501265) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065209349132501265)
 
@@ -3303,7 +3347,8 @@ Ultra photorealistic portrait of a young woman with long straight dark brown hai
 ```
 
 ---
-### Case 287: Rainy Night Cinematic Portrait
+<!-- Case 157: Rainy Night Cinematic Portrait (by @iamaiistudio) -->
+### Case 157: [Rainy Night Cinematic Portrait](https://x.com/iamaiistudio/status/2065194222408577258) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065194222408577258)
 
@@ -3324,7 +3369,8 @@ Photorealistic cinematic close-up of a young woman in her early 30s, standing in
 ```
 
 ---
-### Case 288: 7-Panel Emotion Grid Portrait
+<!-- Case 158: 7-Panel Emotion Grid Portrait (by @iamaiistudio) -->
+### Case 158: [7-Panel Emotion Grid Portrait](https://x.com/iamaiistudio/status/2065179623697306098) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065179623697306098)
 
@@ -3353,7 +3399,8 @@ Panel 7: Melancholy (Gray). Gray gradient. Eyes angled slightly downward. Inner 
 ```
 
 ---
-### Case 289: Cozy Pastel Morning Overhead Lifestyle
+<!-- Case 159: Cozy Pastel Morning Overhead Lifestyle (by @iamaiistudio) -->
+### Case 159: [Cozy Pastel Morning Overhead Lifestyle](https://x.com/iamaiistudio/status/2065149291099021650) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065149291099021650)
 
@@ -3375,7 +3422,8 @@ Overhead lifestyle photo shot from a slightly tilted high angle, looking down at
 ```
 
 ---
-### Case 290: Stylish Woman Outside Cozy Café Portrait
+<!-- Case 160: Stylish Woman Outside Cozy Café Portrait (by @sakshi___007) -->
+### Case 160: [Stylish Woman Outside Cozy Café Portrait](https://x.com/sakshi___007/status/2065118696788631921) (by [@sakshi___007](https://x.com/sakshi___007))
 
 **Source**: [@sakshi___007](https://x.com/sakshi___007/status/2065118696788631921)
 
@@ -3392,7 +3440,8 @@ An ultra-realistic lifestyle portrait of a stylish young woman standing outside 
 ```
 
 ---
-### Case 291: Luxury Streetwear Chrome Chair Portrait
+<!-- Case 161: Luxury Streetwear Chrome Chair Portrait (by @AiwithLariab) -->
+### Case 161: [Luxury Streetwear Chrome Chair Portrait](https://x.com/AiwithLariab/status/2065115460820218326) (by [@AiwithLariab](https://x.com/AiwithLariab))
 
 **Source**: [@AiwithLariab](https://x.com/AiwithLariab/status/2065115460820218326)
 
@@ -3431,7 +3480,8 @@ Poster design quality: luxury fashion campaign level.
 ```
 
 ---
-### Case 292: South Korea Graffiti Street Art Portrait
+<!-- Case 162: South Korea Graffiti Street Art Portrait (by @Kashberg_0) -->
+### Case 162: [South Korea Graffiti Street Art Portrait](https://x.com/Kashberg_0/status/2065112085269504508) (by [@Kashberg_0](https://x.com/Kashberg_0))
 
 **Source**: [@Kashberg_0](https://x.com/Kashberg_0/status/2065112085269504508)
 
@@ -3460,7 +3510,8 @@ thelifeafptfiti b--'ground,TikTok
 ```
 
 ---
-### Case 293: Korean Webtoon Couple Selfie
+<!-- Case 163: Korean Webtoon Couple Selfie (by @Taaruk_) -->
+### Case 163: [Korean Webtoon Couple Selfie](https://x.com/Taaruk_/status/2065105428862886301) (by [@Taaruk_](https://x.com/Taaruk_))
 
 **Source**: [@Taaruk_](https://x.com/Taaruk_/status/2065105428862886301)
 
@@ -3477,7 +3528,8 @@ Transform the uploaded photo into a cute hand-painted Korean webtoon illustratio
 ```
 
 ---
-### Case 294: Non-Existent 1870s Vintage Photograph
+<!-- Case 164: Non-Existent 1870s Vintage Photograph (by @Arminn_Ai) -->
+### Case 164: [Non-Existent 1870s Vintage Photograph](https://x.com/Arminn_Ai/status/2065104900590109130) (by [@Arminn_Ai](https://x.com/Arminn_Ai))
 
 **Source**: [@Arminn_Ai](https://x.com/Arminn_Ai/status/2065104900590109130)
 
@@ -3503,7 +3555,8 @@ Greatly increase the wear of the photo, including small tears, missing corners, 
 ```
 
 ---
-### Case 295: Doll-ification Concept Portrait
+<!-- Case 165: Doll-ification Concept Portrait (by @iamaiistudio) -->
+### Case 165: [Doll-ification Concept Portrait](https://x.com/iamaiistudio/status/2065104023011868884) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065104023011868884)
 
@@ -3528,7 +3581,8 @@ Bold blue-and-orange color palette with dramatic lighting throughout. Cyberpunk 
 ```
 
 ---
-### Case 296: Neon Doodle Gallery Snapshot Template
+<!-- Case 166: Neon Doodle Gallery Snapshot Template (by @im_shahid7) -->
+### Case 166: [Neon Doodle Gallery Snapshot Template](https://x.com/im_shahid7/status/2065099049938878503) (by [@im_shahid7](https://x.com/im_shahid7))
 
 **Source**: [@im_shahid7](https://x.com/im_shahid7/status/2065099049938878503)
 
@@ -3579,7 +3633,8 @@ watermark, username, creator ID, platform logo, app mark, QR code, clean vector 
 ```
 
 ---
-### Case 297: Face-Reference Consistent Portrait
+<!-- Case 167: Face-Reference Consistent Portrait (by @john_my07) -->
+### Case 167: [Face-Reference Consistent Portrait](https://x.com/john_my07/status/2065092295092051994) (by [@john_my07](https://x.com/john_my07))
 
 **Source**: [@john_my07](https://x.com/john_my07/status/2065092295092051994)
 
@@ -3603,7 +3658,8 @@ Photographed in the style of an international fashion magazine cover, with warm 
 ```
 
 ---
-### Case 298: 日本コンビニ店員 昼夜対比写真
+<!-- Case 168: 日本コンビニ店員 昼夜対比写真 (by @johnAGI168) -->
+### Case 168: [日本コンビニ店員 昼夜対比写真](https://x.com/johnAGI168/status/2065080792548618431) (by [@johnAGI168](https://x.com/johnAGI168))
 
 **Source**: [@johnAGI168](https://x.com/johnAGI168/status/2065080792548618431)
 
@@ -3631,7 +3687,8 @@ Style: realistic live-action Japanese drama still, 3:4 vertical portrait, waist-
 ```
 
 ---
-### Case 299: Dreamlike Cloud Face Portrait
+<!-- Case 169: Dreamlike Cloud Face Portrait (by @iamaiistudio) -->
+### Case 169: [Dreamlike Cloud Face Portrait](https://x.com/iamaiistudio/status/2065073375463325883) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065073375463325883)
 
@@ -3661,7 +3718,8 @@ Ultra-realistic cloud texture, high resolution, seamless blending, no watermarks
 ```
 
 ---
-### Case 300: Face-Preserved Ultra-Realistic Portrait
+<!-- Case 170: Face-Preserved Ultra-Realistic Portrait (by @Rainlanded) -->
+### Case 170: [Face-Preserved Ultra-Realistic Portrait](https://x.com/Rainlanded/status/2065071103316484451) (by [@Rainlanded](https://x.com/Rainlanded))
 
 **Source**: [@Rainlanded](https://x.com/Rainlanded/status/2065071103316484451)
 
@@ -3678,7 +3736,8 @@ low quality, blurry, distorted face, bad anatomy, extra limbs, stiff pose, unnat
 ```
 
 ---
-### Case 301: Sharp Digital Portrait Illustration
+<!-- Case 171: Sharp Digital Portrait Illustration (by @JamilAI55) -->
+### Case 171: [Sharp Digital Portrait Illustration](https://x.com/JamilAI55/status/2065060797861023948) (by [@JamilAI55](https://x.com/JamilAI55))
 
 **Source**: [@JamilAI55](https://x.com/JamilAI55/status/2065060797861023948)
 
@@ -3701,7 +3760,8 @@ Ultra-detailed digital portrait illustration of a confident young man with sharp
 ```
 
 ---
-### Case 302: 파리 가로등 기댄 감성 전신 포즈
+<!-- Case 172: 파리 가로등 기댄 감성 전신 포즈 (by @CHAseUnre) -->
+### Case 172: [파리 가로등 기댄 감성 전신 포즈](https://x.com/CHAseUnre/status/2065240920283398353) (by [@CHAseUnre](https://x.com/CHAseUnre))
 
 **Source**: [@CHAseUnre](https://x.com/CHAseUnre/status/2065240920283398353)
 
@@ -3718,7 +3778,8 @@ Ultra-detailed digital portrait illustration of a confident young man with sharp
 ```
 
 ---
-### Case 303: 深夜调酒师暗红酒吧封面写真
+<!-- Case 173: 深夜调酒师暗红酒吧封面写真 (by @liyue_ai) -->
+### Case 173: [深夜调酒师暗红酒吧封面写真](https://x.com/liyue_ai/status/2064965712406556931) (by [@liyue_ai](https://x.com/liyue_ai))
 
 **Source**: [@liyue_ai](https://x.com/liyue_ai/status/2064965712406556931)
 
@@ -3735,8 +3796,8 @@ Ultra-detailed digital portrait illustration of a confident young man with sharp
 深夜调酒师人物摄影：高级酒吧场景、暗红灯光、玻璃酒杯反光 + 黑衬衫、深酒红马甲、袖箍建立人物身份感 + 调酒动作、抬眼看镜头、金色边缘光建立封面气场。危险但克制的气质，深夜暗红酒吧封面风。
 ```
 
-<!-- Case 304: 양모 펠트 미니어처 (by @iamaiistudio) -->
-### Case 304: [양모 펠트 미니어처](https://x.com/iamaiistudio/status/2066206049464660301) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 174: 양모 펠트 미니어처 (by @iamaiistudio) -->
+### Case 174: [양모 펠트 미니어처](https://x.com/iamaiistudio/status/2066206049464660301) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -3752,8 +3813,8 @@ Style rules: slightly oversized head with simplified limbs and a cute, charming 
 Camera: macro photography, close-up shot. Soft studio lighting with warm highlights and gentle shadows. Clean, out-of-focus bokeh background in a neutral craft studio setting. Shallow depth of field (f/2.8). High fidelity, 8k resolution, photorealistic wool texture, Pixar-like character charm.
 ```
 
-<!-- Case 305: Airy Japanese Window Portrait (by @iamaiistudio) -->
-### Case 305: [화사한 일본풍 창가 인물 사진](https://x.com/iamaiistudio/status/2066643592366727581) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 175: Airy Japanese Window Portrait (by @iamaiistudio) -->
+### Case 175: [화사한 일본풍 창가 인물 사진](https://x.com/iamaiistudio/status/2066643592366727581) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | 결과 |
 | :----: |
@@ -3765,8 +3826,8 @@ Camera: macro photography, close-up shot. Soft studio lighting with warm highlig
 35mm film photo, airy Japanese aesthetic, soft natural window light from the side, slightly overexposed, muted pastel colors, low contrast, bright gentle highlights, quiet indoor room beside sheer white curtains, pale wall, natural eye-level frame from mid-thigh upward, young East Asian woman, barely-there makeup, smooth natural skin, long loose dark hair, oversized white button-down shirt, casual shorts, bare feet, effortless everyday style, relaxed stance with arms lightly at sides or gently back, looking softly at the camera, calm quiet smile, stillness and lightness, fine film grain, gentle dreamy mood --ar 9:16
 ```
 
-<!-- Case 306: 공원 벤치 아이스커피 인물 사진 (by @saniaspeaks_) -->
-### Case 306: [공원 벤치 아이스커피 인물 사진](https://x.com/saniaspeaks_/status/2067451160991084677) (by [@saniaspeaks_](https://x.com/saniaspeaks_))
+<!-- Case 176: 공원 벤치 아이스커피 인물 사진 (by @saniaspeaks_) -->
+### Case 176: [공원 벤치 아이스커피 인물 사진](https://x.com/saniaspeaks_/status/2067451160991084677) (by [@saniaspeaks_](https://x.com/saniaspeaks_))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case306/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 공원 벤치 아이스커피 인물 사진"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case306/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 공원 벤치 아이스커피 인물 사진"></a></td></tr>
@@ -3778,8 +3839,8 @@ Camera: macro photography, close-up shot. Soft studio lighting with warm highlig
 Beautiful young Japanese girl with long straight dark brown hair and soft full bangs, fair skin, bright natural smile, sitting casually on a wooden park bench while holding an iced coffee cup. Wearing a light beige windbreaker jacket and a white pleated mini skirt, relaxed posture, one hand resting on the bench. Surrounded by a lush green park with tall trees, fresh grass, and a bright blue sky with soft clouds. Captured with a smartphone camera in portrait mode, casual everyday snapshot, natural daylight, handheld iPhone photo, slightly imperfect framing, realistic skin texture, natural colors, soft HDR phone processing, candid social-media aesthetic, no professional modeling, no studio lighting, no cinematic color grading, authentic mobile photography, ordinary park outing vibe, spontaneous moment, realistic shadows, subtle lens softness, photorealistic, high-quality phone camera image.
 ```
 
-<!-- Case 307: 커튼뱅 클로즈업 인물 사진 (by @iamsofiaijaz) -->
-### Case 307: [커튼뱅 클로즈업 인물 사진](https://x.com/iamsofiaijaz/status/2067450336378544407) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+<!-- Case 177: 커튼뱅 클로즈업 인물 사진 (by @iamsofiaijaz) -->
+### Case 177: [커튼뱅 클로즈업 인물 사진](https://x.com/iamsofiaijaz/status/2067450336378544407) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
 
 | Output |
 | :----: |
@@ -3793,8 +3854,8 @@ A photorealistic close-up portrait of a young girl filling almost the entire fra
 A long zip-up hoodie over the one shoulder The composition is intimate and casual, resembling a webcam selfie. The frame has a slight tilt, and the face is positioned very close to the lens. Focus is sharp on the visible eye, lips, hair texture, and the thick cream-colored fabric of the sleeve, while the background fades into a soft blur. Behind her is a simple warm gray-beige wall with no visible details. Warm indoor and screen lighting from the front-left creates soft highlights on the skin and hair. The contrast is moderate, and the color palette is muted, featuring black, beige-gray, and dusty pink tones. The overall image should preserve the authentic feeling of a selfie photograph.
 ```
 
-<!-- Case 308: 사이보그 의수 클로즈업 (by @iamaiistudio) -->
-### Case 308: [사이보그 의수 클로즈업](https://x.com/iamaiistudio/status/2067732972351222060) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 178: 사이보그 의수 클로즈업 (by @iamaiistudio) -->
+### Case 178: [사이보그 의수 클로즈업](https://x.com/iamaiistudio/status/2067732972351222060) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | 결과 |
 | :----: |
@@ -3816,8 +3877,8 @@ Surface detail: Pores clearly visible, individual wet hair strands, scratched an
 Color grade: Muted cool palette, high contrast. Photorealistic digital art style.
 ```
 
-<!-- Case 309: 지중해 골목 햇살 인물 사진 (by @iamaiistudio) -->
-### Case 309: [지중해 골목 햇살 인물 사진](https://x.com/iamaiistudio/status/2067474399431979223) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 179: 지중해 골목 햇살 인물 사진 (by @iamaiistudio) -->
+### Case 179: [지중해 골목 햇살 인물 사진](https://x.com/iamaiistudio/status/2067474399431979223) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | 결과 |
 | :----: |
@@ -3829,8 +3890,8 @@ Color grade: Muted cool palette, high contrast. Photorealistic digital art style
 Ultra-realistic photo of a woman seated on stone steps in a vibrant Mediterranean alley with vivid blue-painted walls, stairs, and buildings with white accents. She wears a blue fitted sleeveless top and a long flowing white skirt, barefoot, with a calm relaxed expression and eyes slightly downward. Long wavy hair falls naturally over her shoulders. Strong natural sunlight creates high contrast shadows and saturated colors. Shot from a slightly low front-facing angle with full body framing, sharp focus on subject against a detailed background of blue walls, hanging patterned fabric, small windows, and plants above. Highly saturated blues contrasted with natural white and skin tones, ultra-realistic textures, crisp shadows, realistic depth.
 ```
 
-<!-- Case 310: Toy Camera Balcony Candid (by @iamaiistudio) -->
-### Case 310: [토이 카메라 발코니 스냅](https://x.com/iamaiistudio/status/2068501129059783072) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 180: Toy Camera Balcony Candid (by @iamaiistudio) -->
+### Case 180: [토이 카메라 발코니 스냅](https://x.com/iamaiistudio/status/2068501129059783072) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -3860,8 +3921,8 @@ Super thick plastic toy-lens softness, motion smear, focus miss, smeared highlig
 Negative prompt: beauty filter, modern smartphone quality, DSLR quality, cinematic grading, HDR photography, professional composition, studio lighting, ultra sharp face, perfect skin, flawless focus, fashion editorial, influencer photo, polished digital rendering, AI perfection, hyper-detailed eyes, premium camera quality, luxury portrait photography
 ```
 
-<!-- Case 311: Emerald Headwrap Editorial Portrait (by @bmx_ai13) -->
-### Case 311: [에메랄드 헤드랩 에디토리얼 인물 사진](https://x.com/bmx_ai13/status/2068462145319444778) (by [@bmx_ai13](https://x.com/bmx_ai13))
+<!-- Case 181: Emerald Headwrap Editorial Portrait (by @bmx_ai13) -->
+### Case 181: [에메랄드 헤드랩 에디토리얼 인물 사진](https://x.com/bmx_ai13/status/2068462145319444778) (by [@bmx_ai13](https://x.com/bmx_ai13))
 
 | Output |
 | :----: |
@@ -3875,8 +3936,8 @@ A cinematic close up side profile portrait of a beautiful Black woman with deep 
 Negative Prompt: text, logo, watermark, extra face paint, messy fabric, distorted face, bad anatomy, harsh shadows, overexposed skin, blurry eyes, plastic skin, low resolution, cartoon, CGI, unrealistic jewelry, extra earrings, deformed nose, asymmetrical lips.
 ```
 
-<!-- Case 312: Late-Night Office Flash Portrait (by @iamaiistudio) -->
-### Case 312: [심야 오피스 플래시 인물 사진](https://x.com/iamaiistudio/status/2068395305624871253) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 182: Late-Night Office Flash Portrait (by @iamaiistudio) -->
+### Case 182: [심야 오피스 플래시 인물 사진](https://x.com/iamaiistudio/status/2068395305624871253) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -3888,8 +3949,8 @@ Negative Prompt: text, logo, watermark, extra face paint, messy fabric, distorte
 CCD flash photography style, late-night office setting, whiteboard covered in mathematical formulas in the background, black-rimmed glasses, white high-neck top, black high-waisted mini skirt, semi-matte cool-white porcelain skin with realistic skin texture, subject seated at desk, whiteboard marker held close to the lips, slight dutch angle composition, nuyoah aesthetic
 ```
 
-<!-- Case 313: Late-Night Subway CCD Portrait (by @iamaiistudio) -->
-### Case 313: [심야 지하철 CCD 인물 사진](https://x.com/iamaiistudio/status/2068516066679283984) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 183: Late-Night Subway CCD Portrait (by @iamaiistudio) -->
+### Case 183: [심야 지하철 CCD 인물 사진](https://x.com/iamaiistudio/status/2068516066679283984) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case313/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 심야 지하철 CCD 인물 사진"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case313/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 심야 지하철 CCD 인물 사진"></a></td></tr>
@@ -3911,8 +3972,8 @@ Highlight: long legs, slim waist, cold elegant vibe.
 Aspect ratio: 9:16
 ```
 
-<!-- Case 314: 빈티지 모션 블러 거리 인물 사진 (by @iamaiistudio) -->
-### Case 314: [빈티지 모션 블러 거리 인물 사진](https://x.com/iamaiistudio/status/2068887185269616803) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 184: 빈티지 모션 블러 거리 인물 사진 (by @iamaiistudio) -->
+### Case 184: [빈티지 모션 블러 거리 인물 사진](https://x.com/iamaiistudio/status/2068887185269616803) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -3924,8 +3985,8 @@ Aspect ratio: 9:16
 A stylish woman standing still with hands in pockets, wearing a loose sage-green button-up shirt tucked into high-waisted dark trousers. Calm, confident expression. Vintage cars rushing past at high speed behind her, creating dramatic motion blur trails with a long-exposure photography effect. Street portrait setting, warm golden-hour lighting, muted retro color palette with reds, teals, and yellows streaking across the frame. Sharp focus on the woman with shallow depth of field, strong subject isolation. Cinematic realism, editorial fashion mood, nostalgic 1970s film look, soft grain, ultra-detailed, high resolution.
 ```
 
-<!-- Case 315: 탑다운 에어리얼 스튜디오 포트레이트 (by @iamaiistudio) -->
-### Case 315: [탑다운 에어리얼 스튜디오 포트레이트](https://x.com/iamaiistudio/status/2069568331821318277) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 185: 탑다운 에어리얼 스튜디오 포트레이트 (by @iamaiistudio) -->
+### Case 185: [탑다운 에어리얼 스튜디오 포트레이트](https://x.com/iamaiistudio/status/2069568331821318277) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -3954,8 +4015,8 @@ Mood: minimalist, modern, contemplative. Strong subject isolation and visual cla
 ```
 
 
-<!-- Case 316: 강제 원근감 스니커즈 포트레이트 (by @iamaiistudio) -->
-### Case 316: [강제 원근감 스니커즈 포트레이트](https://x.com/iamaiistudio/status/2069538312357114324) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 186: 강제 원근감 스니커즈 포트레이트 (by @iamaiistudio) -->
+### Case 186: [강제 원근감 스니커즈 포트레이트](https://x.com/iamaiistudio/status/2069538312357114324) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -3968,8 +4029,8 @@ A cinematic forced-perspective street photography scene where a giant worn-out s
 ```
 
 
-<!-- Case 317: 구름꽃 에디토리얼 포트레이트 (by @ChillaiKalan__) -->
-### Case 317: [구름꽃 에디토리얼 포트레이트](https://x.com/ChillaiKalan__/status/2069471846890959183) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+<!-- Case 187: 구름꽃 에디토리얼 포트레이트 (by @ChillaiKalan__) -->
+### Case 187: [구름꽃 에디토리얼 포트레이트](https://x.com/ChillaiKalan__/status/2069471846890959183) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case317/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 구름꽃 에디토리얼 포트레이트"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case317/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 구름꽃 에디토리얼 포트레이트"></a></td></tr>
@@ -3981,8 +4042,8 @@ A cinematic forced-perspective street photography scene where a giant worn-out s
 Photorealistic high-fashion editorial image, vertical 4:5. A young adult fashion model sitting calmly on the center of one enormous pink flower growing above the clouds, the flower stem rising from below and disappearing into soft white clouds. Low-angle perspective from slightly below, the flower framing the image, making the flower feel monumental and surreal. The model wears a short sleeve crisp oversized white shirt, loose light trousers, silver jewelry, and black minimal sandals. Natural open brown hair moving softly in the wind, composed expression, slight soft smile. Clean vivid blue sky, a few soft white clouds, huge detailed flower petals, bright natural daylight, crisp vivid color, playful surreal fashion campaign mood, realistic anatomy, natural hands, sharp editorial photography, no text, no logos --ar 4:5 --raw --profile glu65pn --stylize 60 --weird 4 --hd
 ```
 
-<!-- Case 318: 후지필름 감성 커플 포트레이트 (by @iamaiistudio) -->
-### Case 318: [후지필름 감성 커플 포트레이트](https://x.com/iamaiistudio/status/2069961089719353505) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 188: 후지필름 감성 커플 포트레이트 (by @iamaiistudio) -->
+### Case 188: [후지필름 감성 커플 포트레이트](https://x.com/iamaiistudio/status/2069961089719353505) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -4016,8 +4077,8 @@ Mood: warm, romantic, quiet everyday intimacy
 Quality: ultra-realistic, analog film character, gentle grain, slight softness, natural imperfections
 ```
 
-<!-- Case 319: 랜턴 하이커 스튜디오 포트레이트 (by @iamaiistudio) -->
-### Case 319: [랜턴 하이커 스튜디오 포트레이트](https://x.com/iamaiistudio/status/2069812774277087740) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 189: 랜턴 하이커 스튜디오 포트레이트 (by @iamaiistudio) -->
+### Case 189: [랜턴 하이커 스튜디오 포트레이트](https://x.com/iamaiistudio/status/2069812774277087740) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -4029,8 +4090,8 @@ Quality: ultra-realistic, analog film character, gentle grain, slight softness, 
 3D render, stylized full-body side-view portrait of an elderly male hiker with a long white beard, walking right. Solid seamless deep-teal studio background with soft floor reflections. He wears a brown wide-brim felt hat, a gray-blue plaid shirt, cuffed brown corduroy trousers, and scuffed dark work boots. Large canvas-and-wicker backpack with leather straps on his back. Right hand holds a lit vintage hurricane lantern (brass frame, glass globe) casting a warm amber glow. Left hand grips a plain wooden walking stick. Textured matte finish, soft diffused studio lighting, vertical composition with generous negative space above.
 ```
 
-<!-- Case 320: 모노크롬 스튜디오 포트레이트 그리드 (by @harboriis) -->
-### Case 320: [모노크롬 스튜디오 포트레이트 그리드](https://x.com/harboriis/status/2071068008341262538) (by [@harboriis](https://x.com/harboriis))
+<!-- Case 50: 모노크롬 스튜디오 포트레이트 그리드 (by @harboriis) -->
+### Case 50: [모노크롬 스튜디오 포트레이트 그리드](https://x.com/harboriis/status/2071068008341262538) (by [@harboriis](https://x.com/harboriis))
 
 | Output |
 | :----: |
@@ -4046,8 +4107,8 @@ Soft diffused daylight enters from a large window, creating smooth shadows and s
 Shot on an 85mm full frame lens at f/2.2, shallow depth of field, soft editorial lighting, muted color palette, subtle film grain, luxury magazine photography, photorealistic, ultra detailed skin texture, premium fashion campaign, minimalist composition, 8K HDR.
 ```
 
-<!-- Case 321: 해안의 데이드림 필름 포트레이트 (by @mehvishs25) -->
-### Case 321: [해안의 데이드림 필름 포트레이트](https://x.com/mehvishs25/status/2071043508346183695) (by [@mehvishs25](https://x.com/mehvishs25))
+<!-- Case 51: 해안의 데이드림 필름 포트레이트 (by @mehvishs25) -->
+### Case 51: [해안의 데이드림 필름 포트레이트](https://x.com/mehvishs25/status/2071043508346183695) (by [@mehvishs25](https://x.com/mehvishs25))
 
 | Output |
 | :----: |
@@ -4067,8 +4128,8 @@ no ultra-clean digital sharpness, no CGI appearance, no beauty-retouching, no fa
 ```
 
 ---
-<!-- Case 322: 무디한 GQ 해변 커버 (by @iamaiistudio) -->
-### Case 322: [무디한 GQ 해변 커버](https://x.com/iamaiistudio/status/2071772854908326260) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 356: 무디한 GQ 해변 커버 (by @iamaiistudio) -->
+### Case 356: [무디한 GQ 해변 커버](https://x.com/iamaiistudio/status/2071772854908326260) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -4081,8 +4142,8 @@ Cinematic GQ Style magazine cover — male model with a dark beard and messy cur
 ```
 
 ---
-<!-- Case 323: 크롬 바이저 측면 프로필 (by @iamaiistudio) -->
-### Case 323: [크롬 바이저 측면 프로필](https://x.com/iamaiistudio/status/2071712457262080034) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 357: 크롬 바이저 측면 프로필 (by @iamaiistudio) -->
+### Case 357: [크롬 바이저 측면 프로필](https://x.com/iamaiistudio/status/2071712457262080034) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |

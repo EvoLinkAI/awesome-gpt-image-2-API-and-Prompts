@@ -46,11 +46,11 @@ body:
   - type: input
     id: source
     attributes:
-      label: Source URL (optional)
-      description: "Link to the original tweet or post where this prompt was shared"
-      placeholder: "https://x.com/username/status/..."
+      label: Original Source
+      description: "Link to the original public post. If this issue is the first publication, enter: original submission."
+      placeholder: "https://x.com/username/status/... or original submission"
     validations:
-      required: false
+      required: true
 
   - type: input
     id: author
@@ -87,4 +87,6 @@ body:
         - label: "I confirm this prompt produces high-quality, reusable results with GPT-Image-2"
           required: true
         - label: "I have credited the original author (or I am the original author)"
+          required: true
+        - label: "I have the right to share the submitted prompt and media for publication in this repository"
           required: true

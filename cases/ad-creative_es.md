@@ -402,7 +402,8 @@ Potting bench surface with soil scatter and water droplets.
 Tilt-shift depth of field, greenhouse morning light, the packet as the garden it always intended.
 ```
 
-### Case 144: [Luxury Chronograph Watch Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
+<!-- Case 17: Luxury Chronograph Watch Ad (by @AlwaveNazca) -->
+### Case 17: [Luxury Chronograph Watch Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
 
 | Resultado |
 | :----: |
@@ -414,7 +415,8 @@ Tilt-shift depth of field, greenhouse morning light, the packet as the garden it
 A dramatic luxury product advertising image for a motorsport-inspired chronograph wristwatch in a dark studio. Center-left foreground, show a single stainless steel chronograph watch standing upright at a slight three-quarter angle, with a black dial, two red-accent subdials, slim silver hour markers, a tachymeter bezel, and visible crown and pushers on the right side. The watch has a black leather strap with bold red stitching along both edges and a sporty premium finish. To the right of the watch, place one black square presentation box slightly behind it, textured like leather, with red stitching around the lid and a silver embossed eye-shaped logo above the text “NESS STUDIO” and smaller red text “TRACK SURFACE.” At the top center of the composition, add the same silver eye logo with the words “NESS STUDIO” and smaller “BY NICOLAS.” Across the background, place one oversized blurred word, {argument name="headline text" default="PRECISION"}, in large gray capital letters spanning nearly the full width. The scene is set against a deep black background with cinematic red and white horizontal light streaks crossing behind the products from left to right, suggesting speed and racetrack energy. Use a glossy wet ground plane with reflective texture, catching red highlights and mirrorlike reflections beneath the watch and box. At the bottom center, add the text “CHRONOGRAPH SERIES” in clean white spaced capitals with thin red horizontal lines extending on both sides, and below it smaller red capitals reading {argument name="tagline text" default="ALSACE MADE"}. Color palette: black, charcoal gray, silver steel, vivid racing red, and a touch of white. Lighting should be high-contrast and premium, with crisp specular highlights on the metal case, subtle soft fill on the box, and moody shadows. Overall style: ultra-polished commercial product photography, luxury watch campaign, sharp focus on the products, sleek branding, high-end automotive aesthetic.
 ```
 
-### Case 145: [Neon Nike Lumina Ad Poster](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
+<!-- Case 17: Neon Nike Lumina Ad Poster (by @AlwaveNazca) -->
+### Case 17: [Neon Nike Lumina Ad Poster](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
 
 | Resultado |
 | :----: |
@@ -426,7 +428,8 @@ A dramatic luxury product advertising image for a motorsport-inspired chronograp
 A high-energy vertical Nike fashion campaign poster featuring a single athletic young woman mid-jump against a futuristic neon studio background. She is captured in a dynamic airborne pose with one knee bent up, the other leg folded back, one arm extended outward and the other bent near her chest, conveying motion and power. Her face is obscured by a clean rectangular blur block centered over the face. She wears a cropped iridescent white hooded windbreaker with a black zipper and small Nike logo on the chest, holographic metallic lavender-blue leggings with a subtle Nike swoosh on the thigh, a black branded waistband visible above the leggings, and white chunky Nike sneakers. Her brown hair is tied in a high ponytail flying outward with the jump. Behind her, enormous glowing white serif letters spell “NIKE” across the upper half, with a small white Nike swoosh centered above the word. Across the middle background, the phrase “LUMINA” appears once in wide bold glowing letters with a horizontal glitch and scanline distortion effect, partially obscured by the model. The color palette is saturated magenta, violet, cyan, and electric blue with strong bloom, glossy highlights, lens flares, and chromatic aberration. Add sweeping circular light trails wrapping around the model’s legs and body, suggesting speed and motion. The overall style is premium sportswear advertising, ultra-polished, cinematic, high contrast, hyperreal retouching, crisp product detail, dramatic rim lighting, and a luminous holographic aesthetic. Place 2 small text lines at the bottom: bottom left reads {argument name="tagline text" default="LIGHT. MOTION. ENERGY."}, bottom right reads {argument name="collection name" default="NIKE LUMINA COLLECTION"} followed by a small Nike swoosh. Include exactly 3 visible Nike swooshes total: 1 above the large NIKE headline, 1 on the jacket chest, and 1 on the leggings.
 ```
 
-### Case 146: [Streetwear Sneaker Poster Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
+<!-- Case 17: Streetwear Sneaker Poster Ad (by @AlwaveNazca) -->
+### Case 17: [Streetwear Sneaker Poster Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
 
 | Resultado |
 | :----: |
@@ -570,7 +573,8 @@ High-impact parody e-commerce infographic for “{argument name="product" defaul
 入れる文字: 「まだないブランドに、最初の一目惚れを。」 / BRAND PRESS 01 / 「Pollo AI搭載・広告ポスター生成プリンター」 / 「名前だけのアイデアを、完成された商業ポスターとして出力。」 / 「構想、コピー、ビジュアル、印刷まで。1台で。」
 ```
 
-### Case 169: [Luxury chocolate campaign system](https://x.com/SPEEDAI07/status/2049459155086500321) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+<!-- Case 18: Luxury chocolate campaign system (by @SPEEDAI07) -->
+### Case 18: [Luxury chocolate campaign system](https://x.com/SPEEDAI07/status/2049459155086500321) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
 
 | Resultado |
 | :----: |
@@ -714,9 +718,9 @@ Prompt 1: Vibrant lifestyle food advertisement, smiling woman in a bright hot pi
 Prompt 2: Dynamic food product advertisement for "Berry Loud" mixed berry blend, acai smoothie bowl overflowing with strawberries, raspberries, blueberries, blackberries, banana slices, granola, dramatic berry juice splashes and floating fruits in mid air, branded jar beside bowl, vivid hot pink background, large retro cream typography saying "NEW DROP BERRY LOUD", glossy lighting, hyper realistic food photography, energetic composition, vibrant colors, commercial product shoot, ultra detailed textures, splash effect, studio lighting, 4k, advertising poster style
 ```
 
-<!-- Case 174: Luxury Fragrance Campaign Portrait (by @amynys) -->
+<!-- Case 20: Luxury Fragrance Campaign Portrait (by @amynys) -->
 
-### Case 174: [Luxury Fragrance Campaign Portrait](https://x.com/amynys/status/2054340951678587051) (by [@amynys](https://x.com/amynys))
+### Case 20: [Luxury Fragrance Campaign Portrait](https://x.com/amynys/status/2054340951678587051) (by [@amynys](https://x.com/amynys))
 
 | Output |
 | :----: |
@@ -734,9 +738,9 @@ Include a sleek black perfume bottle inspired by a luxury noir fragrance aesthet
 The overall mood should feel seductive, mysterious, powerful, feminine, cinematic, timeless, and ultra-luxurious — like a Chanel Coco Noir campaign directed by a Hollywood cinematographer. High detail, photorealistic skin texture, glossy highlights, rich blacks, warm gold accents, magazine-quality fashion photography, 8K luxury editorial finish.
 ```
 
-<!-- Case 175: Berry Splash Cafe Campaign (by @iamaiistudio) -->
+<!-- Case 21: Berry Splash Cafe Campaign (by @iamaiistudio) -->
 
-### Case 175: [Berry Splash Cafe Campaign](https://x.com/iamaiistudio/status/2054248552294158350) (by [@iamaiistudio](https://x.com/iamaiistudio))
+### Case 21: [Berry Splash Cafe Campaign](https://x.com/iamaiistudio/status/2054248552294158350) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -752,9 +756,9 @@ Prompt 2:
 Create a dynamic food product advertisement for "Berry Loud" mixed berry blend. Feature an acai smoothie bowl overflowing with strawberries, raspberries, blueberries, blackberries, banana slices, and granola. Surround it with dramatic berry juice splashes and floating fruit frozen midair. Place a branded jar next to the bowl. Use a vivid hot pink background and large retro cream typography that says "NEW DROP BERRY LOUD". Keep the lighting glossy, the composition energetic, the colors vibrant, the textures ultra detailed, and the overall look like a polished studio-shot commercial poster with hyper-realistic food photography and splash-effect motion. Format: vertical 9:16. Quality: 4k.
 ```
 
-<!-- Case 176: Fast Food Hero Poster (by @ShamsAmin56) -->
+<!-- Case 22: Fast Food Hero Poster (by @ShamsAmin56) -->
 
-### Case 176: [Fast Food Hero Poster](https://x.com/ShamsAmin56/status/2054238324198625780) (by [@ShamsAmin56](https://x.com/ShamsAmin56))
+### Case 22: [Fast Food Hero Poster](https://x.com/ShamsAmin56/status/2054238324198625780) (by [@ShamsAmin56](https://x.com/ShamsAmin56))
 
 | Output |
 | :----: |
@@ -771,9 +775,9 @@ TYPOGRAPHY: Integration of ultra-bold, distressed sans-serif typeface overlappin
 TECHNICAL: 4k resolution, macro photography style, shallow depth of field, neon-noir color grading (deep blacks, warm ambers, and subtle teal highlights).
 ```
 
-<!-- Case 177: Matcha Granola Ad Poster (by @Sairah_0) -->
+<!-- Case 23: Matcha Granola Ad Poster (by @Sairah_0) -->
 
-### Case 177: [Matcha Granola Ad Poster](https://x.com/Sairah_0/status/2054111354202779672) (by [@Sairah_0](https://x.com/Sairah_0))
+### Case 23: [Matcha Granola Ad Poster](https://x.com/Sairah_0/status/2054111354202779672) (by [@Sairah_0](https://x.com/Sairah_0))
 
 | Output |
 | :----: |
@@ -795,9 +799,9 @@ Prompt : (Chocolate Protein Muesli Ad)
 Premium protein breakfast food advertisement poster featuring centered pouch package labeled “Chocolate Protein Muesli”, rich brown monochrome theme, surrounded by dark chocolate chunks, almonds, oats, banana slices, milk jug, muesli bowls, scattered ingredients, dramatic warm studio lighting, bold modern headline typography “HIGH PROTEIN BREAKFAST FUEL”, handwritten annotation arrows highlighting benefits, luxury fitness breakfast branding, realistic textures, symmetrical flat lay composition, high-end commercial food photography, strong contrast, healthy energy concept, clean packaging mockup design, ultra-realistic 8k advertising render, cinematic food styling.
 ```
 
-<!-- Case 178: Tropical Product Ad Poster (by @AIwithAliya) -->
+<!-- Case 24: Tropical Product Ad Poster (by @AIwithAliya) -->
 
-### Case 178: [Tropical Product Ad Poster](https://x.com/AIwithAliya/status/2054553101236080714) (by [@AIwithAliya](https://x.com/AIwithAliya))
+### Case 24: [Tropical Product Ad Poster](https://x.com/AIwithAliya/status/2054553101236080714) (by [@AIwithAliya](https://x.com/AIwithAliya))
 
 | Output |
 | :----: |
@@ -809,8 +813,8 @@ Premium protein breakfast food advertisement poster featuring centered pouch pac
 GPT Image 2 Prompt Create a creative commercial advertising poster for [PRODUCT NAME], a [PRODUCT TYPE], inspired by vibrant tropical product campaigns. Place the product as a large hero object on the center-right with realistic glossy reflections, sharp label details, and premium lighting. Add a stylish model sitting beside or slightly in front of the product, naturally interacting with it by [MODEL ACTION]. The model should look [MOOD], wearing [OUTFIT STYLE], and should not cover the product label.
 ```
 
-<!-- Case 179: Foam Clogs Ad Poster (by @Shinning1010) -->
-### Case 179: [Foam Clogs Ad Poster](https://x.com/Shinning1010/status/2055688162333401470) (by [@Shinning1010](https://x.com/Shinning1010))
+<!-- Case 25: Foam Clogs Ad Poster (by @Shinning1010) -->
+### Case 25: [Foam Clogs Ad Poster](https://x.com/Shinning1010/status/2055688162333401470) (by [@Shinning1010](https://x.com/Shinning1010))
 
 | Output |
 | :----: |
@@ -825,8 +829,8 @@ Negative Prompt:
 watermark, random text, misspelled headline, garbled letters, logo distortion, low quality, blurry, plastic skin, extra fingers, deformed hands, bad anatomy, overexposed highlights, unrealistic lighting, oversmoothed skin, cheap e-commerce look, AI-generated look, warped clog holes, incorrect shoe structure, melted foam texture, distorted heel strap, mismatched pair, hidden product, product cropped out, cluttered background
 ```
 
-<!-- Case 180: Energy Drink Stadium Ad (by @Shorelyn_) -->
-### Case 180: [Energy Drink Stadium Ad](https://x.com/Shorelyn_/status/2055570197973799376) (by [@Shorelyn_](https://x.com/Shorelyn_))
+<!-- Case 26: Energy Drink Stadium Ad (by @Shorelyn_) -->
+### Case 26: [Energy Drink Stadium Ad](https://x.com/Shorelyn_/status/2055570197973799376) (by [@Shorelyn_](https://x.com/Shorelyn_))
 
 | Output |
 | :----: |
@@ -893,7 +897,8 @@ Close-up aesthetic shot of a hand holding iced coffee in a transparent branded c
 
 
 ---
-### Case 183: Showroom Still Life Merch Drop
+<!-- Case 27: Showroom Still Life Merch Drop (by @iamaiistudio) -->
+### Case 27: [Showroom Still Life Merch Drop](https://x.com/iamaiistudio/status/2062279671618957656) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062279671618957656)
 
@@ -937,7 +942,8 @@ Left-aligned composition:
 <img src="../images/ad-creative_case183/output.jpg" width="500">
 
 ---
-### Case 184: Adidas Futuristic Drop Ad Poster 9:16
+<!-- Case 28: Adidas Futuristic Drop Ad Poster 9:16 (by @iamaiistudio) -->
+### Case 28: [Adidas Futuristic Drop Ad Poster 9:16](https://x.com/iamaiistudio/status/2065133774413906004) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065133774413906004)
 
@@ -983,7 +989,8 @@ Style: Ultra-detailed hyper-realistic product photography, cinematic studio ligh
 ```
 
 ---
-### Case 185: Luxury Linen Texture Editorial Poster
+<!-- Case 29: Luxury Linen Texture Editorial Poster (by @ZephyraLeigh) -->
+### Case 29: [Luxury Linen Texture Editorial Poster](https://x.com/ZephyraLeigh/status/2065123985713700925) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
 
 **Source**: [@ZephyraLeigh](https://x.com/ZephyraLeigh/status/2065123985713700925)
 
@@ -1021,7 +1028,8 @@ Technical: Ultra-photorealistic rendering, 8K detail sharpness, professional com
 ```
 
 ---
-### Case 186: Luxury Watch Dramatic Beam Product Shot
+<!-- Case 30: Luxury Watch Dramatic Beam Product Shot (by @meng_dagg695) -->
+### Case 30: [Luxury Watch Dramatic Beam Product Shot](https://x.com/meng_dagg695/status/2065078841765458040) (by [@meng_dagg695](https://x.com/meng_dagg695))
 
 **Source**: [@meng_dagg695](https://x.com/meng_dagg695/status/2065078841765458040)
 
@@ -1038,7 +1046,8 @@ A luxury watch emerges from darkness. Extreme macro shot of ticking gears and mo
 ```
 
 ---
-### Case 187: 可口可乐百事雪碧品牌 KV 对比
+<!-- Case 31: 可口可乐百事雪碧品牌 KV 对比 (by @liyue_ai) -->
+### Case 31: [可口可乐百事雪碧品牌 KV 对比](https://x.com/liyue_ai/status/2065039304175538382) (by [@liyue_ai](https://x.com/liyue_ai))
 
 **Source**: [@liyue_ai](https://x.com/liyue_ai/status/2065039304175538382)
 
@@ -1056,7 +1065,8 @@ A luxury watch emerges from darkness. Extreme macro shot of ticking gears and mo
 ```
 
 ---
-### Case 188: Cuadrícula editorial de zapatillas de lujo
+<!-- Case 32: Cuadrícula editorial de zapatillas de lujo (by @iamaiistudio) -->
+### Case 32: [Cuadrícula editorial de zapatillas de lujo](https://x.com/iamaiistudio/status/2065964253505585436) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065964253505585436)
 
@@ -1094,7 +1104,8 @@ Row 3, Surrealism:
 ```
 
 ---
-### Case 189: Anuncio lifestyle de auriculares inalámbricos
+<!-- Case 33: Anuncio lifestyle de auriculares inalámbricos (by @iamaiistudio) -->
+### Case 33: [Anuncio lifestyle de auriculares inalámbricos](https://x.com/iamaiistudio/status/2065753093283991651) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065753093283991651)
 
@@ -1141,8 +1152,8 @@ Sharp on face and earbuds, gentle depth blur on foreground and background
 Clean Apple/Nike premium ad aesthetic, strong negative space
 ```
 
-<!-- Case 190: Escena Kinder Joy con sillón columpio (by @iamaiistudio) -->
-### Case 190: [Escena Kinder Joy con sillón columpio](https://x.com/iamaiistudio/status/2066312771978092587) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 34: Escena Kinder Joy con sillón columpio (by @iamaiistudio) -->
+### Case 34: [Escena Kinder Joy con sillón columpio](https://x.com/iamaiistudio/status/2066312771978092587) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -1160,8 +1171,8 @@ On a polished wooden table to the left foreground: another gigantic fully wrappe
 Soft warm directional lighting from the left casts subtle shadows, highlighting the detailed egg wrapper textures, clothing, and wooden surface. Background is a softly blurred warm-toned interior wall with pleasing bokeh. Standard lens, shot from mid-height.
 ```
 
-<!-- Case 191: Anuncio de protector solar Invisible Shield (by @iamrealsnow) -->
-### Case 191: [Anuncio de protector solar Invisible Shield](https://x.com/iamrealsnow/status/2066200217347854445) (by [@iamrealsnow](https://x.com/iamrealsnow))
+<!-- Case 35: Anuncio de protector solar Invisible Shield (by @iamrealsnow) -->
+### Case 35: [Anuncio de protector solar Invisible Shield](https://x.com/iamrealsnow/status/2066200217347854445) (by [@iamrealsnow](https://x.com/iamrealsnow))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case191/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Anuncio de protector solar Invisible Shield"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case191/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Anuncio de protector solar Invisible Shield"></a></td></tr>
@@ -1181,8 +1192,8 @@ Tagline:
 “Protect Every Ray. Reveal Every Glow.
 ```
 
-<!-- Case 192: Ilusión de paisaje con logotipo oculto (by @iamaiistudio) -->
-### Case 192: [Ilusión de paisaje con logotipo oculto](https://x.com/iamaiistudio/status/2066191259354689714) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 36: Ilusión de paisaje con logotipo oculto (by @iamaiistudio) -->
+### Case 36: [Ilusión de paisaje con logotipo oculto](https://x.com/iamaiistudio/status/2066191259354689714) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case192/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ilusión de paisaje con logotipo oculto"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case192/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ilusión de paisaje con logotipo oculto"></a></td></tr>
@@ -1208,8 +1219,8 @@ Mood: cinematic, majestic, subtly surreal.
 Output: 1:1 square, photorealistic, National Geographic aerial photography aesthetic.
 ```
 
-<!-- Case 193: Póster de moda SPLASH con logotipo líquido (by @iamaiistudio) -->
-### Case 193: [Póster de moda SPLASH con logotipo líquido](https://x.com/iamaiistudio/status/2065979523229975021) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 37: Póster de moda SPLASH con logotipo líquido (by @iamaiistudio) -->
+### Case 37: [Póster de moda SPLASH con logotipo líquido](https://x.com/iamaiistudio/status/2065979523229975021) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -1231,8 +1242,8 @@ Style: luxury fashion campaign aesthetic (Zara / H&M), polished clean environmen
 Shot with an 85mm lens, shallow depth of field, 8K resolution, ultra-detailed, photorealistic.
 ```
 
-<!-- Case 194: Campaña de marca de café OBSIDIAN (by @iamaiistudio) -->
-### Case 194: [Campaña de marca de café OBSIDIAN](https://x.com/iamaiistudio/status/2066523210808484228) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 38: Campaña de marca de café OBSIDIAN (by @iamaiistudio) -->
+### Case 38: [Campaña de marca de café OBSIDIAN](https://x.com/iamaiistudio/status/2066523210808484228) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Resultado |
 | :----: |
@@ -1243,8 +1254,8 @@ Shot with an 85mm lens, shallow depth of field, 8K resolution, ultra-detailed, p
 ```
 Generate four cohesive high-end realistic editorial visuals for OBSIDIAN coffee brand. Cinematic, dark, mature aesthetic inspired by luxury sportswear and premium coffee advertising. Studio lighting that's dramatic yet controlled, photorealistic textures, clean compositional layout. Shot 1: Hero brand poster featuring 'OBSIDIAN' lettering with an artful coffee display — steam rising, beans scattered. Shot 2: Full product range — coffee bags, cans, and capsules arranged together. Shot 3: Tight packaging detail with tagline 'Coffee for grown-ups who chase flavor.' Shot 4: Lifestyle close-up of a steaming cup. Ultra-polished finish, crisp realistic materials, unified brand identity, no fantastical or surreal elements
 ```
-<!-- Case 195: Coconut Paradise Skincare Ad (by @Strength04_X) -->
-### Case 195: [Anuncio de skincare Coconut Paradise](https://x.com/Strength04_X/status/2067445760325734734) (by [@Strength04_X](https://x.com/Strength04_X))
+<!-- Case 39: Coconut Paradise Skincare Ad (by @Strength04_X) -->
+### Case 39: [Anuncio de skincare Coconut Paradise](https://x.com/Strength04_X/status/2067445760325734734) (by [@Strength04_X](https://x.com/Strength04_X))
 
 | Resultado |
 | :----: |
@@ -1256,8 +1267,8 @@ Generate four cohesive high-end realistic editorial visuals for OBSIDIAN coffee 
 Minimal white bottle with golden pump surrounded by cracked coconuts, coconut milk splash and foam clouds, tropical luxury spa atmosphere, creamy textures, realistic bubbles floating in background, premium skincare commercial, soft warm lighting, ultra detailed 8K.
 ```
 
-<!-- Case 196: Reverse-Assembly Product VFX (by @iamaiistudio) -->
-### Case 196: [VFX de producto en ensamblaje inverso](https://x.com/iamaiistudio/status/2067399156596175345) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 40: Reverse-Assembly Product VFX (by @iamaiistudio) -->
+### Case 40: [VFX de producto en ensamblaje inverso](https://x.com/iamaiistudio/status/2067399156596175345) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX de producto en ensamblaje inverso"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX de producto en ensamblaje inverso"></a></td></tr>
@@ -1270,8 +1281,8 @@ Minimal white bottle with golden pump surrounded by cracked coconuts, coconut mi
 [PRODUCT] reassembling in midair from scattered pieces, reverse-disintegration effect, mechanical precision, each component suspended at a different depth, dark void background, high-concept product advertising, cinematic VFX.
 ```
 
-<!-- Case 197: Foto de producto de lata con revelacion de uvas (by @iamaiistudio) -->
-### Case 197: [Foto de producto de lata con revelacion de uvas](https://x.com/iamaiistudio/status/2067750180724855280) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 41: Foto de producto de lata con revelacion de uvas (by @iamaiistudio) -->
+### Case 41: [Foto de producto de lata con revelacion de uvas](https://x.com/iamaiistudio/status/2067750180724855280) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Resultado |
 | :----: |
@@ -1283,8 +1294,8 @@ Minimal white bottle with golden pump surrounded by cracked coconuts, coconut mi
 Product shot of a 330ml aluminum can called "VINE GLOW – Natural Extract" placed center-frame against a clean light grey studio background. The can is adorned with refined purple vine line illustrations. A dramatic horizontal torn paper reveal slices across the can and background, exposing glistening red and purple grapes inside, covered in water droplets with a glossy wet texture. Soft studio lighting, ultra-sharp focus, photorealistic commercial packaging photography, symmetrical layout, 8K resolution.
 ```
 
-<!-- Case 195: Anuncio skincare Coconut Paradise (by @Strength04_X) -->
-### Case 195: [Anuncio skincare Coconut Paradise](https://x.com/Strength04_X/status/2067445760325734734) (by [@Strength04_X](https://x.com/Strength04_X))
+<!-- Case 39: Anuncio skincare Coconut Paradise (by @Strength04_X) -->
+### Case 39: [Anuncio skincare Coconut Paradise](https://x.com/Strength04_X/status/2067445760325734734) (by [@Strength04_X](https://x.com/Strength04_X))
 
 | Output |
 | :----: |
@@ -1296,8 +1307,8 @@ Product shot of a 330ml aluminum can called "VINE GLOW – Natural Extract" plac
 Minimal white bottle with golden pump surrounded by cracked coconuts, coconut milk splash and foam clouds, tropical luxury spa atmosphere, creamy textures, realistic bubbles floating in background, premium skincare commercial, soft warm lighting, ultra detailed 8K.
 ```
 
-<!-- Case 196: VFX de producto en reensamblaje inverso (by @iamaiistudio) -->
-### Case 196: [VFX de producto en reensamblaje inverso](https://x.com/iamaiistudio/status/2067399156596175345) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 40: VFX de producto en reensamblaje inverso (by @iamaiistudio) -->
+### Case 40: [VFX de producto en reensamblaje inverso](https://x.com/iamaiistudio/status/2067399156596175345) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX de producto en reensamblaje inverso"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX de producto en reensamblaje inverso"></a></td></tr>
@@ -1310,8 +1321,8 @@ Minimal white bottle with golden pump surrounded by cracked coconuts, coconut mi
 [PRODUCT] reassembling in midair from scattered pieces, reverse-disintegration effect, mechanical precision, each component suspended at a different depth, dark void background, high-concept product advertising, cinematic VFX.
 ```
 
-<!-- Case 198: Anuncio de Ray-Ban Aviator gigante (by @MrDasOnX) -->
-### Case 198: [Anuncio de Ray-Ban Aviator gigante](https://x.com/MrDasOnX/status/2068024611074367579) (by [@MrDasOnX](https://x.com/MrDasOnX))
+<!-- Case 42: Anuncio de Ray-Ban Aviator gigante (by @MrDasOnX) -->
+### Case 42: [Anuncio de Ray-Ban Aviator gigante](https://x.com/MrDasOnX/status/2068024611074367579) (by [@MrDasOnX](https://x.com/MrDasOnX))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case198/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Anuncio de Ray-Ban Aviator gigante"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case198/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Anuncio de Ray-Ban Aviator gigante"></a></td></tr>
@@ -1323,8 +1334,8 @@ Minimal white bottle with golden pump surrounded by cracked coconuts, coconut mi
 Minimalist commercial ad featuring oversized Ray-Ban Aviator sunglasses, ultra-clean design. A young woman in all-white outfit leans casually against the giant sunglasses, relaxed confident pose, eyes closed, also holding a regular-sized pair in her hand. Soft gradient golden background with large bold white “RAY-BAN” text behind. Glossy reflective floor, soft studio lighting, modern high-end product photography. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Iconic vision, every look.”
 ```
 
-<!-- Case 199: Anuncio de perfume Noir Elixir (by @iamaiistudio) -->
-### Case 199: [Anuncio de perfume Noir Elixir](https://x.com/iamaiistudio/status/2069238367792112016) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 43: Anuncio de perfume Noir Elixir (by @iamaiistudio) -->
+### Case 43: [Anuncio de perfume Noir Elixir](https://x.com/iamaiistudio/status/2069238367792112016) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case199/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Anuncio de perfume Noir Elixir"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case199/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Anuncio de perfume Noir Elixir"></a></td></tr>
@@ -1343,8 +1354,8 @@ Color palette: obsidian black, smoked charcoal, deep amber with metallic gold an
 
 Macro cinema prime lens, shallow depth of field isolating product from background, smooth cinematic bokeh from reflective particles, extreme micro-detail clarity. 8K ultra high definition, hyper-realistic luxury commercial render, accurate glass refraction and internal reflections, physically accurate fluid dynamics, ultra-detailed crystal, metal, mist, and micro-droplet textures. Vertical 4:5 aspect ratio.
 ```
-<!-- Case 200: Key visual de logo de espuma fluorescente (by @iamaiistudio) -->
-### Case 200: [Key visual de logo de espuma fluorescente](https://x.com/iamaiistudio/status/2069135898265125326) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 44: Key visual de logo de espuma fluorescente (by @iamaiistudio) -->
+### Case 44: [Key visual de logo de espuma fluorescente](https://x.com/iamaiistudio/status/2069135898265125326) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -1382,8 +1393,8 @@ Houdini FLIP fluid simulation + Redshift/Octane or equivalent photorealistic CGI
 
 FINAL CHECK: (1) Does the fluid silhouette exactly match the [BRAND NAME] logo? (2) Is it inside a container? If yes, regenerate. (3) Any fluid outside the boundary? If yes, regenerate. (4) Both foam and liquid states visible? If no, regenerate.
 ```
-<!-- Case 201: Collage del universo de marca Glossier (by @iamaiistudio) -->
-### Case 201: [Collage del universo de marca Glossier](https://x.com/iamaiistudio/status/2069120574287392978) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 45: Collage del universo de marca Glossier (by @iamaiistudio) -->
+### Case 45: [Collage del universo de marca Glossier](https://x.com/iamaiistudio/status/2069120574287392978) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -1456,8 +1467,8 @@ FINAL FEEL:
 This must look like a creative direction board for a global campaign. Not a clean layout, not a grid, not minimal. It must feel alive, layered, and brand-heavy, a visual identity snapshot that is highly shareable and scroll-stopping.
 ```
 
-<!-- Case 202: Anuncio del telescopio cósmico de STARKIDZ (by @Strength04_X) -->
-### Case 202: [Anuncio del telescopio cósmico de STARKIDZ](https://x.com/Strength04_X/status/2069448983651787177) (by [@Strength04_X](https://x.com/Strength04_X))
+<!-- Case 46: Anuncio del telescopio cósmico de STARKIDZ (by @Strength04_X) -->
+### Case 46: [Anuncio del telescopio cósmico de STARKIDZ](https://x.com/Strength04_X/status/2069448983651787177) (by [@Strength04_X](https://x.com/Strength04_X))
 
 | Output |
 | :----: |
@@ -1470,8 +1481,8 @@ A magical science advertisement poster. A curious young boy age 10 in a NASA tsh
 ```
 
 
-<!-- Case 203: Anuncio de moda con reloj monumental (by @iamaiistudio) -->
-### Case 203: [Anuncio de moda con reloj monumental](https://x.com/iamaiistudio/status/2069387162425205211) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 47: Anuncio de moda con reloj monumental (by @iamaiistudio) -->
+### Case 47: [Anuncio de moda con reloj monumental](https://x.com/iamaiistudio/status/2069387162425205211) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -1484,8 +1495,8 @@ Oversized luxury wristwatch as a modern sculpture centerpiece, fashion model lea
 ```
 
 ---
-<!-- Case 204: Carrera de escape doodle en estudio (by @john_my07) -->
-### Case 204: [Carrera de escape doodle en estudio](https://x.com/john_my07/status/2071605998729740705) (by [@john_my07](https://x.com/john_my07))
+<!-- Case 48: Carrera de escape doodle en estudio (by @john_my07) -->
+### Case 48: [Carrera de escape doodle en estudio](https://x.com/john_my07/status/2071605998729740705) (by [@john_my07](https://x.com/john_my07))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case204/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Carrera de escape doodle en estudio"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case204/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Carrera de escape doodle en estudio"></a></td></tr>
@@ -1556,8 +1567,8 @@ Vertical composition.
 ```
 
 ---
-<!-- Case 205: Escena thriller de CCTV en metro (by @frametheory058) -->
-### Case 205: [Escena thriller de CCTV en metro](https://x.com/frametheory058/status/2071605430858756121) (by [@frametheory058](https://x.com/frametheory058))
+<!-- Case 49: Escena thriller de CCTV en metro (by @frametheory058) -->
+### Case 49: [Escena thriller de CCTV en metro](https://x.com/frametheory058/status/2071605430858756121) (by [@frametheory058](https://x.com/frametheory058))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case205/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Escena thriller de CCTV en metro"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case205/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Escena thriller de CCTV en metro"></a></td></tr>

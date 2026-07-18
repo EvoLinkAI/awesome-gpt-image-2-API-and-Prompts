@@ -148,7 +148,8 @@ counter strike in game screenshot, mixed with Terraria
 an ingame screenshot of rust
 ```
 
-### Case 35: [Sam Altman Bear Selfie](https://x.com/JustinGorya/status/2046510831832006970) (by [@JustinGorya](https://x.com/JustinGorya))
+<!-- Case 432: Sam Altman Bear Selfie (by @JustinGorya) -->
+### Case 432: [Sam Altman Bear Selfie](https://x.com/JustinGorya/status/2046510831832006970) (by [@JustinGorya](https://x.com/JustinGorya))
 
 | 输出效果 |
 | :----: |
@@ -545,7 +546,8 @@ Research LIME Drug Design and make a detailed infographic about it
 图片2：霸天虎全员列阵外星战舰甲板，威震天坐于王座俯视全军
 ```
 
-### Case 68: [Naturalist-Style Food Specimen Cross-Section](https://x.com/GeekCatX/status/2046939656244318676) (by [@GeekCatX](https://x.com/GeekCatX))
+<!-- Case 433: Naturalist-Style Food Specimen Cross-Section (by @GeekCatX) -->
+### Case 433: [Naturalist-Style Food Specimen Cross-Section](https://x.com/GeekCatX/status/2046939656244318676) (by [@GeekCatX](https://x.com/GeekCatX))
 
 | 输出效果 |
 | :----: |
@@ -816,9 +818,9 @@ GPT Image 2 室内设计情绪板生成器
 避免杂乱拼贴、避免廉价海报风、避免材质与空间不匹配、避免错误透视、避免低质字体、避免装饰元素过多、避免卡通感、避免过饱和色彩、避免信息层
 ```
 
-<!-- Case 84: Donut Heist Storyboard Sheet (by @MayorKingAI) -->
+<!-- Case 435: Donut Heist Storyboard Sheet (by @MayorKingAI) -->
 
-### Case 84: [Donut Heist Storyboard Sheet](https://x.com/MayorKingAI/status/2054266888428105947) (by [@MayorKingAI](https://x.com/MayorKingAI))
+### Case 435: [Donut Heist Storyboard Sheet](https://x.com/MayorKingAI/status/2054266888428105947) (by [@MayorKingAI](https://x.com/MayorKingAI))
 
 | Output |
 | :----: |
@@ -851,9 +853,9 @@ Each panel: timecode, shot type, camera move, short action note.
 Right side: character sheet + palette: sunny park, green grass, raccoon grey-brown, squirrel orange-brown, pink icing.
 ```
 
-<!-- Case 85: Sourdough Baker Storyboard (by @TechieBySA) -->
+<!-- Case 436: Sourdough Baker Storyboard (by @TechieBySA) -->
 
-### Case 85: [Sourdough Baker Storyboard](https://x.com/TechieBySA/status/2054609590332129596) (by [@TechieBySA](https://x.com/TechieBySA))
+### Case 436: [Sourdough Baker Storyboard](https://x.com/TechieBySA/status/2054609590332129596) (by [@TechieBySA](https://x.com/TechieBySA))
 
 | Output |
 | :----: |
@@ -865,8 +867,8 @@ Right side: character sheet + palette: sunny park, green grass, raccoon grey-bro
 “Create a crisp, clean infographic storyboard poster for THE SOURDOUGH BAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright warm colors — creamy dough whites, golden crust browns, warm flour dust, rich amber kitchen light, pops of green from herbs on the windowsill. Top header: THE SOURDOUGH BAKER TOTAL VIDEO TIME: 12 SECONDS 8 SHOTS · WARM · SLOW · BAKED WITH LOVE Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT Same Pixar-style young male baker throughout — flour-dusted white apron, warm rustic kitchen, wooden counter, morning light streaming through the window. And one recurring character — a fluffy orange cat who takes the craft extremely seriously and is present in every single panel. 8 panels: Panel 1 — THE OPENER: Wide shot. Baker walks into his kitchen at dawn carrying a large flour bag under one arm. He drops it onto the wooden counter sending a dramatic puff of white flour into the warm morning light — flour cloud catching the golden sunlight beautifully. The orange cat is already sitting on the counter waiting, completely unbothered by the flour cloud, staring directly at the baker. They look at each other. The day begins. You know exactly what's about to happen. Panel 2 — THE MIX: Overhead locked shot. Baker's hands mixing flour, water and sourdough starter together in a large ceramic bowl — shaggy dough forming, the transformation beginning. The orange cat sits at the edge of the counter, head tilted, watching the bowl with complete concentration. Panel 3 — THE KNEAD: The hero comedy panel. Baker steps aside. The orange cat is on the counter, both front paws pressing and kneading the dough exactly like cats do in real life — slow rhythmic biscuit-making motion, eyes half closed in pure contentment. Baker watches from the side with a resigned smile. The cat is completely unbothered and deeply committed to the process. Panel 4 — THE FOLD: Side angle. Baker performs the stretch and fold — pulling the dough up and folding it over itself, the dough becoming smooth and elastic. Close-up on hands and dough. The orange cat watches from beside the bowl, one paw resting on the counter edge, supervising every movement. Panel 5 — THE SCORE: Close-up dramatic shot. Baker holds a razor lame above the risen dough, scoring a deep curved line across the surface — the blade catching the light. The orange cat sits in the background perfectly framed, watching with complete intensity as if this is the most important moment of the day. It is. Panel 6 — THE OVEN: Wide shot. Baker slides the dough inside the cast iron dutch oven, closes the heavy lid, slides it into the glowing oven. The orange cat sits directly in front of the oven door, staring at it, waiting. Will not move. Will never move. Panel 7 — THE REVEAL: The hero frame. Baker lifts the dutch oven lid — an enormous cloud of steam erupts upward, and beneath it the most perfect golden sourdough loaf, deeply scored crust cracked open, caramelized and blistered. The orange cat stands up on its hind legs trying to see over the counter edge, eyes wide, completely losing its composure for the first time. Panel 8 — THE SLICE: Wide warm shot. Baker slices through the loaf — perfect open crumb revealed inside, steam still rising, golden crust crackling. Butter placed on the warm slice, melting instantly. The orange cat sits beside the cutting board, one paw raised toward the bread. Baker looks at the cat. Cat looks at the bread. Baker smiles. Perfect ending. Footer: VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. Flour drop to first slice. CAMERA TIPS: wide on opener with flour cloud, overhead on the mix, wide medium on the knead with cat in full view, side angle on the fold, close-up on the score, wide on the oven with cat guarding, hero wide shot on the steam reveal, warm wide on the final slice LIGHT & STYLE: warm golden morning light, creamy dough whites, deep golden crust.”
 ```
 
-<!-- Case 86: Storyboard Grid Template (by @EricoolWong) -->
-### Case 86: [Storyboard Grid Template](https://x.com/EricoolWong/status/2055788309511917880) (by [@EricoolWong](https://x.com/EricoolWong))
+<!-- Case 437: Storyboard Grid Template (by @EricoolWong) -->
+### Case 437: [Storyboard Grid Template](https://x.com/EricoolWong/status/2055788309511917880) (by [@EricoolWong](https://x.com/EricoolWong))
 
 | Output |
 | :----: |
@@ -901,8 +903,8 @@ Technical specifications
 #AIArt #AIFilm #AIStoryboard
 ```
 
-<!-- Case 87: Pancake Dad Storyboard (by @TechieBySA) -->
-### Case 87: [Pancake Dad Storyboard](https://x.com/TechieBySA/status/2055695974085927240) (by [@TechieBySA](https://x.com/TechieBySA))
+<!-- Case 438: Pancake Dad Storyboard (by @TechieBySA) -->
+### Case 438: [Pancake Dad Storyboard](https://x.com/TechieBySA/status/2055695974085927240) (by [@TechieBySA](https://x.com/TechieBySA))
 
 | Output |
 | :----: |
@@ -947,7 +949,8 @@ Create a 9-shot cinematic storyboard for a Borussia Dortmund match intro TV broa
 Players appear inside the television broadcast graphics, then in a magical, reality-breaking moment, they burst out of the screen into the real world. The transition feels powerful, emotional, and larger than life, as glowing particles, stadium lights, and dynamic camera movements transform the scene into an epic celebration.
 As the players emerge, they interact with the fans in a euphoric post-goal moment, celebrating together with raw energy and passion. Every shot should feel premium, fast-paced, and cinematic, combining dramatic lighting, immersive crowd atmosphere, intense action, and world-class commercial aesthetics inspired by modern UEFA Champions League broadcast intros.
 ```
-### Case 89: [Solar Desert Worldbuilding Kit](https://x.com/iamaiistudio/status/2059335346861781102) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 439: Solar Desert Worldbuilding Kit (by @iamaiistudio) -->
+### Case 439: [Solar Desert Worldbuilding Kit](https://x.com/iamaiistudio/status/2059335346861781102) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -960,7 +963,8 @@ Build a full visual worldbuilding kit for a futuristic solar-powered desert civi
 ```
 
 ---
-### Case 90: Racer Character Model Sheet
+<!-- Case 440: Racer Character Model Sheet (by @itsPixieVerse) -->
+### Case 440: [Racer Character Model Sheet](https://x.com/itsPixieVerse/status/2063062387394216112) (by [@itsPixieVerse](https://x.com/itsPixieVerse))
 
 **Source**: [@itsPixieVerse](https://x.com/itsPixieVerse/status/2063062387394216112)
 
@@ -974,7 +978,8 @@ Build a full visual worldbuilding kit for a futuristic solar-powered desert civi
 <img src="../images/comparison_case90/output.jpg" width="500">
 
 ---
-### Case 91: Era Cube Visualizer Grid
+<!-- Case 441: Era Cube Visualizer Grid (by @Gdgtify) -->
+### Case 441: [Era Cube Visualizer Grid](https://x.com/Gdgtify/status/2062903770087084107) (by [@Gdgtify](https://x.com/Gdgtify))
 
 **Source**: [@Gdgtify](https://x.com/Gdgtify/status/2062903770087084107)
 
@@ -990,7 +995,8 @@ I love these cube prompts for visualizing different eras. Pretty short but GPT I
 <img src="../images/comparison_case91/output.jpg" width="500">
 
 ---
-### Case 92: Chaotic Kitchen Freeze-Frame
+<!-- Case 442: Chaotic Kitchen Freeze-Frame (by @iamaiistudio) -->
+### Case 442: [Chaotic Kitchen Freeze-Frame](https://x.com/iamaiistudio/status/2062762822468272327) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062762822468272327)
 
@@ -1004,7 +1010,8 @@ Surreal comedic freeze-frame inside a modern kitchen: a young man arches backwar
 <img src="../images/comparison_case92/output.jpg" width="500">
 
 ---
-### Case 93: Innovation Reliquary Diagram
+<!-- Case 443: Innovation Reliquary Diagram (by @Gdgtify) -->
+### Case 443: [Innovation Reliquary Diagram](https://x.com/Gdgtify/status/2062720059575783713) (by [@Gdgtify](https://x.com/Gdgtify))
 
 **Source**: [@Gdgtify](https://x.com/Gdgtify/status/2062720059575783713)
 
@@ -1053,7 +1060,8 @@ Output:
 <img src="../images/comparison_case93/output.jpg" width="500">
 
 ---
-### Case 94: 90s Sitcom Fashion Character Lineup
+<!-- Case 444: 90s Sitcom Fashion Character Lineup (by @Taaruk_) -->
+### Case 444: [90s Sitcom Fashion Character Lineup](https://x.com/Taaruk_/status/2063300353588879444) (by [@Taaruk_](https://x.com/Taaruk_))
 
 **Source**: [@Taaruk_](https://x.com/Taaruk_/status/2063300353588879444)
 
@@ -1070,7 +1078,8 @@ Full-body character lineup showcasing the same person transformed through six ic
 ```
 
 ---
-### Case 95: SQL Collectible Toy Packaging Grid
+<!-- Case 445: SQL Collectible Toy Packaging Grid (by @Gdgtify) -->
+### Case 445: [SQL Collectible Toy Packaging Grid](https://x.com/Gdgtify/status/2063254078269137330) (by [@Gdgtify](https://x.com/Gdgtify))
 
 **Source**: [@Gdgtify](https://x.com/Gdgtify/status/2063254078269137330)
 
@@ -1085,7 +1094,8 @@ SELECT * FROM Collectible_Toy_Packaging  WHERE layout_format = '2x2_Quadrant_Gri
 ```
 
 ---
-### Case 96: Shattered Stone Style Transfer
+<!-- Case 446: Shattered Stone Style Transfer (by @Samann_ai) -->
+### Case 446: [Shattered Stone Style Transfer](https://x.com/Samann_ai/status/2063606958188265880) (by [@Samann_ai](https://x.com/Samann_ai))
 
 **Source**: [@Samann_ai](https://x.com/Samann_ai/status/2063606958188265880)
 
@@ -1124,7 +1134,8 @@ SELECT * FROM Collectible_Toy_Packaging  WHERE layout_format = '2x2_Quadrant_Gri
 ```
 
 ---
-### Case 97: Continuous-Run Glitch Storyboard
+<!-- Case 447: Continuous-Run Glitch Storyboard (by @aimikoda) -->
+### Case 447: [Continuous-Run Glitch Storyboard](https://x.com/aimikoda/status/2063688774324981798) (by [@aimikoda](https://x.com/aimikoda))
 
 **Source**: [@aimikoda](https://x.com/aimikoda/status/2063688774324981798)
 
@@ -1165,7 +1176,8 @@ I shared the storyboard skill file I use for these prompts with my subscribers.
 ```
 
 ---
-### Case 98: Match-Day Supporter Transformation Board
+<!-- Case 448: Match-Day Supporter Transformation Board (by @ai_gezgini) -->
+### Case 448: [Match-Day Supporter Transformation Board](https://x.com/ai_gezgini/status/2063677480406511690) (by [@ai_gezgini](https://x.com/ai_gezgini))
 
 **Source**: [@ai_gezgini](https://x.com/ai_gezgini/status/2063677480406511690)
 
@@ -1351,7 +1363,8 @@ A premium 12-frame editorial match-day transformation storyboard showing the upl
 ```
 
 ---
-### Case 99: Dust Bunny Nature Documentary
+<!-- Case 449: Dust Bunny Nature Documentary (by @NeuralAIInsight) -->
+### Case 449: [Dust Bunny Nature Documentary](https://x.com/NeuralAIInsight/status/2063638281976189102) (by [@NeuralAIInsight](https://x.com/NeuralAIInsight))
 
 **Source**: [@NeuralAIInsight](https://x.com/NeuralAIInsight/status/2063638281976189102)
 
@@ -1642,7 +1655,8 @@ KEY INSTRUCTIONS:
 * Do not show panel boxes, labels, numbers, captions, storyboard borders, or camera notes.
 ```
 
-### Case 100: [Action Storyboard Sheet](https://x.com/neural_aperture/status/2064048487583424581) (by [@neural_aperture](https://x.com/neural_aperture))
+<!-- Case 450: Action Storyboard Sheet (by @neural_aperture) -->
+### Case 450: [Action Storyboard Sheet](https://x.com/neural_aperture/status/2064048487583424581) (by [@neural_aperture](https://x.com/neural_aperture))
 
 ![Action Storyboard Sheet](../../images/comparison_case100/output.jpg)
 
@@ -1664,7 +1678,8 @@ LOCATION: open Japanese mountain field at blue hour, ankle-high wind-blown grass
 ```
 
 
-### Case 101: [Churro Maker Storyboard Poster](https://x.com/TechieBySA/status/2064032022830502202) (by [@TechieBySA](https://x.com/TechieBySA))
+<!-- Case 451: Churro Maker Storyboard Poster (by @TechieBySA) -->
+### Case 451: [Churro Maker Storyboard Poster](https://x.com/TechieBySA/status/2064032022830502202) (by [@TechieBySA](https://x.com/TechieBySA))
 
 ![Churro Maker Storyboard Poster](../../images/comparison_case101/output.jpg)
 
@@ -1707,7 +1722,8 @@ Footer:
 •VENDOR NOTES: one vendor, one cart, one perfect churro. Golden, crispy, and impossible to walk past.”
 ```
 
-### Case 102: [Food Anime Storyboard Generator](https://x.com/tanabe_fragm/status/2064510342328353143) (by [@tanabe_fragm](https://x.com/tanabe_fragm))
+<!-- Case 452: Food Anime Storyboard Generator (by @tanabe_fragm) -->
+### Case 452: [Food Anime Storyboard Generator](https://x.com/tanabe_fragm/status/2064510342328353143) (by [@tanabe_fragm](https://x.com/tanabe_fragm))
 
 ![Food Anime Storyboard Generator](../../images/comparison_case102/output.jpg)
 
@@ -1775,7 +1791,8 @@ For unagi nigiri:
 ```
 
 ---
-### Case 103: Old Footage Restoration with GPT-Image 2
+<!-- Case 456: Old Footage Restoration with GPT-Image 2 (by @CuriousRefuge) -->
+### Case 456: [Old Footage Restoration with GPT-Image 2](https://x.com/CuriousRefuge/status/2065139340486045905) (by [@CuriousRefuge](https://x.com/CuriousRefuge))
 
 **Source**: [@CuriousRefuge](https://x.com/CuriousRefuge/status/2065139340486045905)
 
@@ -1795,7 +1812,8 @@ Once GPT-Image 2 gives you the first ultra high quality image, upload the rest o
 ```
 
 ---
-### Case 104: 4 Architectural Styles 2×2 Grid
+<!-- Case 457: 4 Architectural Styles 2×2 Grid (by @Gdgtify) -->
+### Case 457: [4 Architectural Styles 2×2 Grid](https://x.com/Gdgtify/status/2065191846800740636) (by [@Gdgtify](https://x.com/Gdgtify))
 
 **Source**: [@Gdgtify](https://x.com/Gdgtify/status/2065191846800740636)
 
@@ -1812,7 +1830,8 @@ Once GPT-Image 2 gives you the first ultra high quality image, upload the rest o
 ```
 
 ---
-### Case 105: 硬币金额编辑测试
+<!-- Case 458: 硬币金额编辑测试 (by @iamaiistudio) -->
+### Case 458: [硬币金额编辑测试](https://x.com/iamaiistudio/status/2065994787094983151) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **来源**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065994787094983151)
 
@@ -1829,7 +1848,8 @@ Modify this photo so the total adds up to 244.5 baht. Adjust the number of coins
 ```
 
 ---
-### Case 106: 蓝图与渲染分屏物体
+<!-- Case 459: 蓝图与渲染分屏物体 (by @iamaiistudio) -->
+### Case 459: [蓝图与渲染分屏物体](https://x.com/iamaiistudio/status/2067202108303311255) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **来源**: [@iamaiistudio](https://x.com/iamaiistudio/status/2067202108303311255)
 
@@ -1847,7 +1867,8 @@ Pick any object and slice it in half vertically, the left side rendered as a det
 ```
 
 ---
-### Case 107: 凉棚蓝图与实景搭建分屏
+<!-- Case 460: 凉棚蓝图与实景搭建分屏 (by @iamaiistudio) -->
+### Case 460: [凉棚蓝图与实景搭建分屏](https://x.com/iamaiistudio/status/2067142493389603170) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **来源**: [@iamaiistudio](https://x.com/iamaiistudio/status/2067142493389603170)
 
@@ -1869,8 +1890,8 @@ Construction lines, dimensions and handwritten notes visible. Wooden posts and c
 Finished Pergola: Fully built wooden pergola in a real garden, matching the exact structure and proportions from the sketch. Viewed from a low front corner perspective at eye level, showing depth and the full beam structure instead of a flat elevation. Natural wood texture with realistic joints and connections. Installed on grass with surrounding plants. Soft daylight with grounded shadows. Photorealistic architectural visualization.
 ```
 
-<!-- Case 108: Weightless Morning Storyboard (by @DrSadek_) -->
-### Case 108: [失重清晨分镜板](https://x.com/DrSadek_/status/2068438789236699582) (by [@DrSadek_](https://x.com/DrSadek_))
+<!-- Case 453: Weightless Morning Storyboard (by @DrSadek_) -->
+### Case 453: [失重清晨分镜板](https://x.com/DrSadek_/status/2068438789236699582) (by [@DrSadek_](https://x.com/DrSadek_))
 
 **输出效果:**
 
@@ -1884,8 +1905,8 @@ Finished Pergola: Fully built wooden pergola in a real garden, matching the exac
 A cinematic 6-panel storyboard sheet on a clean dark charcoal background, arranged in a 3-column by 2-row grid of widescreen 16:9 panels with thin neutral gray borders and a small white number label in the top-left corner of each panel. Photorealistic film stills, naturalistic dawn lighting, shallow depth of field, natural skin texture with subtle imperfections, candid composition, muted naturalistic color grade. Unifying concept: an ordinary morning where gravity has quietly stopped working — everyday objects and people drifting weightlessly. Panel 1: a bedroom at dawn, soft blue light, a sleeping person and their duvet drifting an inch above the mattress, dust motes hanging perfectly still in the air. Panel 2: a kitchen close-up, dark coffee pouring upward out of a white mug in a slow liquid ribbon, steam curling downward toward the counter. Panel 3: a bathroom, a toothbrush hovering mid-air with a pearl-like blob of toothpaste suspended beside it, scattered water droplets frozen around a reaching hand. Panel 4: a breakfast table, cereal pieces and milk orbiting a bowl in a lazy floating halo, a single spoon chasing one drifting cereal O. Panel 5: an entryway, keys, coins and a wallet frozen in a constellation above a doormat, a hand sweeping slowly through them. Panel 6: a front door swinging open onto an ordinary busy street below, a person floating out unbothered while sipping from an upside-down coffee cup. Each panel a distinct camera framing, photoreal textures. Small white label text — EXACT TEXT: '1','2','3','4','5','6' — one number per panel, no extra text, no duplicate text.
 ```
 
-<!-- Case 109: 狗骨头变形宇宙飞船 (by @iamaiistudio) -->
-### Case 109: [狗骨头变形宇宙飞船](https://x.com/iamaiistudio/status/2068969150949843373) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 461: 狗骨头变形宇宙飞船 (by @iamaiistudio) -->
+### Case 461: [狗骨头变形宇宙飞船](https://x.com/iamaiistudio/status/2068969150949843373) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case109/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 狗骨头变形宇宙飞船"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case109/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 狗骨头变形宇宙飞船"></a></td></tr>
@@ -1898,8 +1919,8 @@ A cinematic 6-panel storyboard sheet on a clean dark charcoal background, arrang
 A photorealistic split-frame composition divided precisely down the center. Left half: a detailed dog bone resting against the dividing edge, set against a bright blue sky with soft clouds. Right half: the bone organically morphs into a breathtaking futuristic spacecraft, its silhouette and form continuing the exact contours of the bone into a deep starfield. The transition across the centerline is seamless, making the organic structure flow naturally into the mechanical, set against a clean neutral backdrop to draw full focus to both subjects.
 ```
 
-<!-- Case 110: 铅笔屑微缩景观网格 (by @Gdgtify) -->
-### Case 110: [铅笔屑微缩景观网格](https://x.com/Gdgtify/status/2069543521045143580) (by [@Gdgtify](https://x.com/Gdgtify))
+<!-- Case 462: 铅笔屑微缩景观网格 (by @Gdgtify) -->
+### Case 462: [铅笔屑微缩景观网格](https://x.com/Gdgtify/status/2069543521045143580) (by [@Gdgtify](https://x.com/Gdgtify))
 
 | Output |
 | :----: |
@@ -1911,8 +1932,8 @@ A photorealistic split-frame composition divided precisely down the center. Left
 2x2 grid, do this for 4 days $ scenes that made humans proud: Input = Pencil Shaving Category. Identify 4 distinct shavings (e.g., Graphite Shavings, Red Pencil Shavings, Yellow Pencil Shavings, Green Pencil Shavings). > Function Draw($ Pencil_Shaving, $ scene) > Anchor: [scene]:: [Pencil_Shaving]::4 > Morphology: A stunning 3D [scene] composed of [Pencil_Shaving] — full detailed > Material Physics: The thin curled wood, painted color edge, and fine grain of [$Pencil_Shaving] under warm window light
 ```
 
-<!-- Case 111: 椒盐卷饼工匠分镜板 (by @TechieBySA) -->
-### Case 111: [椒盐卷饼工匠分镜板](https://x.com/TechieBySA/status/2069811464324460679) (by [@TechieBySA](https://x.com/TechieBySA))
+<!-- Case 454: 椒盐卷饼工匠分镜板 (by @TechieBySA) -->
+### Case 454: [椒盐卷饼工匠分镜板](https://x.com/TechieBySA/status/2069811464324460679) (by [@TechieBySA](https://x.com/TechieBySA))
 
 | Output |
 | :----: |
@@ -1944,8 +1965,8 @@ LIGHT & STYLE: warm Bavarian daylight throughout, deep golden pretzel crust, coa
 BAKER NOTES: one baker, one stand, one perfect pretzel. Golden, twisted, and straight from Bavaria.”
 ```
 
-<!-- Case 112: 鸟巢椅概念板 (by @iamaiistudio) -->
-### Case 112: [鸟巢椅概念板](https://x.com/iamaiistudio/status/2069779689074561192) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 455: 鸟巢椅概念板 (by @iamaiistudio) -->
+### Case 455: [鸟巢椅概念板](https://x.com/iamaiistudio/status/2069779689074561192) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |

@@ -6,7 +6,7 @@
       "title": "Convenience Store Neon Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-1-convenience-store-neon-portrait-by-bubblebrain",
+      "case_anchor": "#case-52-convenience-store-neon-portrait-by-bubblebrain",
       "image_dir": "images/portrait_case1",
       "added_at": "2026-04-22T18:00:00+08:00"
     },
@@ -626,7 +626,7 @@
       "title": "Persona5 Character Reference Card",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-2-persona5-character-reference-card-by-iamrednights",
+      "case_anchor": "#case-363-persona5-character-reference-card-by-iamrednights",
       "image_dir": "images/character_case2",
       "added_at": "2026-04-22T18:00:00+08:00"
     },
@@ -656,7 +656,7 @@
       "title": "Mecha Girl Sea-City Key Visual",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-7-mecha-girl-sea-city-key-visual-by-old-pgmrs-will",
+      "case_anchor": "#case-364-mecha-girl-sea-city-key-visual-by-old_pgmrs_will",
       "image_dir": "images/character_case7",
       "added_at": "2026-04-22T18:00:00+08:00"
     },
@@ -686,7 +686,7 @@
       "title": "One-Prompt UI Design Generation",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-1-one-prompt-ui-design-generation-by-austinit",
+      "case_anchor": "#case-381-one-prompt-ui-design-generation-by-austinit",
       "image_dir": "images/ui_case1",
       "added_at": "2026-04-22T18:00:00+08:00"
     },
@@ -906,7 +906,7 @@
       "title": "Cyberpunk Neon UI Design System",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-38-cyberpunk-neon-ui-design-system-by-azlnfvp",
+      "case_anchor": "#case-382-cyberpunk-neon-ui-design-system-by-azlnfvp",
       "image_dir": "images/ui_case38",
       "added_at": "2026-04-22T18:00:00+08:00"
     },
@@ -1026,7 +1026,7 @@
       "title": "Sam Altman Bear Selfie",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "#case-35-sam-altman-bear-selfie-by-justingorya",
+      "case_anchor": "#case-432-sam-altman-bear-selfie-by-justingorya",
       "image_dir": "images/comparison_case35",
       "added_at": "2026-04-22T18:00:00+08:00"
     },
@@ -1923,7 +1923,8 @@
         "https://pbs.twimg.com/media/HGgwoDGacAAcUP_.jpg",
         "https://pbs.twimg.com/media/HGgwoDLbsAAzkrI.jpg",
         "https://pbs.twimg.com/media/HGgwoDGbEAAYA2_.jpg"
-      ]
+      ],
+      "case_anchor": "#case-433-naturalist-style-food-specimen-cross-section-by-geekcatx"
     },
     {
       "tweet_url": "https://x.com/MajaDesignJP/status/2047235632934928765",
@@ -2182,7 +2183,8 @@
       "case_num": 79,
       "suggested_title": "Peacock Botanical Vintage Symmetrical Art Print",
       "image_path": "images/poster_case79/output.jpg",
-      "tweet_id": "2047803054422901046"
+      "tweet_id": "2047803054422901046",
+      "case_anchor": "#case-194-peacock-botanical-vintage-symmetrical-art-print-by-dotey"
     },
     {
       "tweet_url": "https://x.com/miratechtool/status/2047780974709346606",
@@ -2536,7 +2538,7 @@
       "title": "Ink-Etched Family Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-84-ink-etched-family-portrait-by-gdb",
+      "case_anchor": "#case-53-ink-etched-family-portrait-by-gdb",
       "image_dir": "images/portrait_case84",
       "added_at": "2026-04-27T10:35:44+08:00"
     },
@@ -3016,7 +3018,7 @@
       "title": "Luxury Chronograph Watch Ad",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-144-luxury-chronograph-watch-ad-by-AlwaveNazca",
+      "case_anchor": "#case-17-luxury-chronograph-watch-ad-by-alwavenazca",
       "image_dir": "images/poster_case144",
       "added_at": "2026-04-27T10:35:44+08:00"
     },
@@ -3056,7 +3058,7 @@
       "title": "E-commerce Main Image - Miniature Diorama Skincare Advertisement",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-151-e-commerce-main-image---miniature-dioram-by-Strength04_X",
+      "case_anchor": "#case-1-e-commerce-main-image---miniature-diorama-skincare-advertisement-by-strength04_x",
       "image_dir": "images/poster_case151",
       "added_at": "2026-04-27T10:35:44+08:00"
     },
@@ -3146,7 +3148,7 @@
       "title": "E-commerce Main Image - 9-Panel Product TVC Storyboard",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-160-e-commerce-main-image---9-panel-product--by-Magncsans",
+      "case_anchor": "#case-2-e-commerce-main-image---9-panel-product-tvc-storyboard-by-magncsans",
       "image_dir": "images/poster_case160",
       "added_at": "2026-04-27T10:35:44+08:00"
     },
@@ -3156,7 +3158,7 @@
       "title": "GTA 6 in Bangalore Flower Market",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-11-gta-6-in-bangalore-flower-market-by-ismajc",
+      "case_anchor": "#case-365-gta-6-in-bangalore-flower-market-by-ismajc",
       "image_dir": "images/character_case11",
       "added_at": "2026-04-27T10:35:44+08:00"
     },
@@ -3376,7 +3378,7 @@
       "title": "Luxury chocolate campaign system",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-169-luxury-chocolate-campaign-system-by-speedai07",
+      "case_anchor": "#case-18-luxury-chocolate-campaign-system-by-speedai07",
       "image_dir": "images/poster_case169",
       "added_at": "2026-04-29T21:10:00+08:00"
     },
@@ -3476,7 +3478,7 @@
       "title": "Burger hero image plus 9-cell ad storyboard",
       "category": "E-commerce Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-163-burger-hero-image-plus-9-cell-ad-storyboard-by-gdgtify",
+      "case_anchor": "#case-3-burger-hero-image-plus-9-cell-ad-storyboard-by-gdgtify",
       "image_dir": "images/ecommerce_case163",
       "added_at": "2026-04-29T21:20:00+08:00"
     },
@@ -3596,7 +3598,7 @@
       "title": "Printable Paint by Numbers",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "#case-77-printable-paint-by-numbers-by-theroaringtoady",
+      "case_anchor": "#case-434-printable-paint-by-numbers-by-theroaringtoady",
       "image_dir": "images/comparison_case77",
       "added_at": "2026-05-02T17:20:00+08:00"
     },
@@ -3706,7 +3708,7 @@
       "title": "12-Panel Storyboard Poster",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-124-12-panel-storyboard-poster-by-bmx-ai13",
+      "case_anchor": "#case-383-12-panel-storyboard-poster-by-bmx_ai13",
       "image_dir": "images/ui_case124",
       "added_at": "2026-05-02T17:20:00+08:00"
     },
@@ -3796,7 +3798,7 @@
       "title": "Surreal Brand World Poster",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-170-surreal-brand-world-poster-by-saasjunctionhq",
+      "case_anchor": "#case-19-surreal-brand-world-poster-by-saasjunctionhq",
       "image_dir": "images/ad_case170",
       "added_at": "2026-05-03T07:46:27.024835+00:00"
     },
@@ -3998,7 +4000,8 @@
       "category": "portrait",
       "case_number": 117,
       "folder_name": "portrait_case117",
-      "ingested_at": "2026-05-06T10:00:00+08:00"
+      "ingested_at": "2026-05-06T10:00:00+08:00",
+      "case_anchor": "#case-54-chibi-3d-mini-me-photo-effect-by-miratechtool"
     },
     {
       "tweet_url": "https://x.com/Taaruk_/status/2051690647997088110",
@@ -4008,7 +4011,8 @@
       "category": "poster",
       "case_number": 191,
       "folder_name": "poster_case191",
-      "ingested_at": "2026-05-06T10:00:00+08:00"
+      "ingested_at": "2026-05-06T10:00:00+08:00",
+      "case_anchor": "#case-196-food-photography-with-doodle-characters-by-taaruk_"
     },
     {
       "tweet_url": "https://x.com/Shinning1010/status/2051684366460354923",
@@ -4038,7 +4042,8 @@
       "category": "poster",
       "case_number": 193,
       "folder_name": "poster_case193",
-      "ingested_at": "2026-05-06T10:00:00+08:00"
+      "ingested_at": "2026-05-06T10:00:00+08:00",
+      "case_anchor": "#case-195-luxury-brand-ad-campaign-poster-by-techiebysa"
     },
     {
       "tweet_url": "https://x.com/Jawad_Rahman_/status/2051671878608228630",
@@ -5032,7 +5037,7 @@
       "title": "Hand-Torn Editorial Collage",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-194-hand-torn-editorial-collage-by-realsigridjin",
+      "case_anchor": "#case-197-hand-torn-editorial-collage-by-realsigridjin",
       "image_dir": "images/poster_case250",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5042,7 +5047,7 @@
       "title": "Wimbledon Broadcast Crowd Shot",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-118-wimbledon-broadcast-crowd-shot-by-mavericks_prod",
+      "case_anchor": "#case-55-wimbledon-broadcast-crowd-shot-by-mavericks_prod",
       "image_dir": "images/portrait_case170",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5052,7 +5057,7 @@
       "title": "Luxury Fragrance Campaign Portrait",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-171-luxury-fragrance-campaign-portrait-by-amynys",
+      "case_anchor": "#case-20-luxury-fragrance-campaign-portrait-by-amynys",
       "image_dir": "images/ad-creative_case174",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5062,7 +5067,7 @@
       "title": "Glowing Sailboat Night Illustration",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-195-glowing-sailboat-night-illustration-by-churvikv",
+      "case_anchor": "#case-198-glowing-sailboat-night-illustration-by-churvikv",
       "image_dir": "images/poster_case251",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5072,7 +5077,7 @@
       "title": "Istanbul Line-Art Travel Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-196-istanbul-line-art-travel-poster-by-miilesus",
+      "case_anchor": "#case-199-istanbul-line-art-travel-poster-by-miilesus",
       "image_dir": "images/poster_case252",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5082,7 +5087,7 @@
       "title": "Donut Heist Storyboard Sheet",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "#case-78-donut-heist-storyboard-sheet-by-mayorkingai",
+      "case_anchor": "#case-435-donut-heist-storyboard-sheet-by-mayorkingai",
       "image_dir": "images/comparison_case84",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5092,7 +5097,7 @@
       "title": "Dark Western Outlaw Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-197-dark-western-outlaw-poster-by-you1873118",
+      "case_anchor": "#case-200-dark-western-outlaw-poster-by-you1873118",
       "image_dir": "images/poster_case253",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5102,7 +5107,7 @@
       "title": "Handwritten Study Infographic Poster",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-125-handwritten-study-infographic-poster-by-yazoraiz",
+      "case_anchor": "#case-384-handwritten-study-infographic-poster-by-yazoraiz",
       "image_dir": "images/ui_case143",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5112,7 +5117,7 @@
       "title": "Berry Splash Cafe Campaign",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-172-berry-splash-cafe-campaign-by-iamaiistudio",
+      "case_anchor": "#case-21-berry-splash-cafe-campaign-by-iamaiistudio",
       "image_dir": "images/ad-creative_case175",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5122,7 +5127,7 @@
       "title": "Rainy Street Golden Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-119-rainy-street-golden-portrait-by-harboriis",
+      "case_anchor": "#case-56-rainy-street-golden-portrait-by-harboriis",
       "image_dir": "images/portrait_case171",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5132,7 +5137,7 @@
       "title": "Fast Food Hero Poster",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-173-fast-food-hero-poster-by-shamsamin56",
+      "case_anchor": "#case-22-fast-food-hero-poster-by-shamsamin56",
       "image_dir": "images/ad-creative_case176",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5142,7 +5147,7 @@
       "title": "Anime Streetwear Mascot Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-198-anime-streetwear-mascot-poster-by-taaruk_",
+      "case_anchor": "#case-201-anime-streetwear-mascot-poster-by-taaruk_",
       "image_dir": "images/poster_case254",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5152,7 +5157,7 @@
       "title": "Wildlife Infographic Reference Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-199-wildlife-infographic-reference-poster-by-sha_zdiii",
+      "case_anchor": "#case-202-wildlife-infographic-reference-poster-by-sha_zdiii",
       "image_dir": "images/poster_case255",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5162,7 +5167,7 @@
       "title": "Ancient Civilization Miniature Diorama",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-200-ancient-civilization-miniature-diorama-by-naiknelofar788",
+      "case_anchor": "#case-203-ancient-civilization-miniature-diorama-by-naiknelofar788",
       "image_dir": "images/poster_case256",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5172,7 +5177,7 @@
       "title": "Japanese Fashion Collage Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-201-japanese-fashion-collage-poster-by-mind_boticni",
+      "case_anchor": "#case-204-japanese-fashion-collage-poster-by-mind_boticni",
       "image_dir": "images/poster_case257",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5182,7 +5187,7 @@
       "title": "Bangkok Swiss Typography Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-202-bangkok-swiss-typography-poster-by-shorelyn_",
+      "case_anchor": "#case-205-bangkok-swiss-typography-poster-by-shorelyn_",
       "image_dir": "images/poster_case258",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5192,7 +5197,7 @@
       "title": "Matcha Granola Ad Poster",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-174-matcha-granola-ad-poster-by-sairah_0",
+      "case_anchor": "#case-23-matcha-granola-ad-poster-by-sairah_0",
       "image_dir": "images/ad-creative_case177",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5202,7 +5207,7 @@
       "title": "Miniature Travel World Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-203-miniature-travel-world-poster-by-goodmanprotocol",
+      "case_anchor": "#case-206-miniature-travel-world-poster-by-goodmanprotocol",
       "image_dir": "images/poster_case259",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5212,7 +5217,7 @@
       "title": "Cozy Cafe Editorial Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-120-cozy-cafe-editorial-portrait-by-sha_zdiii",
+      "case_anchor": "#case-57-cozy-cafe-editorial-portrait-by-sha_zdiii",
       "image_dir": "images/portrait_case172",
       "added_at": "2026-05-13T10:00:00+08:00"
     },
@@ -5222,7 +5227,7 @@
       "title": "Watercolor Fashion Sketch",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-121-watercolor-fashion-sketch",
+      "case_anchor": "#case-58-watercolor-fashion-sketch-by-naiknelofar788",
       "image_dir": "images/portrait_case173",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5232,7 +5237,7 @@
       "title": "Japanese Graffiti Portrait",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-204-japanese-graffiti-portrait",
+      "case_anchor": "#case-207-japanese-graffiti-portrait-by-iamaiistudio",
       "image_dir": "images/poster_case260",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5242,7 +5247,7 @@
       "title": "Brand Identity Moodboard System",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-126-brand-identity-moodboard-system",
+      "case_anchor": "#case-385-brand-identity-moodboard-system-by-saasjunctionhq",
       "image_dir": "images/ui_case144",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5252,7 +5257,7 @@
       "title": "Playlist Mood Album Cover",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-205-playlist-mood-album-cover",
+      "case_anchor": "#case-208-playlist-mood-album-cover-by-getimg_ai",
       "image_dir": "images/poster_case261",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5262,7 +5267,7 @@
       "title": "Landscape Architecture Board",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-127-landscape-architecture-board",
+      "case_anchor": "#case-386-landscape-architecture-board-by-iamaiistudio",
       "image_dir": "images/ui_case145",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5272,7 +5277,7 @@
       "title": "Play-Doh City Editorial",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-206-play-doh-city-editorial",
+      "case_anchor": "#case-209-play-doh-city-editorial-by-goodmanprotocol",
       "image_dir": "images/poster_case262",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5282,7 +5287,7 @@
       "title": "Sourdough Baker Storyboard",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-79-sourdough-baker-storyboard",
+      "case_anchor": "#case-436-sourdough-baker-storyboard-by-techiebysa",
       "image_dir": "images/comparison_case85",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5292,7 +5297,7 @@
       "title": "3D Liquid Art Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-207-3d-liquid-art-poster",
+      "case_anchor": "#case-210-3d-liquid-art-poster-by-92digitalartart",
       "image_dir": "images/poster_case263",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5302,7 +5307,7 @@
       "title": "Graphic Design Portfolio Mockup",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-128-graphic-design-portfolio-mockup",
+      "case_anchor": "#case-387-graphic-design-portfolio-mockup-by-abs_uiux",
       "image_dir": "images/ui_case146",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5312,7 +5317,7 @@
       "title": "Isometric Travel Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-208-isometric-travel-poster",
+      "case_anchor": "#case-211-isometric-travel-poster-by-iamaiistudio",
       "image_dir": "images/poster_case264",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5322,7 +5327,7 @@
       "title": "Tropical Product Ad Poster",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-175-tropical-product-ad-poster",
+      "case_anchor": "#case-24-tropical-product-ad-poster-by-aiwithaliya",
       "image_dir": "images/ad-creative_case178",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5332,7 +5337,7 @@
       "title": "Neo-Noir Character Design Board",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-129-neo-noir-character-design-board",
+      "case_anchor": "#case-388-neo-noir-character-design-board-by-mind_boticni",
       "image_dir": "images/ui_case147",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5342,7 +5347,7 @@
       "title": "Vintage Travel Postage Stamp",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-209-vintage-travel-postage-stamp",
+      "case_anchor": "#case-212-vintage-travel-postage-stamp-by-iamsofiaijaz",
       "image_dir": "images/poster_case265",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5352,7 +5357,7 @@
       "title": "Vintage Paper Collage Set",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-210-vintage-paper-collage-set",
+      "case_anchor": "#case-213-vintage-paper-collage-set-by-sairah_0",
       "image_dir": "images/poster_case266",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5362,7 +5367,7 @@
       "title": "Retro Newsstand Fashion Scene",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-122-retro-newsstand-fashion-scene",
+      "case_anchor": "#case-59-retro-newsstand-fashion-scene-by-harboriis",
       "image_dir": "images/portrait_case174",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5372,7 +5377,7 @@
       "title": "Early 1990s Flash Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-123-early-1990s-flash-portrait",
+      "case_anchor": "#case-60-early-1990s-flash-portrait-by-bmx_ai13",
       "image_dir": "images/portrait_case175",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5382,7 +5387,7 @@
       "title": "Cubist Kawaii Vector Portrait",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-211-cubist-kawaii-vector-portrait",
+      "case_anchor": "#case-214-cubist-kawaii-vector-portrait-by-chillaikalan__",
       "image_dir": "images/poster_case267",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5392,7 +5397,7 @@
       "title": "Trash Polka Headphones Portrait",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-212-trash-polka-headphones-portrait",
+      "case_anchor": "#case-215-trash-polka-headphones-portrait-by-chillaikalan__",
       "image_dir": "images/poster_case268",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5402,7 +5407,7 @@
       "title": "3D Typography Travel Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-213-3d-typography-travel-poster",
+      "case_anchor": "#case-216-3d-typography-travel-poster-by-naiknelofar788",
       "image_dir": "images/poster_case269",
       "added_at": "2026-05-14T18:00:00+08:00"
     },
@@ -5412,7 +5417,7 @@
       "title": "Origami Portrait Illustration",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-61-origami-portrait-illustration-by-inshrah_ali_",
       "image_dir": "images/portrait_case176",
       "added_at": "2026-05-17T10:33:08.225150+00:00"
     },
@@ -5422,7 +5427,7 @@
       "title": "Luxury Portrait With Tiny Alter Ego",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-62-luxury-portrait-with-tiny-alter-ego-by-professor_134",
       "image_dir": "images/portrait_case177",
       "added_at": "2026-05-17T10:33:08.225150+00:00"
     },
@@ -5432,7 +5437,7 @@
       "title": "Ink Glyph Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-63-ink-glyph-portrait-by-harboriis",
       "image_dir": "images/portrait_case178",
       "added_at": "2026-05-17T10:33:08.225150+00:00"
     },
@@ -5442,7 +5447,7 @@
       "title": "Y2K Cyber-Pop Editorial Shot",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-64-y2k-cyber-pop-editorial-shot-by-noorlewisx",
       "image_dir": "images/portrait_case179",
       "added_at": "2026-05-17T10:33:08.225150+00:00"
     },
@@ -5452,7 +5457,7 @@
       "title": "Cozy Doodle Lifestyle Photo",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-65-cozy-doodle-lifestyle-photo-by-sairah_0",
       "image_dir": "images/portrait_case180",
       "added_at": "2026-05-17T10:33:08.225150+00:00"
     },
@@ -5462,7 +5467,7 @@
       "title": "泳装时尚杂志四宫格",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-217-泳装时尚杂志四宫格-by-adam38363368936",
       "image_dir": "images/poster_case270",
       "added_at": "2026-05-17T10:33:08.225150+00:00"
     },
@@ -5472,7 +5477,7 @@
       "title": "Monochrome Caricature Portrait Sheet",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-218-monochrome-caricature-portrait-sheet-by-noor_ul_ain43",
       "image_dir": "images/poster_case271",
       "added_at": "2026-05-17T10:33:08.225150+00:00"
     },
@@ -5482,7 +5487,7 @@
       "title": "星河入梦 3D CG 插画",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-219-星河入梦-3d-cg-插画-by-liyue_ai",
       "image_dir": "images/poster_case272",
       "added_at": "2026-05-17T10:33:08.225150+00:00"
     },
@@ -5492,7 +5497,7 @@
       "title": "Character Profile Sheet",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-220-character-profile-sheet-by-iamsofiaijaz",
       "image_dir": "images/poster_case273",
       "added_at": "2026-05-17T10:33:08.225150+00:00"
     },
@@ -5502,7 +5507,7 @@
       "title": "Korean Editorial Fashion Moodboard",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-221-korean-editorial-fashion-moodboard-by-mind_boticni",
       "image_dir": "images/poster_case274",
       "added_at": "2026-05-17T10:33:08.225150+00:00"
     },
@@ -5512,7 +5517,7 @@
       "title": "Heliotropic Architecture Board",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-389-heliotropic-architecture-board-by-gdgtify",
       "image_dir": "images/ui_case148",
       "added_at": "2026-05-17T10:33:08.225150+00:00"
     },
@@ -5522,7 +5527,7 @@
       "title": "Brand Identity Guideline Board",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-390-brand-identity-guideline-board-by-shorelyn_",
       "image_dir": "images/ui_case149",
       "added_at": "2026-05-17T10:33:08.225150+00:00"
     },
@@ -5542,7 +5547,7 @@
       "title": "Storyboard Grid Template",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-437-storyboard-grid-template-by-ericoolwong",
       "image_dir": "images/comparison_case86",
       "added_at": "2026-05-17T10:33:08.225150+00:00"
     },
@@ -5552,7 +5557,7 @@
       "title": "Pancake Dad Storyboard",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-438-pancake-dad-storyboard-by-techiebysa",
       "image_dir": "images/comparison_case87",
       "added_at": "2026-05-17T10:33:08.225150+00:00"
     },
@@ -5562,7 +5567,7 @@
       "title": "Foam Clogs Ad Poster",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-25-foam-clogs-ad-poster-by-shinning1010",
       "image_dir": "images/ad-creative_case179",
       "added_at": "2026-05-17T10:33:08.225150+00:00"
     },
@@ -5572,7 +5577,7 @@
       "title": "Energy Drink Stadium Ad",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-26-energy-drink-stadium-ad-by-shorelyn_",
       "image_dir": "images/ad-creative_case180",
       "added_at": "2026-05-17T10:33:08.225150+00:00"
     },
@@ -5582,7 +5587,7 @@
       "title": "Y2K Street-Art Editorial Poster",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-66-y2k-street-art-editorial-poster-by-kingofdairyque",
       "image_dir": "images/portrait_case185",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5592,7 +5597,7 @@
       "title": "LEGO Miniature City Editorial",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-67-lego-miniature-city-editorial-by-frametheory058",
       "image_dir": "images/portrait_case186",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5602,7 +5607,7 @@
       "title": "Floating Island Travel Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-222-floating-island-travel-poster-by-naiknelofar788",
       "image_dir": "images/poster_case285",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5612,7 +5617,7 @@
       "title": "Fashion Collage Multi-Style Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-68-fashion-collage-multi-style-portrait-by-mind_boticni",
       "image_dir": "images/portrait_case187",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5622,7 +5627,7 @@
       "title": "Busan Travel Journal Illustration",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-69-busan-travel-journal-illustration-by-sairah_0",
       "image_dir": "images/portrait_case188",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5632,7 +5637,7 @@
       "title": "Vintage Monochrome City Travel Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-223-vintage-monochrome-city-travel-poster-by-taaruk_",
       "image_dir": "images/poster_case286",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5642,7 +5647,7 @@
       "title": "Cinematic Volleyball Sports Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-70-cinematic-volleyball-sports-portrait-by-meng_dagg695",
       "image_dir": "images/portrait_case189",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5652,7 +5657,7 @@
       "title": "3D Designer-Toy Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-71-3d-designer-toy-portrait-by-iamsofiaijaz",
       "image_dir": "images/portrait_case190",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5662,7 +5667,7 @@
       "title": "Dark Silhouette Rim-Light Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-72-dark-silhouette-rim-light-portrait-by-xsydneyfan",
       "image_dir": "images/portrait_case191",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5672,7 +5677,7 @@
       "title": "Cozy Bedroom Korean Girl Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-73-cozy-bedroom-korean-girl-portrait-by-john_my07",
       "image_dir": "images/portrait_case192",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5682,7 +5687,7 @@
       "title": "Anime Brand Campaign Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-74-anime-brand-campaign-portrait-by-chillaikalan__",
       "image_dir": "images/portrait_case193",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5692,7 +5697,7 @@
       "title": "Woman in Crystal Perfume Bottle",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-75-woman-in-crystal-perfume-bottle-by-mrdasonx",
       "image_dir": "images/portrait_case194",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5702,7 +5707,7 @@
       "title": "Summer Campus Tesla Lifestyle Poster",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-76-summer-campus-tesla-lifestyle-poster-by-shinning1010",
       "image_dir": "images/portrait_case195",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5712,7 +5717,7 @@
       "title": "Die-Cut Sticker Illustration",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-391-die-cut-sticker-illustration-by-ciri_ai",
       "image_dir": "images/ui_case158",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5722,7 +5727,7 @@
       "title": "Flat-Vector City Lifestyle Collage",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-224-flat-vector-city-lifestyle-collage-by-goodmanprotocol",
       "image_dir": "images/poster_case287",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5732,7 +5737,7 @@
       "title": "Sci-Fi Character Concept Sheet",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-225-sci-fi-character-concept-sheet-by-0kncn",
       "image_dir": "images/poster_case288",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5742,7 +5747,7 @@
       "title": "Pixar 3D Character Design Sheet",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-226-pixar-3d-character-design-sheet-by-techiebysa",
       "image_dir": "images/poster_case289",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5752,7 +5757,7 @@
       "title": "Bubble-Tea Shop Action Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-77-bubble-tea-shop-action-portrait-by-heyfatema",
       "image_dir": "images/portrait_case196",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5762,7 +5767,7 @@
       "title": "Night Outdoor Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-78-night-outdoor-portrait-by-chatgptpaglu",
       "image_dir": "images/portrait_case197",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5772,7 +5777,7 @@
       "title": "Vintage Travel Collage Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-227-vintage-travel-collage-poster-by-sdhilip",
       "image_dir": "images/poster_case290",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5782,7 +5787,7 @@
       "title": "Premium Travel Infographic Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-228-premium-travel-infographic-poster-by-ankit_patel211",
       "image_dir": "images/poster_case291",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5792,7 +5797,7 @@
       "title": "Rider-Waite Tarot Card",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-392-rider-waite-tarot-card-by-itsphotogptai",
       "image_dir": "images/ui_case159",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5802,7 +5807,7 @@
       "title": "9-Frame Cinematic Storyboard Grid",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-229-9-frame-cinematic-storyboard-grid-by-guicastellanos1",
       "image_dir": "images/poster_case292",
       "added_at": "2026-05-19T06:30:39+08:00"
     },
@@ -5812,7 +5817,7 @@
       "title": "Vintage 1960s Beer Ad Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-223-vintage-1960s-beer-ad-poster-by-goodmanprotocol",
+      "case_anchor": "#case-230-vintage-1960s-beer-ad-poster-by-goodmanprotocol",
       "image_dir": "images/poster_case293",
       "added_at": "2026-05-20"
     },
@@ -5822,7 +5827,7 @@
       "title": "Cinematic Director's Pitch Board",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-224-cinematic-directors-pitch-board-by-mind-boticni",
+      "case_anchor": "#case-231-cinematic-directors-pitch-board-by-mind_boticni",
       "image_dir": "images/poster_case294",
       "added_at": "2026-05-20"
     },
@@ -5832,7 +5837,7 @@
       "title": "Fashion Blueprint Editorial Sheet",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-138-fashion-blueprint-editorial-sheet-by-zephyraleigh",
+      "case_anchor": "#case-79-fashion-blueprint-editorial-sheet-by-zephyraleigh",
       "image_dir": "images/portrait_case198",
       "added_at": "2026-05-20"
     },
@@ -5842,7 +5847,7 @@
       "title": "Joyful Street Portrait with Drink",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-139-joyful-street-portrait-with-drink-by-rovvmut-",
+      "case_anchor": "#case-80-joyful-street-portrait-with-drink-by-rovvmut_",
       "image_dir": "images/portrait_case199",
       "added_at": "2026-05-20"
     },
@@ -5852,7 +5857,7 @@
       "title": "Portrait Collage Film Strip Poster",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-140-portrait-collage-film-strip-poster-by-robertsmith-ai",
+      "case_anchor": "#case-81-portrait-collage-film-strip-poster-by-robertsmith_ai",
       "image_dir": "images/portrait_case200",
       "added_at": "2026-05-20"
     },
@@ -5862,7 +5867,7 @@
       "title": "Reference-Based Portrait Consistency",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-141-reference-based-portrait-consistency-by-mehvishs25",
+      "case_anchor": "#case-82-reference-based-portrait-consistency-by-mehvishs25",
       "image_dir": "images/portrait_case201",
       "added_at": "2026-05-20"
     },
@@ -5872,7 +5877,7 @@
       "title": "Viral Food Infographic Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-225-viral-food-infographic-poster-by-amynys",
+      "case_anchor": "#case-232-viral-food-infographic-poster-by-amynys",
       "image_dir": "images/poster_case295",
       "added_at": "2026-05-20"
     },
@@ -5882,7 +5887,7 @@
       "title": "London Fashion Street Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-142-london-fashion-street-portrait-by-shamiweb3",
+      "case_anchor": "#case-83-london-fashion-street-portrait-by-shamiweb3",
       "image_dir": "images/portrait_case202",
       "added_at": "2026-05-20"
     },
@@ -5892,7 +5897,7 @@
       "title": "Travel Selfie Portrait Reference",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-143-travel-selfie-portrait-reference-by-linaa-ai",
+      "case_anchor": "#case-84-travel-selfie-portrait-reference-by-linaa_ai",
       "image_dir": "images/portrait_case203",
       "added_at": "2026-05-20"
     },
@@ -5902,7 +5907,7 @@
       "title": "2x2 Luxury 3D Sculptural Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-226-2x2-luxury-3d-sculptural-poster-by-gdgtify",
+      "case_anchor": "#case-233-2x2-luxury-3d-sculptural-poster-by-gdgtify",
       "image_dir": "images/poster_case296",
       "added_at": "2026-05-20"
     },
@@ -5912,7 +5917,7 @@
       "title": "Physics Infographic Code Prompt",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-227-physics-infographic-code-prompt-by-gdgtify",
+      "case_anchor": "#case-234-physics-infographic-code-prompt-by-gdgtify",
       "image_dir": "images/poster_case297",
       "added_at": "2026-05-20"
     },
@@ -5922,7 +5927,7 @@
       "title": "Ultra-Realistic Phone-Style Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-144-ultra-realistic-phone-style-portrait-by-aiwithzohaib",
+      "case_anchor": "#case-85-ultra-realistic-phone-style-portrait-by-aiwithzohaib",
       "image_dir": "images/portrait_case204",
       "added_at": "2026-05-20"
     },
@@ -5932,7 +5937,7 @@
       "title": "Woodcut Engraving Portrait Style",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-145-woodcut-engraving-portrait-style-by-zulkarnaimx",
+      "case_anchor": "#case-86-woodcut-engraving-portrait-style-by-zulkarnaimx",
       "image_dir": "images/portrait_case205",
       "added_at": "2026-05-20"
     },
@@ -5942,7 +5947,7 @@
       "title": "Pixar 3D Character Design Sheet",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-146-pixar-3d-character-design-sheet-by-techiebysa",
+      "case_anchor": "#case-87-pixar-3d-character-design-sheet-by-techiebysa",
       "image_dir": "images/portrait_case206",
       "added_at": "2026-05-20"
     },
@@ -5952,7 +5957,7 @@
       "title": "Matcha Goddess Beauty Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-147-matcha-goddess-beauty-portrait-by-nyaiibubu",
+      "case_anchor": "#case-88-matcha-goddess-beauty-portrait-by-nyaiibubu",
       "image_dir": "images/portrait_case207",
       "added_at": "2026-05-20"
     },
@@ -5962,7 +5967,7 @@
       "title": "Vintage Camera LCD Screen Shot",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-148-vintage-camera-lcd-screen-shot-by-zaraelira4",
+      "case_anchor": "#case-89-vintage-camera-lcd-screen-shot-by-zaraelira4",
       "image_dir": "images/portrait_case208",
       "added_at": "2026-05-20"
     },
@@ -5972,7 +5977,7 @@
       "title": "写实感人物竖版照片",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-149--by-liyue_ai",
+      "case_anchor": "#case-90-写实感人物竖版照片-by-liyue_ai",
       "image_dir": "images/portrait_case209",
       "added_at": "2026-05-22"
     },
@@ -5982,7 +5987,7 @@
       "title": "Football Player Dynamic Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-228-football-player-dynamic-poster-by-harboriis",
+      "case_anchor": "#case-235-football-player-dynamic-poster-by-harboriis",
       "image_dir": "images/poster_case298",
       "added_at": "2026-05-22"
     },
@@ -5992,7 +5997,7 @@
       "title": "Y2K Japanese Street Editorial Poster",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-150-y2k-japanese-street-editorial-poster-by-noorlewisx",
+      "case_anchor": "#case-91-y2k-japanese-street-editorial-poster-by-noorlewisx",
       "image_dir": "images/portrait_case210",
       "added_at": "2026-05-22"
     },
@@ -6002,7 +6007,7 @@
       "title": "Editorial Male Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-151-editorial-male-portrait-by-frametheory058",
+      "case_anchor": "#case-92-editorial-male-portrait-by-frametheory058",
       "image_dir": "images/portrait_case211",
       "added_at": "2026-05-22"
     },
@@ -6012,7 +6017,7 @@
       "title": "Travel Food Advertisement Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-229-travel-food-advertisement-poster-by-naiknelofar788",
+      "case_anchor": "#case-236-travel-food-advertisement-poster-by-naiknelofar788",
       "image_dir": "images/poster_case299",
       "added_at": "2026-05-22"
     },
@@ -6022,7 +6027,7 @@
       "title": "Avant-Garde Tokyo Fashion Zine Poster",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-152-avant-garde-tokyo-fashion-zine-poster-by-john_my07",
+      "case_anchor": "#case-93-avant-garde-tokyo-fashion-zine-poster-by-john_my07",
       "image_dir": "images/portrait_case212",
       "added_at": "2026-05-22"
     },
@@ -6032,7 +6037,7 @@
       "title": "Miki Style Line Art Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-153-miki-style-line-art-portrait-by-chillaikalan__",
+      "case_anchor": "#case-94-miki-style-line-art-portrait-by-chillaikalan__",
       "image_dir": "images/portrait_case213",
       "added_at": "2026-05-22"
     },
@@ -6042,7 +6047,7 @@
       "title": "Vintage Watercolor Travel Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-230-vintage-watercolor-travel-poster-by-taaruk_",
+      "case_anchor": "#case-237-vintage-watercolor-travel-poster-by-taaruk_",
       "image_dir": "images/poster_case300",
       "added_at": "2026-05-22"
     },
@@ -6052,7 +6057,7 @@
       "title": "Korean Beauty Ultra-Realistic Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-154-korean-beauty-ultra-realistic-portrait-by-zephyraleigh",
+      "case_anchor": "#case-95-korean-beauty-ultra-realistic-portrait-by-zephyraleigh",
       "image_dir": "images/portrait_case214",
       "added_at": "2026-05-22"
     },
@@ -6062,7 +6067,7 @@
       "title": "Cinematic B&W Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-155-cinematic-b-w-portrait-by-ciri_ai",
+      "case_anchor": "#case-96-cinematic-bw-portrait-by-ciri_ai",
       "image_dir": "images/portrait_case215",
       "added_at": "2026-05-22"
     },
@@ -6072,7 +6077,7 @@
       "title": "Artistic Sketch Portrait Young Man",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-156-artistic-sketch-portrait-young-man-by-iamsofiaijaz",
+      "case_anchor": "#case-97-artistic-sketch-portrait-young-man-by-iamsofiaijaz",
       "image_dir": "images/portrait_case216",
       "added_at": "2026-05-22"
     },
@@ -6082,7 +6087,7 @@
       "title": "Retro Cafe Scrapbook Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-231-retro-cafe-scrapbook-poster-by-j_smeaton99",
+      "case_anchor": "#case-238-retro-cafe-scrapbook-poster-by-j_smeaton99",
       "image_dir": "images/poster_case301",
       "added_at": "2026-05-22"
     },
@@ -6092,7 +6097,7 @@
       "title": "NBA Legend Mid-Air Action Poster",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-157-nba-legend-mid-air-action-poster-by-taaruk_",
+      "case_anchor": "#case-98-nba-legend-mid-air-action-poster-by-taaruk_",
       "image_dir": "images/portrait_case217",
       "added_at": "2026-05-22"
     },
@@ -6102,7 +6107,7 @@
       "title": "Korean Beauty Fashion Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-158-korean-beauty-fashion-portrait-by-sheldon056",
+      "case_anchor": "#case-99-korean-beauty-fashion-portrait-by-sheldon056",
       "image_dir": "images/portrait_case218",
       "added_at": "2026-05-22"
     },
@@ -6112,7 +6117,7 @@
       "title": "Cinematic Football Portrait Poster",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-159-cinematic-football-portrait-poster-by-de_mon010",
+      "case_anchor": "#case-100-cinematic-football-portrait-poster-by-de_mon010",
       "image_dir": "images/portrait_case219",
       "added_at": "2026-05-22"
     },
@@ -6122,7 +6127,7 @@
       "title": "Switzerland Watercolor Travel Poster",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-160-switzerland-watercolor-travel-poster-by-sairah_0",
+      "case_anchor": "#case-101-switzerland-watercolor-travel-poster-by-sairah_0",
       "image_dir": "images/portrait_case220",
       "added_at": "2026-05-22"
     },
@@ -6132,7 +6137,7 @@
       "title": "Blueberry Lavender Soda Scrapbook Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-232-blueberry-lavender-soda-scrapbook-poster-by-john_my07",
+      "case_anchor": "#case-239-blueberry-lavender-soda-scrapbook-poster-by-john_my07",
       "image_dir": "images/poster_case302",
       "added_at": "2026-05-22"
     },
@@ -6142,7 +6147,7 @@
       "title": "Cinematic Lifestyle Outdoor Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-161-cinematic-lifestyle-outdoor-portrait-by-aiwithaly",
+      "case_anchor": "#case-102-cinematic-lifestyle-outdoor-portrait-by-aiwithaly",
       "image_dir": "images/portrait_case221",
       "added_at": "2026-05-22"
     },
@@ -6152,7 +6157,7 @@
       "title": "Luxury Cycling Storyboard Poster",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-162-luxury-cycling-storyboard-poster-by-strength04_x",
+      "case_anchor": "#case-103-luxury-cycling-storyboard-poster-by-strength04_x",
       "image_dir": "images/portrait_case222",
       "added_at": "2026-05-22"
     },
@@ -6162,7 +6167,7 @@
       "title": "Y2K Japanese Street Collage Poster",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-163-y2k-japanese-street-collage-poster-by-kashberg_0",
+      "case_anchor": "#case-104-y2k-japanese-street-collage-poster-by-kashberg_0",
       "image_dir": "images/portrait_case223",
       "added_at": "2026-05-22"
     },
@@ -6172,7 +6177,7 @@
       "title": "Cosmic Garden Fantasy Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-164-cosmic-garden-fantasy-portrait-by-doctoramna11",
+      "case_anchor": "#case-105-cosmic-garden-fantasy-portrait-by-doctoramna11",
       "image_dir": "images/portrait_case224",
       "added_at": "2026-05-22"
     },
@@ -6182,7 +6187,7 @@
       "title": "Streetwear Magazine Cover Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-165-streetwear-magazine-cover-portrait-by-harboriis",
+      "case_anchor": "#case-106-streetwear-magazine-cover-portrait-by-harboriis",
       "image_dir": "images/portrait_case225",
       "added_at": "2026-05-22"
     },
@@ -6192,7 +6197,7 @@
       "title": "Cat-Eye Glasses Fashion Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-166-cat-eye-glasses-fashion-portrait-by-chillaikalan__",
+      "case_anchor": "#case-107-cat-eye-glasses-fashion-portrait-by-chillaikalan__",
       "image_dir": "images/portrait_case226",
       "added_at": "2026-05-22"
     },
@@ -6202,7 +6207,7 @@
       "title": "Bold Monochrome Identity Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-167-bold-monochrome-identity-portrait-by-harboriis",
+      "case_anchor": "#case-108-bold-monochrome-identity-portrait-by-harboriis",
       "image_dir": "images/portrait_case227",
       "added_at": "2026-05-22"
     },
@@ -6212,7 +6217,7 @@
       "title": "Clean Tech Advertisement Poster",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-168-clean-tech-advertisement-poster-by-strength04_x",
+      "case_anchor": "#case-109-clean-tech-advertisement-poster-by-strength04_x",
       "image_dir": "images/portrait_case228",
       "added_at": "2026-05-22"
     },
@@ -6222,7 +6227,7 @@
       "title": "Flat Vector Editorial Pattern Illustration",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-169-flat-vector-editorial-pattern-illustration-by-goodmanprotocol",
+      "case_anchor": "#case-110-flat-vector-editorial-pattern-illustration-by-goodmanprotocol",
       "image_dir": "images/portrait_case229",
       "added_at": "2026-05-22"
     },
@@ -6232,7 +6237,7 @@
       "title": "Korean Beauty Identity Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-170-korean-beauty-identity-portrait-by-linaa_ai",
+      "case_anchor": "#case-111-korean-beauty-identity-portrait-by-linaa_ai",
       "image_dir": "images/portrait_case230",
       "added_at": "2026-05-22"
     },
@@ -6242,7 +6247,7 @@
       "title": "Hollywood Luxury Anime Fashion Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-171-hollywood-luxury-anime-fashion-portrait-by-mind_boticni",
+      "case_anchor": "#case-112-hollywood-luxury-anime-fashion-portrait-by-mind_boticni",
       "image_dir": "images/portrait_case231",
       "added_at": "2026-05-22"
     },
@@ -6252,7 +6257,7 @@
       "title": "Identity Reference Beauty Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-172-identity-reference-beauty-portrait-by-heyfatema",
+      "case_anchor": "#case-113-identity-reference-beauty-portrait-by-heyfatema",
       "image_dir": "images/portrait_case232",
       "added_at": "2026-05-22"
     },
@@ -6262,7 +6267,7 @@
       "title": "Pixel Art Character Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-173-pixel-art-character-portrait-by-oggii_0",
+      "case_anchor": "#case-114-pixel-art-character-portrait-by-oggii_0",
       "image_dir": "images/portrait_case233",
       "added_at": "2026-05-22"
     },
@@ -6272,7 +6277,7 @@
       "title": "Negative Prompt Portrait Template",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-174-negative-prompt-portrait-template-by-zephyraleigh",
+      "case_anchor": "#case-115-negative-prompt-portrait-template-by-zephyraleigh",
       "image_dir": "images/portrait_case234",
       "added_at": "2026-05-22"
     },
@@ -6282,7 +6287,7 @@
       "title": "Identity Reference Fashion Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-175-identity-reference-fashion-portrait-by-mehvishs25",
+      "case_anchor": "#case-116-identity-reference-fashion-portrait-by-mehvishs25",
       "image_dir": "images/portrait_case235",
       "added_at": "2026-05-22"
     },
@@ -6292,7 +6297,7 @@
       "title": "Scientific Concept Anchor Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-233-scientific-concept-anchor-poster-by-gdgtify",
+      "case_anchor": "#case-240-scientific-concept-anchor-poster-by-gdgtify",
       "image_dir": "images/poster_case303",
       "added_at": "2026-05-22"
     },
@@ -6302,7 +6307,7 @@
       "title": "Pixar 3D Character Design Sheet",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-176-pixar-3d-character-design-sheet-by-techiebysa",
+      "case_anchor": "#case-117-pixar-3d-character-design-sheet-by-techiebysa",
       "image_dir": "images/portrait_case236",
       "added_at": "2026-05-22"
     },
@@ -6312,7 +6317,7 @@
       "title": "Automotive Design Deconstruction Poster",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-177-automotive-design-deconstruction-poster-by-gdgtify",
+      "case_anchor": "#case-118-automotive-design-deconstruction-poster-by-gdgtify",
       "image_dir": "images/portrait_case237",
       "added_at": "2026-05-22"
     },
@@ -6322,7 +6327,7 @@
       "title": "Japanese Graffiti Portrait Poster",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-178-japanese-graffiti-portrait-poster-by-robertsmith_ai",
+      "case_anchor": "#case-119-japanese-graffiti-portrait-poster-by-robertsmith_ai",
       "image_dir": "images/portrait_case238",
       "added_at": "2026-05-22"
     },
@@ -6332,7 +6337,7 @@
       "title": "Brand Identity Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-179-brand-identity-portrait-by-shinning1010",
+      "case_anchor": "#case-120-brand-identity-portrait-by-shinning1010",
       "image_dir": "images/portrait_case239",
       "added_at": "2026-05-22"
     },
@@ -6342,7 +6347,7 @@
       "title": "Outdoor Lifestyle Open Sky Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-180-outdoor-lifestyle-open-sky-portrait-by-shorelyn_",
+      "case_anchor": "#case-121-outdoor-lifestyle-open-sky-portrait-by-shorelyn_",
       "image_dir": "images/portrait_case240",
       "added_at": "2026-05-22"
     },
@@ -6352,7 +6357,8 @@
       "title": "高级男性魅力人像",
       "category": "portrait",
       "folder_name": "portrait_case241",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "case_anchor": "#case-122-高级男性魅力人像-by-liyue_ai"
     },
     {
       "tweet_url": "https://x.com/Adam38363368936/status/2057402803954631086",
@@ -6360,7 +6366,8 @@
       "title": "沙滩场景丰腴人物写真",
       "category": "portrait",
       "folder_name": "portrait_case242",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "case_anchor": "#case-123-沙滩场景丰腴人物写真-by-adam38363368936"
     },
     {
       "tweet_url": "https://x.com/zulkarnaimx/status/2057406867585057106",
@@ -6368,7 +6375,8 @@
       "title": "Photorealistic Editorial Seated Portrait",
       "category": "portrait",
       "folder_name": "portrait_case243",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "case_anchor": "#case-124-photorealistic-editorial-seated-portrait-by-zulkarnaimx"
     },
     {
       "tweet_url": "https://x.com/SimplyAnnisa/status/2057408066300080297",
@@ -6376,7 +6384,8 @@
       "title": "Soft Aesthetic Fashion Magazine Cover",
       "category": "portrait",
       "folder_name": "portrait_case244",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "case_anchor": "#case-125-soft-aesthetic-fashion-magazine-cover-by-simplyannisa"
     },
     {
       "tweet_url": "https://x.com/zulkarnaimx/status/2057500045713506318",
@@ -6384,7 +6393,8 @@
       "title": "Editorial Fashion Poster",
       "category": "poster",
       "folder_name": "poster_case304",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "case_anchor": "#case-241-editorial-fashion-poster-by-zulkarnaimx"
     },
     {
       "tweet_url": "https://x.com/Hope_Ai01/status/2057367851905040849",
@@ -6392,7 +6402,8 @@
       "title": "High Fashion Editorial Infographic Poster",
       "category": "poster",
       "folder_name": "poster_case305",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "case_anchor": "#case-242-high-fashion-editorial-infographic-poster-by-hope_ai01"
     },
     {
       "tweet_url": "https://x.com/AIwithAliya/status/2057538178672943460",
@@ -6400,7 +6411,8 @@
       "title": "Pakistan Miniature World Map Poster",
       "category": "portrait",
       "folder_name": "portrait_case245",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "case_anchor": "#case-126-pakistan-miniature-world-map-poster-by-aiwithaliya"
     },
     {
       "tweet_url": "https://x.com/BubbleBrain/status/2057447124162560213",
@@ -6408,7 +6420,8 @@
       "title": "Japanese Film Aesthetic Airport Portrait",
       "category": "portrait",
       "folder_name": "portrait_case246",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "case_anchor": "#case-127-japanese-film-aesthetic-airport-portrait-by-bubblebrain"
     },
     {
       "tweet_url": "https://x.com/abs_uiux/status/2057390002678464986",
@@ -6416,7 +6429,8 @@
       "title": "Basketball Poster Design",
       "category": "poster",
       "folder_name": "poster_case306",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "case_anchor": "#case-243-basketball-poster-design-by-abs_uiux"
     },
     {
       "tweet_url": "https://x.com/rionaifantasy/status/2057445381072650545",
@@ -6424,7 +6438,8 @@
       "title": "角色卡三视图生成",
       "category": "poster",
       "folder_name": "poster_case307",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "case_anchor": "#case-244-角色卡三视图生成-by-rionaifantasy"
     },
     {
       "tweet_url": "https://x.com/MissDelulu9/status/2058484459008393346",
@@ -6584,7 +6599,8 @@
       "category": "poster",
       "case_number": 314,
       "suggested_title": "Roland Garros Tennis Trailer",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "case_anchor": "#case-245-roland-garros-tennis-trailer-by-egeberkina"
     },
     {
       "tweet_url": "https://x.com/Taaruk_/status/2059317825026904533",
@@ -6592,7 +6608,8 @@
       "category": "poster",
       "case_number": 315,
       "suggested_title": "Papercut Chibi Diorama",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "case_anchor": "#case-246-papercut-chibi-diorama-by-taaruk_"
     },
     {
       "tweet_url": "https://x.com/saniaspeaks_/status/2059447270115029120",
@@ -6600,7 +6617,8 @@
       "category": "portrait",
       "case_number": 258,
       "suggested_title": "Korean Fashion Collage Poster",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "case_anchor": "#case-128-korean-fashion-collage-poster-by-saniaspeaks_"
     },
     {
       "tweet_url": "https://x.com/iamaiistudio/status/2059335346861781102",
@@ -6608,7 +6626,8 @@
       "category": "comparison",
       "case_number": 89,
       "suggested_title": "Solar Desert Worldbuilding Kit",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "case_anchor": "#case-439-solar-desert-worldbuilding-kit-by-iamaiistudio"
     },
     {
       "tweet_url": "https://x.com/guicastellanos1/status/2059304406290505820",
@@ -6616,7 +6635,8 @@
       "category": "poster",
       "case_number": 317,
       "suggested_title": "Eagle vs Lion Stadium Clash",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "case_anchor": "#case-247-eagle-vs-lion-stadium-clash-by-guicastellanos1"
     },
     {
       "tweet_url": "https://x.com/KimAkiyama81/status/2059390326578511931",
@@ -6624,7 +6644,8 @@
       "category": "ui",
       "case_number": 161,
       "suggested_title": "Sitcom Intro Storyboard Sheet",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "case_anchor": "#case-393-sitcom-intro-storyboard-sheet-by-kimakiyama81"
     },
     {
       "tweet_url": "https://x.com/HeyAbhishek/status/2060726266182148343",
@@ -6632,7 +6653,7 @@
       "title": "Original Anime Dev Board",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-318-original-anime-dev-board",
+      "case_anchor": "#case-248-original-anime-dev-board-by-heyabhishek",
       "image_dir": "images/poster_case318",
       "added_at": "2026-05-31T08:15:12.410999+00:00"
     },
@@ -6642,7 +6663,7 @@
       "title": "Minimalist Automotive Poster Template",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-319-minimalist-automotive-poster-template",
+      "case_anchor": "#case-249-minimalist-automotive-poster-template-by-harboriis",
       "image_dir": "images/poster_case319",
       "added_at": "2026-05-31T08:15:12.410999+00:00"
     },
@@ -6652,7 +6673,7 @@
       "title": "Watercolor European Travel Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-320-watercolor-european-travel-poster",
+      "case_anchor": "#case-250-watercolor-european-travel-poster-by-taaruk_",
       "image_dir": "images/poster_case320",
       "added_at": "2026-05-31T08:15:12.410999+00:00"
     },
@@ -6662,7 +6683,7 @@
       "title": "Surreal Inner Self Editorial Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-321-surreal-inner-self-editorial-poster",
+      "case_anchor": "#case-251-surreal-inner-self-editorial-poster-by-sheldon056",
       "image_dir": "images/poster_case321",
       "added_at": "2026-05-31T08:15:12.410999+00:00"
     },
@@ -6672,7 +6693,7 @@
       "title": "Brand Identity Guideline Board",
       "category": "UI Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-162-brand-identity-guideline-board",
+      "case_anchor": "#case-394-brand-identity-guideline-board-by-ciri_ai",
       "image_dir": "images/ui_case162",
       "added_at": "2026-05-31T08:15:12.410999+00:00"
     },
@@ -6682,7 +6703,7 @@
       "title": "Dreamy Japanese Summer Portrait",
       "category": "Portrait Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-259-dreamy-japanese-summer-portrait",
+      "case_anchor": "#case-129-dreamy-japanese-summer-portrait-by-taaruk_",
       "image_dir": "images/portrait_case259",
       "added_at": "2026-05-31T08:15:12.410999+00:00"
     },
@@ -6692,7 +6713,7 @@
       "title": "Grunge Fashion Editorial Collage",
       "category": "Portrait Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-260-grunge-fashion-editorial-collage",
+      "case_anchor": "#case-130-grunge-fashion-editorial-collage-by-avelyrahnai",
       "image_dir": "images/portrait_case260",
       "added_at": "2026-05-31T08:15:12.410999+00:00"
     },
@@ -6702,7 +6723,7 @@
       "title": "Pop-Fashion Photobooth Strips",
       "category": "Portrait Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-261-pop-fashion-photobooth-strips",
+      "case_anchor": "#case-131-pop-fashion-photobooth-strips-by-mind_boticni",
       "image_dir": "images/portrait_case261",
       "added_at": "2026-05-31T08:15:12.410999+00:00"
     },
@@ -6712,7 +6733,7 @@
       "title": "Chibi Fashion Infographic",
       "category": "Poster Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-322-chibi-fashion-infographic",
+      "case_anchor": "#case-252-chibi-fashion-infographic-by-chi_vc_",
       "image_dir": "images/poster_case322",
       "added_at": "2026-06-02T04:52:30.542514+00:00"
     },
@@ -6722,7 +6743,7 @@
       "title": "Boho Stone-Wall Portrait",
       "category": "Portrait Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-262-boho-stone-wall-portrait",
+      "case_anchor": "#case-132-boho-stone-wall-portrait-by-iamaiistudio",
       "image_dir": "images/portrait_case262",
       "added_at": "2026-06-02T04:52:30.542514+00:00"
     },
@@ -6732,7 +6753,7 @@
       "title": "3D Character Editorial Quartet",
       "category": "Poster Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-323-3d-character-editorial-quartet",
+      "case_anchor": "#case-253-3d-character-editorial-quartet-by-iamaiistudio",
       "image_dir": "images/poster_case323",
       "added_at": "2026-06-02T04:52:30.542514+00:00"
     },
@@ -6742,7 +6763,7 @@
       "title": "Torn Soda Can Fruit Ad",
       "category": "Poster Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-324-torn-soda-can-fruit-ad",
+      "case_anchor": "#case-254-torn-soda-can-fruit-ad-by-iamaiistudio",
       "image_dir": "images/poster_case324",
       "added_at": "2026-06-02T04:52:30.542514+00:00"
     },
@@ -6752,7 +6773,7 @@
       "title": "Ink Manuscript Side Portrait",
       "category": "Portrait Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-263-ink-manuscript-side-portrait",
+      "case_anchor": "#case-133-ink-manuscript-side-portrait-by-iamaiistudio",
       "image_dir": "images/portrait_case263",
       "added_at": "2026-06-02T04:52:30.542514+00:00"
     },
@@ -6762,7 +6783,7 @@
       "title": "Collectible Science Encyclopedia Card",
       "category": "UI Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-163-collectible-science-encyclopedia-card",
+      "case_anchor": "#case-395-collectible-science-encyclopedia-card-by-iamaiistudio",
       "image_dir": "images/ui_case163",
       "added_at": "2026-06-02T04:52:30.542514+00:00"
     },
@@ -6772,7 +6793,7 @@
       "title": "Miniature City Travel Card",
       "category": "Poster Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-325-miniature-city-travel-card",
+      "case_anchor": "#case-255-miniature-city-travel-card-by-goodmanprotocol",
       "image_dir": "images/poster_case325",
       "added_at": "2026-06-02T04:52:30.542514+00:00"
     },
@@ -6782,7 +6803,7 @@
       "title": "Window-Light Cinematic Portrait",
       "category": "Portrait Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-264-window-light-cinematic-portrait",
+      "case_anchor": "#case-134-window-light-cinematic-portrait-by-ozayrr_irl",
       "image_dir": "images/portrait_case264",
       "added_at": "2026-06-02T04:52:30.542514+00:00"
     },
@@ -6792,7 +6813,7 @@
       "title": "電子レンジ大明神キャラ設定ポスター",
       "category": "Poster Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-326-case-326-anifun_ai",
+      "case_anchor": "#case-256-電子レンジ大明神キャラ設定ポスター-by-anifun_ai",
       "image_dir": "images/poster_case326",
       "added_at": "2026-06-02T04:52:30.542514+00:00"
     },
@@ -6802,7 +6823,7 @@
       "title": "Pet World Cup Storyboard Sheet",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-164-pet-world-cup-storyboard-sheet",
+      "case_anchor": "#case-396-pet-world-cup-storyboard-sheet-by-camikaapp",
       "image_dir": "images/ui_case164",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6812,7 +6833,7 @@
       "title": "Futuristic Martial Arts Heroine Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-265-futuristic-martial-arts-heroine-portrait",
+      "case_anchor": "#case-135-futuristic-martial-arts-heroine-portrait-by-vireonixx",
       "image_dir": "images/portrait_case265",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6822,7 +6843,7 @@
       "title": "Avant-Garde 3D Caricature Portrait",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-327-avant-garde-3d-caricature-portrait",
+      "case_anchor": "#case-257-avant-garde-3d-caricature-portrait-by-iamaiistudio",
       "image_dir": "images/poster_case327",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6832,7 +6853,7 @@
       "title": "Cinematic Contact Sheet Generator",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-165-cinematic-contact-sheet-generator",
+      "case_anchor": "#case-397-cinematic-contact-sheet-generator-by-kingnyaltut",
       "image_dir": "images/ui_case165",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6842,7 +6863,7 @@
       "title": "Ink Noir Portrait",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-328-ink-noir-portrait",
+      "case_anchor": "#case-258-ink-noir-portrait-by-iamaiistudio",
       "image_dir": "images/poster_case328",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6852,7 +6873,7 @@
       "title": "Mixed-Media Train Platform Portrait",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-329-mixed-media-train-platform-portrait",
+      "case_anchor": "#case-259-mixed-media-train-platform-portrait-by-iamaiistudio",
       "image_dir": "images/poster_case329",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6862,7 +6883,7 @@
       "title": "Showroom Still Life Merch Drop",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-183-showroom-still-life-merch-drop",
+      "case_anchor": "#case-27-showroom-still-life-merch-drop-by-iamaiistudio",
       "image_dir": "images/ad-creative_case183",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6872,7 +6893,7 @@
       "title": "Technical Food Annotation Infographic",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-166-technical-food-annotation-infographic",
+      "case_anchor": "#case-398-technical-food-annotation-infographic-by-iamaiistudio",
       "image_dir": "images/ui_case166",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6882,7 +6903,7 @@
       "title": "Brand Identity Oil Painting",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-330-brand-identity-oil-painting",
+      "case_anchor": "#case-260-brand-identity-oil-painting-by-iamaiistudio",
       "image_dir": "images/poster_case330",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6892,7 +6913,7 @@
       "title": "Berries and Blossoms Infographic Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-331-berries-and-blossoms-infographic-poster",
+      "case_anchor": "#case-261-berries-and-blossoms-infographic-poster-by-92digitalartart",
       "image_dir": "images/poster_case331",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6902,7 +6923,7 @@
       "title": "Mid-Century Editorial Illustration System",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-332-mid-century-editorial-illustration-system",
+      "case_anchor": "#case-262-mid-century-editorial-illustration-system-by-goodmanprotocol",
       "image_dir": "images/poster_case332",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6912,7 +6933,7 @@
       "title": "Bazaar Heist Storyboard Card",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-167-bazaar-heist-storyboard-card",
+      "case_anchor": "#case-399-bazaar-heist-storyboard-card-by-aimikoda",
       "image_dir": "images/ui_case167",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6922,7 +6943,7 @@
       "title": "Luxury Starter Pack Vision Board",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-168-luxury-starter-pack-vision-board",
+      "case_anchor": "#case-400-luxury-starter-pack-vision-board-by-mehvishs25",
       "image_dir": "images/ui_case168",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6932,7 +6953,7 @@
       "title": "Under-Glass Worms-Eye Crowd Shot",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-266-under-glass-worms-eye-crowd-shot",
+      "case_anchor": "#case-136-under-glass-worms-eye-crowd-shot-by-iamaiistudio",
       "image_dir": "images/portrait_case266",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6942,7 +6963,7 @@
       "title": "Graphic-Novel Eyes Banner",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-333-graphic-novel-eyes-banner",
+      "case_anchor": "#case-263-graphic-novel-eyes-banner-by-iamaiistudio",
       "image_dir": "images/poster_case333",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6952,7 +6973,7 @@
       "title": "Cosmic Campfire Concept Art",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-334-cosmic-campfire-concept-art",
+      "case_anchor": "#case-264-cosmic-campfire-concept-art-by-iamaiistudio",
       "image_dir": "images/poster_case334",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6962,7 +6983,7 @@
       "title": "Stylized 3D Skater Character",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-18-stylized-3d-skater-character",
+      "case_anchor": "#case-366-stylized-3d-skater-character-by-iamaiistudio",
       "image_dir": "images/character_case18",
       "added_at": "2026-06-04T10:00:00+08:00"
     },
@@ -6972,7 +6993,7 @@
       "title": "Embossed Metal Logo Bas-Relief",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-169-embossed-metal-logo-bas-relief-by-iamaiistudio",
+      "case_anchor": "#case-401-embossed-metal-logo-bas-relief-by-iamaiistudio",
       "image_dir": "images/ui_case169",
       "added_at": "2026-06-06T14:52:38.668211+00:00"
     },
@@ -6982,7 +7003,7 @@
       "title": "Racer Character Model Sheet",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-90-racer-character-model-sheet-by-itspixieverse",
+      "case_anchor": "#case-440-racer-character-model-sheet-by-itspixieverse",
       "image_dir": "images/comparison_case90",
       "added_at": "2026-06-06T14:52:38.668211+00:00"
     },
@@ -6992,7 +7013,7 @@
       "title": "Mixed-Media Editorial Portrait",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-335-mixed-media-editorial-portrait-by-iamaiistudio",
+      "case_anchor": "#case-265-mixed-media-editorial-portrait-by-iamaiistudio",
       "image_dir": "images/poster_case335",
       "added_at": "2026-06-06T14:52:38.668211+00:00"
     },
@@ -7002,7 +7023,7 @@
       "title": "Landmark Miniature Diorama",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-336-landmark-miniature-diorama-by-iamaiistudio",
+      "case_anchor": "#case-266-landmark-miniature-diorama-by-iamaiistudio",
       "image_dir": "images/poster_case336",
       "added_at": "2026-06-06T14:52:38.668211+00:00"
     },
@@ -7012,7 +7033,7 @@
       "title": "Sculptural Fruit Packaging Design",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-170-sculptural-fruit-packaging-design-by-iamaiistudio",
+      "case_anchor": "#case-402-sculptural-fruit-packaging-design-by-iamaiistudio",
       "image_dir": "images/ui_case170",
       "added_at": "2026-06-06T14:52:38.668211+00:00"
     },
@@ -7022,7 +7043,7 @@
       "title": "Glass Skeleton Study Desk",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-337-glass-skeleton-study-desk-by-iamaiistudio",
+      "case_anchor": "#case-267-glass-skeleton-study-desk-by-iamaiistudio",
       "image_dir": "images/poster_case337",
       "added_at": "2026-06-06T14:52:38.668211+00:00"
     },
@@ -7032,7 +7053,7 @@
       "title": "Pastel Paper-Collage Travel Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-338-pastel-paper-collage-travel-poster-by-ciri_ai",
+      "case_anchor": "#case-268-pastel-paper-collage-travel-poster-by-ciri_ai",
       "image_dir": "images/poster_case338",
       "added_at": "2026-06-06T14:52:38.668211+00:00"
     },
@@ -7042,7 +7063,7 @@
       "title": "Era Cube Visualizer Grid",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-91-era-cube-visualizer-grid-by-gdgtify",
+      "case_anchor": "#case-441-era-cube-visualizer-grid-by-gdgtify",
       "image_dir": "images/comparison_case91",
       "added_at": "2026-06-06T14:52:38.668211+00:00"
     },
@@ -7052,7 +7073,7 @@
       "title": "Luxury Perfume Infographic Ad",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-171-luxury-perfume-infographic-ad-by-iamrealsnow",
+      "case_anchor": "#case-403-luxury-perfume-infographic-ad-by-iamrealsnow",
       "image_dir": "images/ui_case171",
       "added_at": "2026-06-06T14:52:38.668211+00:00"
     },
@@ -7062,7 +7083,7 @@
       "title": "Sketch Portrait Breaking Paper",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-339-sketch-portrait-breaking-paper-by-fujimoto_hina",
+      "case_anchor": "#case-269-sketch-portrait-breaking-paper-by-fujimoto_hina",
       "image_dir": "images/poster_case339",
       "added_at": "2026-06-06T14:52:38.668211+00:00"
     },
@@ -7072,7 +7093,7 @@
       "title": "AAA Game Loading Screen Portrait",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-172-aaa-game-loading-screen-portrait-by-yulikay",
+      "case_anchor": "#case-404-aaa-game-loading-screen-portrait-by-yulikay",
       "image_dir": "images/ui_case172",
       "added_at": "2026-06-06T14:52:38.668211+00:00"
     },
@@ -7082,7 +7103,7 @@
       "title": "Passport Worlds Atlas Scene",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-340-passport-worlds-atlas-scene-by-iamaiistudio",
+      "case_anchor": "#case-270-passport-worlds-atlas-scene-by-iamaiistudio",
       "image_dir": "images/poster_case340",
       "added_at": "2026-06-06T14:52:38.668211+00:00"
     },
@@ -7092,7 +7113,7 @@
       "title": "Chaotic Kitchen Freeze-Frame",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-92-chaotic-kitchen-freeze-frame-by-iamaiistudio",
+      "case_anchor": "#case-442-chaotic-kitchen-freeze-frame-by-iamaiistudio",
       "image_dir": "images/comparison_case92",
       "added_at": "2026-06-06T14:52:38.668211+00:00"
     },
@@ -7102,7 +7123,7 @@
       "title": "Innovation Reliquary Diagram",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-93-innovation-reliquary-diagram-by-gdgtify",
+      "case_anchor": "#case-443-innovation-reliquary-diagram-by-gdgtify",
       "image_dir": "images/comparison_case93",
       "added_at": "2026-06-06T14:52:38.668211+00:00"
     },
@@ -7112,7 +7133,7 @@
       "title": "Chaotic Doodle Photo Portrait",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-341-chaotic-doodle-photo-portrait-by-shorelyn",
+      "case_anchor": "#case-271-chaotic-doodle-photo-portrait-by-shorelyn_",
       "image_dir": "images/poster_case341",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7122,7 +7143,7 @@
       "title": "Semi-3D Fashion Editorial Avatar",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-342-semi-3d-fashion-editorial-avatar-by-aiwithsynthia",
+      "case_anchor": "#case-272-semi-3d-fashion-editorial-avatar-by-aiwithsynthia",
       "image_dir": "images/poster_case342",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7132,7 +7153,7 @@
       "title": "90s Sitcom Fashion Character Lineup",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-94-90s-sitcom-fashion-character-lineup-by-taaruk",
+      "case_anchor": "#case-444-90s-sitcom-fashion-character-lineup-by-taaruk_",
       "image_dir": "images/comparison_case94",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7142,7 +7163,7 @@
       "title": "Black-and-White Identity Collage Grid",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-267-black-and-white-identity-collage-grid-by-mehvishs25",
+      "case_anchor": "#case-137-black-and-white-identity-collage-grid-by-mehvishs25",
       "image_dir": "images/portrait_case267",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7152,7 +7173,7 @@
       "title": "Energy Drink Storyboard Grid",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-173-energy-drink-storyboard-grid-by-strength04-x",
+      "case_anchor": "#case-405-energy-drink-storyboard-grid-by-strength04_x",
       "image_dir": "images/ui_case173",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7162,7 +7183,7 @@
       "title": "Retro Automotive Travel Poster Template",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-343-retro-automotive-travel-poster-template-by-iamaiistudio",
+      "case_anchor": "#case-273-retro-automotive-travel-poster-template-by-iamaiistudio",
       "image_dir": "images/poster_case343",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7172,7 +7193,7 @@
       "title": "Family Watercolor Fashion Sketch",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-344-family-watercolor-fashion-sketch-by-aiwithzohaib",
+      "case_anchor": "#case-274-family-watercolor-fashion-sketch-by-aiwithzohaib",
       "image_dir": "images/poster_case344",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7182,7 +7203,7 @@
       "title": "Döner Commercial Food Photography Set",
       "category": "Ecommerce & Product Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-164-d-ner-commercial-food-photography-set-by-iamaiistudio",
+      "case_anchor": "#case-4-döner-commercial-food-photography-set-by-iamaiistudio",
       "image_dir": "images/ecommerce_case164",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7192,7 +7213,7 @@
       "title": "Plush Mascot Companion Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-268-plush-mascot-companion-portrait-by-doctorwasif",
+      "case_anchor": "#case-138-plush-mascot-companion-portrait-by-doctorwasif",
       "image_dir": "images/portrait_case268",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7202,7 +7223,7 @@
       "title": "SQL Collectible Toy Packaging Grid",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-95-sql-collectible-toy-packaging-grid-by-gdgtify",
+      "case_anchor": "#case-445-sql-collectible-toy-packaging-grid-by-gdgtify",
       "image_dir": "images/comparison_case95",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7212,7 +7233,7 @@
       "title": "Anime Short Film Dev Board",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-174-anime-short-film-dev-board-by-heyabhishek",
+      "case_anchor": "#case-406-anime-short-film-dev-board-by-heyabhishek",
       "image_dir": "images/ui_case174",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7222,7 +7243,7 @@
       "title": "Editorial Anatomy Infographic Poster",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-175-editorial-anatomy-infographic-poster-by-iamaiistudio",
+      "case_anchor": "#case-407-editorial-anatomy-infographic-poster-by-iamaiistudio",
       "image_dir": "images/ui_case175",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7232,7 +7253,7 @@
       "title": "Japanese Fashion Cover Illustration",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-345-japanese-fashion-cover-illustration-by-iamaiistudio",
+      "case_anchor": "#case-275-japanese-fashion-cover-illustration-by-iamaiistudio",
       "image_dir": "images/poster_case345",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7242,7 +7263,7 @@
       "title": "3D Pixel Food Transformation",
       "category": "Ecommerce & Product Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-165-3d-pixel-food-transformation-by-iamaiistudio",
+      "case_anchor": "#case-5-3d-pixel-food-transformation-by-iamaiistudio",
       "image_dir": "images/ecommerce_case165",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7252,7 +7273,7 @@
       "title": "Ancient Palace Perfume Ad",
       "category": "Ecommerce & Product Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-166-ancient-palace-perfume-ad-by-iamaiistudio",
+      "case_anchor": "#case-6-ancient-palace-perfume-ad-by-iamaiistudio",
       "image_dir": "images/ecommerce_case166",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7262,7 +7283,7 @@
       "title": "Plush Soda Can Product Shot",
       "category": "Ecommerce & Product Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-167-plush-soda-can-product-shot-by-iamaiistudio",
+      "case_anchor": "#case-7-plush-soda-can-product-shot-by-iamaiistudio",
       "image_dir": "images/ecommerce_case167",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7272,7 +7293,7 @@
       "title": "Graphite Coffee-Shop Storyboard",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-176-graphite-coffee-shop-storyboard-by-insmind-com",
+      "case_anchor": "#case-408-graphite-coffee-shop-storyboard-by-insmind_com",
       "image_dir": "images/ui_case176",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7282,7 +7303,7 @@
       "title": "Venice Travel Vlogger Collage",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-177-venice-travel-vlogger-collage-by-zarairahh",
+      "case_anchor": "#case-409-venice-travel-vlogger-collage-by-zarairahh",
       "image_dir": "images/ui_case177",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7292,7 +7313,7 @@
       "title": "Love Bites Cyberpunk Manga Cover",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-346-love-bites-cyberpunk-manga-cover-by-her19845",
+      "case_anchor": "#case-276-love-bites-cyberpunk-manga-cover-by-her19845",
       "image_dir": "images/poster_case346",
       "added_at": "2026-06-07T08:01:31.841238+00:00"
     },
@@ -7302,7 +7323,7 @@
       "title": "Editorial Y2K Identity Grid",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-269-editorial-y2k-identity-grid-by-ciri-ai",
+      "case_anchor": "#case-139-editorial-y2k-identity-grid-by-ciri_ai",
       "image_dir": "images/portrait_case269",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7312,7 +7333,7 @@
       "title": "World Cup Hero Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-347-world-cup-hero-poster-by-goodmanprotocol",
+      "case_anchor": "#case-277-world-cup-hero-poster-by-goodmanprotocol",
       "image_dir": "images/poster_case347",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7322,7 +7343,7 @@
       "title": "VOLT Goal Celebration Ad",
       "category": "Ecommerce & Product Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-168-volt-goal-celebration-ad-by-ruzainameer",
+      "case_anchor": "#case-8-volt-goal-celebration-ad-by-ruzainameer",
       "image_dir": "images/ecommerce_case168",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7332,7 +7353,7 @@
       "title": "Destination Diorama Filmstrip",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-348-destination-diorama-filmstrip-by-naiknelofar788",
+      "case_anchor": "#case-278-destination-diorama-filmstrip-by-naiknelofar788",
       "image_dir": "images/poster_case348",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7342,7 +7363,7 @@
       "title": "Cool Grey Editorial 3x3",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-270-cool-grey-editorial-3x3-by-mind-boticni",
+      "case_anchor": "#case-140-cool-grey-editorial-3x3-by-mind_boticni",
       "image_dir": "images/portrait_case270",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7352,7 +7373,7 @@
       "title": "Sleep-Deprived Chibi Creator",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-349-sleep-deprived-chibi-creator-by-john-my07",
+      "case_anchor": "#case-279-sleep-deprived-chibi-creator-by-john_my07",
       "image_dir": "images/poster_case349",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7362,7 +7383,7 @@
       "title": "Spring Garden Watercolor Couple",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-350-spring-garden-watercolor-couple-by-nooneishere2603",
+      "case_anchor": "#case-280-spring-garden-watercolor-couple-by-nooneishere2603",
       "image_dir": "images/poster_case350",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7372,7 +7393,7 @@
       "title": "Black-and-White Fashion Grid",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-271-black-and-white-fashion-grid-by-j-smeaton99",
+      "case_anchor": "#case-141-black-and-white-fashion-grid-by-j_smeaton99",
       "image_dir": "images/portrait_case271",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7382,7 +7403,7 @@
       "title": "Cosmic Anime Villain Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-351-cosmic-anime-villain-poster-by-taaruk",
+      "case_anchor": "#case-281-cosmic-anime-villain-poster-by-taaruk_",
       "image_dir": "images/poster_case351",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7392,7 +7413,7 @@
       "title": "Nightlife Restaurant Flash Collage",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-272-nightlife-restaurant-flash-collage-by-zephyraleigh",
+      "case_anchor": "#case-142-nightlife-restaurant-flash-collage-by-zephyraleigh",
       "image_dir": "images/portrait_case272",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7402,7 +7423,7 @@
       "title": "Lightning Storm Supercar Ad",
       "category": "Ecommerce & Product Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-169-lightning-storm-supercar-ad-by-iamrealsnow",
+      "case_anchor": "#case-9-lightning-storm-supercar-ad-by-iamrealsnow",
       "image_dir": "images/ecommerce_case169",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7412,7 +7433,7 @@
       "title": "Shattered Stone Style Transfer",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-96-shattered-stone-style-transfer-by-samann-ai",
+      "case_anchor": "#case-446-shattered-stone-style-transfer-by-samann_ai",
       "image_dir": "images/comparison_case96",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7422,7 +7443,7 @@
       "title": "Vintage Newsstand Double Exposure",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-273-vintage-newsstand-double-exposure-by-aiwithzohaib",
+      "case_anchor": "#case-143-vintage-newsstand-double-exposure-by-aiwithzohaib",
       "image_dir": "images/portrait_case273",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7432,7 +7453,7 @@
       "title": "Luxury Jewelry Contrast Campaign",
       "category": "Ecommerce & Product Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-170-luxury-jewelry-contrast-campaign-by-aziz4ai",
+      "case_anchor": "#case-10-luxury-jewelry-contrast-campaign-by-aziz4ai",
       "image_dir": "images/ecommerce_case170",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7442,7 +7463,7 @@
       "title": "Modern Recipe Infographic Board",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-178-modern-recipe-infographic-board-by-iamaiistudio",
+      "case_anchor": "#case-410-modern-recipe-infographic-board-by-iamaiistudio",
       "image_dir": "images/ui_case178",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7452,7 +7473,7 @@
       "title": "Continuous-Run Glitch Storyboard",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-97-continuous-run-glitch-storyboard-by-aimikoda",
+      "case_anchor": "#case-447-continuous-run-glitch-storyboard-by-aimikoda",
       "image_dir": "images/comparison_case97",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7462,7 +7483,7 @@
       "title": "INNER SIGNAL Brand Poster Series",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-179-inner-signal-brand-poster-series-by-bmx-ai13",
+      "case_anchor": "#case-411-inner-signal-brand-poster-series-by-bmx_ai13",
       "image_dir": "images/ui_case179",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7472,7 +7493,7 @@
       "title": "Match-Day Supporter Transformation Board",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-98-match-day-supporter-transformation-board-by-ai-gezgini",
+      "case_anchor": "#case-448-match-day-supporter-transformation-board-by-ai_gezgini",
       "image_dir": "images/comparison_case98",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7482,7 +7503,7 @@
       "title": "Dust Bunny Nature Documentary",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-99-dust-bunny-nature-documentary-by-neuralaiinsight",
+      "case_anchor": "#case-449-dust-bunny-nature-documentary-by-neuralaiinsight",
       "image_dir": "images/comparison_case99",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7492,7 +7513,7 @@
       "title": "Animated Character Design Sheet",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-352-animated-character-design-sheet-by-0kncn",
+      "case_anchor": "#case-282-animated-character-design-sheet-by-0kncn",
       "image_dir": "images/poster_case352",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7502,7 +7523,7 @@
       "title": "Industrial Packaging Design Sheet",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-180-industrial-packaging-design-sheet-by-iamaiistudio",
+      "case_anchor": "#case-412-industrial-packaging-design-sheet-by-iamaiistudio",
       "image_dir": "images/ui_case180",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7512,7 +7533,7 @@
       "title": "Chrome Logo Editorial System",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-181-chrome-logo-editorial-system-by-iamaiistudio",
+      "case_anchor": "#case-413-chrome-logo-editorial-system-by-iamaiistudio",
       "image_dir": "images/ui_case181",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7522,7 +7543,7 @@
       "title": "Skincare UGC Storyboard Board",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-182-skincare-ugc-storyboard-board-by-wanderingc76",
+      "case_anchor": "#case-414-skincare-ugc-storyboard-board-by-wanderingc76",
       "image_dir": "images/ui_case182",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7532,7 +7553,7 @@
       "title": "Nordic Literary Editorial Illustration",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-353-nordic-literary-editorial-illustration-by-iamaiistudio",
+      "case_anchor": "#case-283-nordic-literary-editorial-illustration-by-iamaiistudio",
       "image_dir": "images/poster_case353",
       "added_at": "2026-06-08T05:55:00.959971+00:00"
     },
@@ -7542,7 +7563,7 @@
       "title": "World Cup Match Poster",
       "category": "poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-284-world-cup-match-poster-by-lukmanfebrianto",
       "image_dir": "",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
@@ -7552,7 +7573,7 @@
       "title": "Cinematography Analysis Frame",
       "category": "poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-285-cinematography-analysis-frame-by-bmx_ai13",
       "image_dir": "",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
@@ -7562,7 +7583,7 @@
       "title": "Action Storyboard Sheet",
       "category": "comparison",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-450-action-storyboard-sheet-by-neural_aperture",
       "image_dir": "",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
@@ -7572,7 +7593,7 @@
       "title": "Miniature Brand Universe Shoe",
       "category": "ecommerce",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-11-miniature-brand-universe-shoe-by-aiwithaliya",
       "image_dir": "",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
@@ -7582,7 +7603,7 @@
       "title": "Vintage Anatomic Book Plate",
       "category": "poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-286-vintage-anatomic-book-plate-by-livybabie",
       "image_dir": "",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
@@ -7592,7 +7613,7 @@
       "title": "Crowd Mosaic Football Portrait",
       "category": "poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-287-crowd-mosaic-football-portrait-by-taaruk_",
       "image_dir": "",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
@@ -7602,7 +7623,7 @@
       "title": "Churro Maker Storyboard Poster",
       "category": "comparison",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-451-churro-maker-storyboard-poster-by-techiebysa",
       "image_dir": "",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
@@ -7612,7 +7633,7 @@
       "title": "Fashion Casting Contact Sheet",
       "category": "portrait",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-144-fashion-casting-contact-sheet-by-ciri_ai",
       "image_dir": "",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
@@ -7622,7 +7643,7 @@
       "title": "Identity-Locked Portrait Edit",
       "category": "portrait",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-145-identity-locked-portrait-edit-by-kashberg_0",
       "image_dir": "",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
@@ -7632,7 +7653,7 @@
       "title": "Origami Food Poster",
       "category": "poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-288-origami-food-poster-by-gdgtify",
       "image_dir": "",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
@@ -7642,7 +7663,7 @@
       "title": "Surrealism History Timeline",
       "category": "poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-289-surrealism-history-timeline-by-92digitalartart",
       "image_dir": "",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
@@ -7652,7 +7673,7 @@
       "title": "3D Travel Ticket",
       "category": "poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-290-3d-travel-ticket-by-aiwithkhan",
       "image_dir": "",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
@@ -7662,7 +7683,7 @@
       "title": "High Angle Cinematic Portrait",
       "category": "Portrait",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-146-high-angle-cinematic-portrait-by-avelyrahnai",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7672,7 +7693,7 @@
       "title": "Chiaroscuro Hyper-realistic Portrait",
       "category": "Portrait",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-147-chiaroscuro-hyper-realistic-portrait-by-iamsofiaijaz",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7682,7 +7703,7 @@
       "title": "Kawaii Character Side Profile Portrait",
       "category": "Portrait",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-148-kawaii-character-side-profile-portrait-by-vibequirklabs",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7692,7 +7713,7 @@
       "title": "Monochrome Vector Vogue Portrait",
       "category": "Portrait",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-149-monochrome-vector-vogue-portrait-by-noorlewisx",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7702,7 +7723,7 @@
       "title": "Minimalist Vogue Editorial Cover",
       "category": "Portrait",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-150-minimalist-vogue-editorial-cover-by-vireonixx",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7712,7 +7733,7 @@
       "title": "Cinematic Street Photography Portrait",
       "category": "Portrait",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-151-cinematic-street-photography-portrait-by-frametheory058",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7722,7 +7743,7 @@
       "title": "Winter Wolf Cinematic Portrait",
       "category": "Portrait",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-152-winter-wolf-cinematic-portrait-by-iamaiistudio",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7732,7 +7753,7 @@
       "title": "Full Shot Man White Chair",
       "category": "Portrait",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-153-full-shot-man-white-chair-by-jamilai55",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7742,7 +7763,7 @@
       "title": "Eiffel Tower Low Angle Fashion Portrait",
       "category": "Portrait",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-154-eiffel-tower-low-angle-fashion-portrait-by-chaseunre",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7752,7 +7773,7 @@
       "title": "Luxury Birthday Poster 3:4",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-291-luxury-birthday-poster-34-by-taaruk_",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7762,7 +7783,7 @@
       "title": "Window Girl Fashion Editorial",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-292-window-girl-fashion-editorial-by-iamaiistudio",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7772,7 +7793,7 @@
       "title": "Premium Streetwear Graphic Tee",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-293-premium-streetwear-graphic-tee-by-j_smeaton99",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7782,7 +7803,7 @@
       "title": "Three-Frame Nightlife Collage",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-294-three-frame-nightlife-collage-by-mehvishs25",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7792,7 +7813,7 @@
       "title": "Travel Planning Tabletop Scene",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-295-travel-planning-tabletop-scene-by-naiknelofar788",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7802,7 +7823,7 @@
       "title": "iPhone Candid Notebook Photo",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-296-iphone-candid-notebook-photo-by-iamaiistudio",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7812,7 +7833,7 @@
       "title": "French New Wave Film Still",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-297-french-new-wave-film-still-by-iamaiistudio",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7822,7 +7843,7 @@
       "title": "Nighttime Japanese Theater Cinematic",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-298-nighttime-japanese-theater-cinematic-by-preda2005",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7832,7 +7853,7 @@
       "title": "Furniture Product Sheet Layout",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-299-furniture-product-sheet-layout-by-iamaiistudio",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7842,7 +7863,7 @@
       "title": "Anime Character Concept Showcase",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-300-anime-character-concept-showcase-by-itspixieverse",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7852,7 +7873,7 @@
       "title": "Dopamine Burst 3D Poster",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-301-dopamine-burst-3d-poster-by-iamaiistudio",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7862,7 +7883,7 @@
       "title": "Scandinavian Branding Mockup",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-302-scandinavian-branding-mockup-by-iamaiistudio",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7872,7 +7893,7 @@
       "title": "Hand-drawn Doodle Art Overlay",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-303-hand-drawn-doodle-art-overlay-by-iamaiistudio",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7882,7 +7903,7 @@
       "title": "Japanese Ad Banner 2x2 Grid",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-304-japanese-ad-banner-2x2-grid-by-iamaiistudio",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7892,7 +7913,7 @@
       "title": "Argentina Football Uniform Promo",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-305-argentina-football-uniform-promo-by-aiwithaliya",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7902,7 +7923,7 @@
       "title": "Food Ad Layered Dessert",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-306-food-ad-layered-dessert-by-iamaiistudio",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7912,7 +7933,7 @@
       "title": "Claymation Teen Girl with Headphones",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-307-claymation-teen-girl-with-headphones-by-zephyraleigh",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7922,7 +7943,7 @@
       "title": "Greek Mythology Olympian Family Tree",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-308-greek-mythology-olympian-family-tree-by-92digitalartart",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7932,7 +7953,7 @@
       "title": "Ultra-realistic Trophy Sports Photography",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-309-ultra-realistic-trophy-sports-photography-by-goodmanprotocol",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7942,7 +7963,7 @@
       "title": "Celestial Fantasy Oracle Storyboard",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-310-celestial-fantasy-oracle-storyboard-by-itspixieverse",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7952,7 +7973,7 @@
       "title": "3D Product Mockup Smartphone",
       "category": "Poster",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-311-3d-product-mockup-smartphone-by-samann_ai",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7962,7 +7983,7 @@
       "title": "Food Anime Storyboard Generator",
       "category": "Comparison",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-452-food-anime-storyboard-generator-by-tanabe_fragm",
       "image_dir": "",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
@@ -7972,7 +7993,7 @@
       "title": "Anime-Inspired Pastel Hoodie Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-285-anime-inspired-pastel-hoodie-portrait-by-de-mon010",
+      "case_anchor": "#case-155-anime-inspired-pastel-hoodie-portrait-by-de_mon010",
       "image_dir": "images/portrait_case285",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -7982,7 +8003,7 @@
       "title": "Travel Food Postcard Template",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-382-travel-food-postcard-template-by-naiknelofar788",
+      "case_anchor": "#case-312-travel-food-postcard-template-by-naiknelofar788",
       "image_dir": "images/poster_case382",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -7992,7 +8013,7 @@
       "title": "Satellite Terrain Letter Typography Map",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-383-satellite-terrain-letter-typography-map-by-iamaiistudio",
+      "case_anchor": "#case-313-satellite-terrain-letter-typography-map-by-iamaiistudio",
       "image_dir": "images/poster_case383",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8002,7 +8023,7 @@
       "title": "Italian Summer Afternoon Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-286-italian-summer-afternoon-portrait-by-iamaiistudio",
+      "case_anchor": "#case-156-italian-summer-afternoon-portrait-by-iamaiistudio",
       "image_dir": "images/portrait_case286",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8012,7 +8033,7 @@
       "title": "40K Power Armour Squad Portrait",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-19-40k-power-armour-squad-portrait-by-evaglitchai",
+      "case_anchor": "#case-367-40k-power-armour-squad-portrait-by-evaglitchai",
       "image_dir": "images/character_case19",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8022,7 +8043,7 @@
       "title": "Rainy Night Cinematic Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-287-rainy-night-cinematic-portrait-by-iamaiistudio",
+      "case_anchor": "#case-157-rainy-night-cinematic-portrait-by-iamaiistudio",
       "image_dir": "images/portrait_case287",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8032,7 +8053,7 @@
       "title": "Polish PRL Era Magazine Spread",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-384-polish-prl-era-magazine-spread-by-riccardo-nero",
+      "case_anchor": "#case-314-polish-prl-era-magazine-spread-by-riccardo_nero",
       "image_dir": "images/poster_case384",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8042,7 +8063,7 @@
       "title": "FIFA World Cup 2026 Throne Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-385-fifa-world-cup-2026-throne-poster-by-saasjunctionhq",
+      "case_anchor": "#case-315-fifa-world-cup-2026-throne-poster-by-saasjunctionhq",
       "image_dir": "images/poster_case385",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8052,7 +8073,7 @@
       "title": "7-Panel Emotion Grid Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-288-7-panel-emotion-grid-portrait-by-iamaiistudio",
+      "case_anchor": "#case-158-7-panel-emotion-grid-portrait-by-iamaiistudio",
       "image_dir": "images/portrait_case288",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8062,7 +8083,7 @@
       "title": "Country Stylized Travel Poster Collage",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-386-country-stylized-travel-poster-collage-by-iamaiistudio",
+      "case_anchor": "#case-316-country-stylized-travel-poster-collage-by-iamaiistudio",
       "image_dir": "images/poster_case386",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8072,7 +8093,7 @@
       "title": "Cozy Pastel Morning Overhead Lifestyle",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-289-cozy-pastel-morning-overhead-lifestyle-by-iamaiistudio",
+      "case_anchor": "#case-159-cozy-pastel-morning-overhead-lifestyle-by-iamaiistudio",
       "image_dir": "images/portrait_case289",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8082,7 +8103,7 @@
       "title": "Old Footage Restoration with GPT-Image 2",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-103-old-footage-restoration-with-gpt-image-2-by-curiousrefuge",
+      "case_anchor": "#case-456-old-footage-restoration-with-gpt-image-2-by-curiousrefuge",
       "image_dir": "images/comparison_case103",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8092,7 +8113,7 @@
       "title": "Risograph Zine Rainforest Infographic",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-387-risograph-zine-rainforest-infographic-by-92digitalartart",
+      "case_anchor": "#case-317-risograph-zine-rainforest-infographic-by-92digitalartart",
       "image_dir": "images/poster_case387",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8102,7 +8123,7 @@
       "title": "Adidas Futuristic Drop Ad Poster 9:16",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-184-adidas-futuristic-drop-ad-poster-9-16-by-iamaiistudio",
+      "case_anchor": "#case-28-adidas-futuristic-drop-ad-poster-916-by-iamaiistudio",
       "image_dir": "images/ad-creative_case184",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8112,7 +8133,7 @@
       "title": "Luxury Linen Texture Editorial Poster",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-185-luxury-linen-texture-editorial-poster-by-zephyraleigh",
+      "case_anchor": "#case-29-luxury-linen-texture-editorial-poster-by-zephyraleigh",
       "image_dir": "images/ad-creative_case185",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8122,7 +8143,7 @@
       "title": "World Cup National Team Fashion Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-388-world-cup-national-team-fashion-poster-by-just-sharon7",
+      "case_anchor": "#case-318-world-cup-national-team-fashion-poster-by-just_sharon7",
       "image_dir": "images/poster_case388",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8132,7 +8153,7 @@
       "title": "FIFA World Cup Country Emblem Badge",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-389-fifa-world-cup-country-emblem-badge-by-goodmanprotocol",
+      "case_anchor": "#case-319-fifa-world-cup-country-emblem-badge-by-goodmanprotocol",
       "image_dir": "images/poster_case389",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8142,7 +8163,7 @@
       "title": "Stylish Woman Outside Cozy Café Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-290-stylish-woman-outside-cozy-caf-portrait-by-sakshi-007",
+      "case_anchor": "#case-160-stylish-woman-outside-cozy-café-portrait-by-sakshi___007",
       "image_dir": "images/portrait_case290",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8152,7 +8173,7 @@
       "title": "Vertical Character Concept Sheet",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-20-vertical-character-concept-sheet-by-iamaiistudio",
+      "case_anchor": "#case-368-vertical-character-concept-sheet-by-iamaiistudio",
       "image_dir": "images/character_case20",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8162,7 +8183,7 @@
       "title": "Luxury Streetwear Chrome Chair Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-291-luxury-streetwear-chrome-chair-portrait-by-aiwithlariab",
+      "case_anchor": "#case-161-luxury-streetwear-chrome-chair-portrait-by-aiwithlariab",
       "image_dir": "images/portrait_case291",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8172,7 +8193,7 @@
       "title": "South Korea Graffiti Street Art Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-292-south-korea-graffiti-street-art-portrait-by-kashberg-0",
+      "case_anchor": "#case-162-south-korea-graffiti-street-art-portrait-by-kashberg_0",
       "image_dir": "images/portrait_case292",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8182,7 +8203,7 @@
       "title": "Korean Webtoon Couple Selfie",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-293-korean-webtoon-couple-selfie-by-taaruk",
+      "case_anchor": "#case-163-korean-webtoon-couple-selfie-by-taaruk_",
       "image_dir": "images/portrait_case293",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8192,7 +8213,7 @@
       "title": "Non-Existent 1870s Vintage Photograph",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-294-non-existent-1870s-vintage-photograph-by-arminn-ai",
+      "case_anchor": "#case-164-non-existent-1870s-vintage-photograph-by-arminn_ai",
       "image_dir": "images/portrait_case294",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8202,7 +8223,7 @@
       "title": "Doll-ification Concept Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-295-doll-ification-concept-portrait-by-iamaiistudio",
+      "case_anchor": "#case-165-doll-ification-concept-portrait-by-iamaiistudio",
       "image_dir": "images/portrait_case295",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8212,7 +8233,7 @@
       "title": "Neon Doodle Gallery Snapshot Template",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-296-neon-doodle-gallery-snapshot-template-by-im-shahid7",
+      "case_anchor": "#case-166-neon-doodle-gallery-snapshot-template-by-im_shahid7",
       "image_dir": "images/portrait_case296",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8222,7 +8243,7 @@
       "title": "Face-Reference Consistent Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-297-face-reference-consistent-portrait-by-john-my07",
+      "case_anchor": "#case-167-face-reference-consistent-portrait-by-john_my07",
       "image_dir": "images/portrait_case297",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8232,7 +8253,7 @@
       "title": "Double Exposure Art Director Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-390-double-exposure-art-director-poster-by-iamaiistudio",
+      "case_anchor": "#case-320-double-exposure-art-director-poster-by-iamaiistudio",
       "image_dir": "images/poster_case390",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8242,7 +8263,7 @@
       "title": "日本コンビニ店員 昼夜対比写真",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-298-case-by-johnagi168",
+      "case_anchor": "#case-168-日本コンビニ店員-昼夜対比写真-by-johnagi168",
       "image_dir": "images/portrait_case298",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8252,7 +8273,7 @@
       "title": "Luxury Watch Dramatic Beam Product Shot",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-186-luxury-watch-dramatic-beam-product-shot-by-meng-dagg695",
+      "case_anchor": "#case-30-luxury-watch-dramatic-beam-product-shot-by-meng_dagg695",
       "image_dir": "images/ad-creative_case186",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8262,7 +8283,7 @@
       "title": "Dreamlike Cloud Face Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-299-dreamlike-cloud-face-portrait-by-iamaiistudio",
+      "case_anchor": "#case-169-dreamlike-cloud-face-portrait-by-iamaiistudio",
       "image_dir": "images/portrait_case299",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8272,7 +8293,7 @@
       "title": "Romantic Smartphone Couple Scene Product Shot",
       "category": "E-commerce Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-172-romantic-smartphone-couple-scene-product-shot-by-hmontilla",
+      "case_anchor": "#case-12-romantic-smartphone-couple-scene-product-shot-by-hmontilla_",
       "image_dir": "images/ecommerce_case172",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8282,7 +8303,7 @@
       "title": "Face-Preserved Ultra-Realistic Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-300-face-preserved-ultra-realistic-portrait-by-rainlanded",
+      "case_anchor": "#case-170-face-preserved-ultra-realistic-portrait-by-rainlanded",
       "image_dir": "images/portrait_case300",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8292,7 +8313,7 @@
       "title": "Pixar 3D Kebab Maker Storyboard Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-391-pixar-3d-kebab-maker-storyboard-poster-by-techiebysa",
+      "case_anchor": "#case-321-pixar-3d-kebab-maker-storyboard-poster-by-techiebysa",
       "image_dir": "images/poster_case391",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8302,7 +8323,7 @@
       "title": "BMX Rider Streetwear Mixed-Media Collage",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-392-bmx-rider-streetwear-mixed-media-collage-by-omnitrix204",
+      "case_anchor": "#case-322-bmx-rider-streetwear-mixed-media-collage-by-omnitrix204",
       "image_dir": "images/poster_case392",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8312,7 +8333,7 @@
       "title": "Sharp Digital Portrait Illustration",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-301-sharp-digital-portrait-illustration-by-jamilai55",
+      "case_anchor": "#case-171-sharp-digital-portrait-illustration-by-jamilai55",
       "image_dir": "images/portrait_case301",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8322,7 +8343,7 @@
       "title": "3D Acrobat Jumping Editorial Cartoon",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-21-3d-acrobat-jumping-editorial-cartoon-by-iamaiistudio",
+      "case_anchor": "#case-369-3d-acrobat-jumping-editorial-cartoon-by-iamaiistudio",
       "image_dir": "images/character_case21",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8332,7 +8353,7 @@
       "title": "Luxury Historical Civilization Strategy Card",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-393-luxury-historical-civilization-strategy-card-by-gdgtify",
+      "case_anchor": "#case-323-luxury-historical-civilization-strategy-card-by-gdgtify",
       "image_dir": "images/poster_case393",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8342,7 +8363,7 @@
       "title": "파리 가로등 기댄 감성 전신 포즈",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-302-case-by-chaseunre",
+      "case_anchor": "#case-172-파리-가로등-기댄-감성-전신-포즈-by-chaseunre",
       "image_dir": "images/portrait_case302",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8352,7 +8373,7 @@
       "title": "4 Architectural Styles 2×2 Grid",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-104-4-architectural-styles-2-2-grid-by-gdgtify",
+      "case_anchor": "#case-457-4-architectural-styles-22-grid-by-gdgtify",
       "image_dir": "images/comparison_case104",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8362,7 +8383,7 @@
       "title": "雨中灵姬东方幻想 3D CG 角色",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-22-3d-cg-by-liyue-ai",
+      "case_anchor": "#case-370-雨中灵姬东方幻想-3d-cg-角色-by-liyue_ai",
       "image_dir": "images/character_case22",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8372,7 +8393,7 @@
       "title": "可口可乐百事雪碧品牌 KV 对比",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-187-kv-by-liyue-ai",
+      "case_anchor": "#case-31-可口可乐百事雪碧品牌-kv-对比-by-liyue_ai",
       "image_dir": "images/ad-creative_case187",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8382,7 +8403,7 @@
       "title": "深夜调酒师暗红酒吧封面写真",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-303-case-by-liyue-ai",
+      "case_anchor": "#case-173-深夜调酒师暗红酒吧封面写真-by-liyue_ai",
       "image_dir": "images/portrait_case303",
       "added_at": "2026-06-14T06:51:17.453106+00:00"
     },
@@ -8392,7 +8413,7 @@
       "title": "Sony A7 Exploded Diagram",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-394-sony-a7-exploded-diagram",
+      "case_anchor": "#case-324-sony-a7-exploded-diagram-by-iamaiistudio",
       "image_dir": "images/poster_case394",
       "added_at": "2026-06-14T09:46:38.436584+00:00"
     },
@@ -8402,7 +8423,7 @@
       "title": "Biomechanical Organ Product Render",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-395-biomechanical-organ-product-render",
+      "case_anchor": "#case-325-biomechanical-organ-product-render-by-iamaiistudio",
       "image_dir": "images/poster_case395",
       "added_at": "2026-06-14T09:46:38.436584+00:00"
     },
@@ -8412,7 +8433,7 @@
       "title": "Solar Storm WPA Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-396-solar-storm-wpa-poster",
+      "case_anchor": "#case-326-solar-storm-wpa-poster-by-92digitalartart",
       "image_dir": "images/poster_case396",
       "added_at": "2026-06-14T09:46:38.436584+00:00"
     },
@@ -8422,7 +8443,7 @@
       "title": "Premium Automotive Spec Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-397-premium-automotive-spec-poster",
+      "case_anchor": "#case-327-premium-automotive-spec-poster-by-iamaiistudio",
       "image_dir": "images/poster_case397",
       "added_at": "2026-06-14T09:46:38.436584+00:00"
     },
@@ -8432,7 +8453,7 @@
       "title": "Surreal Cartoon Portrait Template",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-23-surreal-cartoon-portrait-template",
+      "case_anchor": "#case-371-surreal-cartoon-portrait-template-by-goodmanprotocol",
       "image_dir": "images/character_case23",
       "added_at": "2026-06-14T09:46:38.436584+00:00"
     },
@@ -8442,7 +8463,7 @@
       "title": "Dopamine 3D Urban Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-398-dopamine-3d-urban-poster",
+      "case_anchor": "#case-328-dopamine-3d-urban-poster-by-iamaiistudio",
       "image_dir": "images/poster_case398",
       "added_at": "2026-06-14T09:46:38.436584+00:00"
     },
@@ -8452,7 +8473,7 @@
       "title": "Square Professional Ad Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-399-square-professional-ad-poster",
+      "case_anchor": "#case-329-square-professional-ad-poster-by-iamaiistudio",
       "image_dir": "images/poster_case399",
       "added_at": "2026-06-14T09:46:38.436584+00:00"
     },
@@ -8462,7 +8483,7 @@
       "title": "Blockbuster Action Movie Shot",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-400-blockbuster-action-movie-shot",
+      "case_anchor": "#case-330-blockbuster-action-movie-shot-by-iamaiistudio",
       "image_dir": "images/poster_case400",
       "added_at": "2026-06-14T09:46:38.436584+00:00"
     },
@@ -8472,7 +8493,7 @@
       "title": "Coin Math Editing Test",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-105-coin-math-editing-test",
+      "case_anchor": "#case-458-coin-math-editing-test-by-iamaiistudio",
       "image_dir": "images/comparison_case105",
       "added_at": "2026-06-14T09:46:38.436584+00:00"
     },
@@ -8482,7 +8503,7 @@
       "title": "Early Internet Portfolio Page",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-183-early-internet-portfolio-page",
+      "case_anchor": "#case-415-early-internet-portfolio-page-by-kashberg_0",
       "image_dir": "images/ui_case183",
       "added_at": "2026-06-14T09:46:38.436584+00:00"
     },
@@ -8492,7 +8513,7 @@
       "title": "Editorial Ink Illustration Template",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-401-editorial-ink-illustration-template",
+      "case_anchor": "#case-331-editorial-ink-illustration-template-by-naiknelofar788",
       "image_dir": "images/poster_case401",
       "added_at": "2026-06-14T09:46:38.436584+00:00"
     },
@@ -8502,7 +8523,7 @@
       "title": "Luxury Sneaker Editorial Grid",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-188-luxury-sneaker-editorial-grid",
+      "case_anchor": "#case-32-luxury-sneaker-editorial-grid-by-iamaiistudio",
       "image_dir": "images/ad-creative_case188",
       "added_at": "2026-06-14T09:46:38.436584+00:00"
     },
@@ -8512,7 +8533,7 @@
       "title": "Wireless Earbuds Lifestyle Ad",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-189-wireless-earbuds-lifestyle-ad",
+      "case_anchor": "#case-33-wireless-earbuds-lifestyle-ad-by-iamaiistudio",
       "image_dir": "images/ad-creative_case189",
       "added_at": "2026-06-14T09:46:38.436584+00:00"
     },
@@ -8522,7 +8543,7 @@
       "title": "Isometric Landmark Diorama",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-402-isometric-landmark-diorama",
+      "case_anchor": "#case-332-isometric-landmark-diorama-by-iamaiistudio",
       "image_dir": "images/poster_case402",
       "added_at": "2026-06-14T09:46:38.436584+00:00"
     },
@@ -8532,7 +8553,7 @@
       "title": "Kinder Joy Swing Chair Scene",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-190-kinder-joy-swing-chair-scene",
+      "case_anchor": "#case-34-kinder-joy-swing-chair-scene-by-iamaiistudio",
       "image_dir": "images/ad-creative_case190",
       "added_at": "2026-06-15T02:12:32.505762+00:00"
     },
@@ -8542,7 +8563,7 @@
       "title": "Needle-Felted Wool Miniature",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-304-needle-felted-wool-miniature",
+      "case_anchor": "#case-174-needle-felted-wool-miniature-by-iamaiistudio",
       "image_dir": "images/portrait_case304",
       "added_at": "2026-06-15T02:12:33.820406+00:00"
     },
@@ -8552,7 +8573,7 @@
       "title": "Invisible Shield Sunscreen Ad",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-191-invisible-shield-sunscreen-ad",
+      "case_anchor": "#case-35-invisible-shield-sunscreen-ad-by-iamrealsnow",
       "image_dir": "images/ad-creative_case191",
       "added_at": "2026-06-15T02:12:35.836339+00:00"
     },
@@ -8562,7 +8583,7 @@
       "title": "Wind-Up Miniature World",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-403-wind-up-miniature-world",
+      "case_anchor": "#case-333-wind-up-miniature-world-by-gdgtify",
       "image_dir": "images/poster_case403",
       "added_at": "2026-06-15T02:12:36.891720+00:00"
     },
@@ -8572,7 +8593,7 @@
       "title": "Hidden Logo Landscape Illusion",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-192-hidden-logo-landscape-illusion",
+      "case_anchor": "#case-36-hidden-logo-landscape-illusion-by-iamaiistudio",
       "image_dir": "images/ad-creative_case192",
       "added_at": "2026-06-15T02:12:39.295591+00:00"
     },
@@ -8582,7 +8603,7 @@
       "title": "Jellyfish City Above the Dunes",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-404-jellyfish-city-above-the-dunes",
+      "case_anchor": "#case-334-jellyfish-city-above-the-dunes-by-92digitalartart",
       "image_dir": "images/poster_case404",
       "added_at": "2026-06-15T02:12:40.380527+00:00"
     },
@@ -8592,7 +8613,7 @@
       "title": "Colored Pencil Photo Transformation",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-184-colored-pencil-photo-transformation",
+      "case_anchor": "#case-416-colored-pencil-photo-transformation-by-aiwithsynthia",
       "image_dir": "images/ui_case184",
       "added_at": "2026-06-15T02:12:41.689110+00:00"
     },
@@ -8602,7 +8623,7 @@
       "title": "Tilt-Shift City Map Travel Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-405-tilt-shift-city-map-travel-poster",
+      "case_anchor": "#case-335-tilt-shift-city-map-travel-poster-by-iamaiistudio",
       "image_dir": "images/poster_case405",
       "added_at": "2026-06-15T02:12:45.680655+00:00"
     },
@@ -8612,7 +8633,7 @@
       "title": "SPLASH Liquid Logo Fashion Poster",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-193-splash-liquid-logo-fashion-poster",
+      "case_anchor": "#case-37-splash-liquid-logo-fashion-poster-by-iamaiistudio",
       "image_dir": "images/ad-creative_case193",
       "added_at": "2026-06-15T02:12:46.710722+00:00"
     },
@@ -8622,7 +8643,7 @@
       "title": "Korean Dance Motion Sheet",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-24-korean-dance-motion-sheet-by-iamaiistudio",
+      "case_anchor": "#case-372-korean-dance-motion-sheet-by-iamaiistudio",
       "image_dir": "images/character_case24",
       "added_at": "2026-06-16T02:09:42.308Z"
     },
@@ -8632,7 +8653,7 @@
       "title": "Airy Japanese Window Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-305-airy-japanese-window-portrait-by-iamaiistudio",
+      "case_anchor": "#case-175-airy-japanese-window-portrait-by-iamaiistudio",
       "image_dir": "images/portrait_case305",
       "added_at": "2026-06-16T02:09:42.308Z"
     },
@@ -8642,7 +8663,7 @@
       "title": "Luminant Archivist Character Poster",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-25-luminant-archivist-character-poster-by-92digitalartart",
+      "case_anchor": "#case-373-luminant-archivist-character-poster-by-92digitalartart",
       "image_dir": "images/character_case25",
       "added_at": "2026-06-16T02:09:42.308Z"
     },
@@ -8652,7 +8673,7 @@
       "title": "AI Music Bootcamp Event Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-406-ai-music-bootcamp-event-poster-by-iamaiistudio",
+      "case_anchor": "#case-336-ai-music-bootcamp-event-poster-by-iamaiistudio",
       "image_dir": "images/poster_case406",
       "added_at": "2026-06-16T02:09:42.308Z"
     },
@@ -8662,7 +8683,7 @@
       "title": "Mascot Brand Identity Sheet",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-185-mascot-brand-identity-sheet-by-iamaiistudio",
+      "case_anchor": "#case-417-mascot-brand-identity-sheet-by-iamaiistudio",
       "image_dir": "images/ui_case185",
       "added_at": "2026-06-16T02:09:42.308Z"
     },
@@ -8672,7 +8693,7 @@
       "title": "Architectural Product Catalog Page",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-186-architectural-product-catalog-page-by-iamaiistudio",
+      "case_anchor": "#case-418-architectural-product-catalog-page-by-iamaiistudio",
       "image_dir": "images/ui_case186",
       "added_at": "2026-06-16T02:09:42.308Z"
     },
@@ -8682,7 +8703,7 @@
       "title": "OBSIDIAN Coffee Brand Campaign",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-194-obsidian-coffee-brand-campaign-by-iamaiistudio",
+      "case_anchor": "#case-38-obsidian-coffee-brand-campaign-by-iamaiistudio",
       "image_dir": "images/ad-creative_case194",
       "added_at": "2026-06-16T02:09:42.308Z"
     },
@@ -8692,7 +8713,7 @@
       "title": "Visual Novel Character Profile",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "#case-26-visual-novel-character-profile-by-iamaiistudio",
+      "case_anchor": "#case-374-visual-novel-character-profile-by-iamaiistudio",
       "image_dir": "images/character_case26",
       "added_at": "2026-06-18T02:08:54.083Z"
     },
@@ -8702,7 +8723,7 @@
       "title": "Blueprint vs Render Split Object",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "#case-106-blueprint-vs-render-split-object-by-iamaiistudio",
+      "case_anchor": "#case-459-blueprint-vs-render-split-object-by-iamaiistudio",
       "image_dir": "images/comparison_case106",
       "added_at": "2026-06-18T02:08:54.084Z"
     },
@@ -8712,7 +8733,7 @@
       "title": "Pergola Blueprint Build Split",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "#case-107-pergola-blueprint-build-split-by-iamaiistudio",
+      "case_anchor": "#case-460-pergola-blueprint-build-split-by-iamaiistudio",
       "image_dir": "images/comparison_case107",
       "added_at": "2026-06-18T02:08:54.084Z"
     },
@@ -8722,7 +8743,7 @@
       "title": "Park Bench Iced Coffee Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-176-park-bench-iced-coffee-portrait-by-saniaspeaks_",
       "image_dir": "images/portrait_case306",
       "added_at": "2026-06-18T03:46:24.357405+00:00"
     },
@@ -8732,7 +8753,7 @@
       "title": "Curtain Bang Close-Up Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-177-curtain-bang-close-up-portrait-by-iamsofiaijaz",
       "image_dir": "images/portrait_case307",
       "added_at": "2026-06-18T03:46:24.357411+00:00"
     },
@@ -8742,7 +8763,7 @@
       "title": "Stay Focused Editorial Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-337-stay-focused-editorial-poster-by-iamaiistudio",
       "image_dir": "images/poster_case407",
       "added_at": "2026-06-18T03:46:24.360419+00:00"
     },
@@ -8752,7 +8773,7 @@
       "title": "Chowmein Recipe Infographic",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-338-chowmein-recipe-infographic-by-iamaiistudio",
       "image_dir": "images/poster_case408",
       "added_at": "2026-06-18T03:46:24.360423+00:00"
     },
@@ -8762,7 +8783,7 @@
       "title": "Floral Serum Product Shot",
       "category": "E-commerce Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-13-floral-serum-product-shot-by-iamaiistudio",
       "image_dir": "images/ecommerce_case173",
       "added_at": "2026-06-18T03:46:24.355168+00:00"
     },
@@ -8772,7 +8793,7 @@
       "title": "Coconut Paradise Skincare Ad",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-39-coconut-paradise-skincare-ad-by-strength04_x",
       "image_dir": "images/ad-creative_case195",
       "added_at": "2026-06-18T03:46:24.354534+00:00"
     },
@@ -8782,7 +8803,7 @@
       "title": "Reverse-Assembly Product VFX",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-40-reverse-assembly-product-vfx-by-iamaiistudio",
       "image_dir": "images/ad-creative_case196",
       "added_at": "2026-06-18T03:46:24.354705+00:00"
     },
@@ -8792,7 +8813,7 @@
       "title": "The King Still Breathes Masthead",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "",
+      "case_anchor": "#case-419-the-king-still-breathes-masthead-by-neuralaiinsight",
       "image_dir": "images/ui_case187",
       "added_at": "2026-06-18T03:46:24.361690+00:00"
     },
@@ -8802,7 +8823,7 @@
       "title": "New Intelligence Editorial Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-409",
+      "case_anchor": "#case-339-new-intelligence-editorial-poster-by-iamaiistudio",
       "image_dir": "images/poster_case409"
     },
     {
@@ -8811,7 +8832,7 @@
       "title": "Grape Reveal Can Product Shot",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-197",
+      "case_anchor": "#case-41-grape-reveal-can-product-shot-by-iamaiistudio",
       "image_dir": "images/ad-creative_case197"
     },
     {
@@ -8820,7 +8841,7 @@
       "title": "Medieval Alchemist Character Sheet",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-27",
+      "case_anchor": "#case-375-medieval-alchemist-character-sheet-by-itspixieverse",
       "image_dir": "images/character_case27"
     },
     {
@@ -8829,7 +8850,7 @@
       "title": "Cyborg Prosthetic Close-Up",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-308",
+      "case_anchor": "#case-178-cyborg-prosthetic-close-up-by-iamaiistudio",
       "image_dir": "images/portrait_case308"
     },
     {
@@ -8838,7 +8859,7 @@
       "title": "Mediterranean Alley Sunlit Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-309",
+      "case_anchor": "#case-179-mediterranean-alley-sunlit-portrait-by-iamaiistudio",
       "image_dir": "images/portrait_case309"
     },
     {
@@ -8847,7 +8868,7 @@
       "title": "Ingredient Callout Ice Cream Ad",
       "category": "E-commerce Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-174",
+      "case_anchor": "#case-14-ingredient-callout-ice-cream-ad-by-iamaiistudio",
       "image_dir": "images/ecommerce_case174"
     },
     {
@@ -8856,7 +8877,7 @@
       "title": "Douyin Livestream Screenshot",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-188",
+      "case_anchor": "#case-420-douyin-livestream-screenshot-by-iamaiistudio",
       "image_dir": "images/ui_case188",
       "added_at": "2026-06-20T02:11:14.224103+00:00"
     },
@@ -8866,7 +8887,7 @@
       "title": "Lion-Camel Ridge Demon Court",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-410",
+      "case_anchor": "#case-340-lion-camel-ridge-demon-court-by-iamaiistudio",
       "image_dir": "images/poster_case410",
       "added_at": "2026-06-20T02:11:14.224103+00:00"
     },
@@ -8876,7 +8897,7 @@
       "title": "Spicy Chili Chutney Product Shot",
       "category": "E-commerce Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-175",
+      "case_anchor": "#case-15-spicy-chili-chutney-product-shot-by-iamaiistudio",
       "image_dir": "images/ecommerce_case175",
       "added_at": "2026-06-20T02:11:14.224103+00:00"
     },
@@ -8886,7 +8907,7 @@
       "title": "Ray-Ban Giant Aviator Ad",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-198",
+      "case_anchor": "#case-42-ray-ban-giant-aviator-ad-by-mrdasonx",
       "image_dir": "images/ad-creative_case198",
       "added_at": "2026-06-20T02:11:14.224103+00:00"
     },
@@ -8896,7 +8917,7 @@
       "title": "Pixar Banana Hero Character",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-28",
+      "case_anchor": "#case-376-pixar-banana-hero-character-by-iamaiistudio",
       "image_dir": "images/character_case28",
       "added_at": "2026-06-20T02:11:14.224103+00:00"
     },
@@ -8906,7 +8927,7 @@
       "title": "Moscow Swiss Editorial Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-411",
+      "case_anchor": "#case-341-moscow-swiss-editorial-poster-by-naiknelofar788",
       "image_dir": "images/poster_case411",
       "added_at": "2026-06-20T02:11:14.224103+00:00"
     },
@@ -8916,7 +8937,7 @@
       "title": "AR Grocery Overlay POV",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-189",
+      "case_anchor": "#case-421-ar-grocery-overlay-pov-by-iamaiistudio",
       "image_dir": "images/ui_case189",
       "added_at": "2026-06-20T02:11:14.224103+00:00"
     },
@@ -8926,7 +8947,7 @@
       "title": "Levitating Food Photography Set",
       "category": "E-commerce Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-176",
+      "case_anchor": "#case-16-levitating-food-photography-set-by-iamaiistudio",
       "image_dir": "images/ecommerce_case176",
       "added_at": "2026-06-20T02:11:14.224103+00:00"
     },
@@ -8936,7 +8957,7 @@
       "title": "Whispers in the Crowd Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-412",
+      "case_anchor": "#case-342-whispers-in-the-crowd-poster-by-iamaiistudio",
       "image_dir": "images/poster_case412",
       "added_at": "2026-06-20T02:11:14.224103+00:00"
     },
@@ -8946,7 +8967,7 @@
       "title": "Toy Camera Balcony Candid",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-310",
+      "case_anchor": "#case-180-toy-camera-balcony-candid-by-iamaiistudio",
       "image_dir": "images/portrait_case310",
       "added_at": "2026-06-21T02:11:51.604777+00:00"
     },
@@ -8956,7 +8977,7 @@
       "title": "Emerald Headwrap Editorial Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-311",
+      "case_anchor": "#case-181-emerald-headwrap-editorial-portrait-by-bmx_ai13",
       "image_dir": "images/portrait_case311",
       "added_at": "2026-06-21T02:11:51.604777+00:00"
     },
@@ -8966,7 +8987,7 @@
       "title": "Weightless Morning Storyboard",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-108",
+      "case_anchor": "#case-453-weightless-morning-storyboard-by-drsadek_",
       "image_dir": "images/comparison_case108",
       "added_at": "2026-06-21T02:11:51.604777+00:00"
     },
@@ -8976,7 +8997,7 @@
       "title": "Late-Night Office Flash Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-312",
+      "case_anchor": "#case-182-late-night-office-flash-portrait-by-iamaiistudio",
       "image_dir": "images/portrait_case312",
       "added_at": "2026-06-21T02:11:51.604777+00:00"
     },
@@ -8986,7 +9007,7 @@
       "title": "Red Dress Editorial Portrait",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-413",
+      "case_anchor": "#case-343-red-dress-editorial-portrait-by-meng_dagg695",
       "image_dir": "images/poster_case413",
       "added_at": "2026-06-21T02:11:51.604777+00:00"
     },
@@ -8996,7 +9017,7 @@
       "title": "Golden Halo Fashion Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-414",
+      "case_anchor": "#case-344-golden-halo-fashion-poster-by-xaroon_x",
       "image_dir": "images/poster_case414",
       "added_at": "2026-06-21T02:11:51.604777+00:00"
     },
@@ -9006,7 +9027,7 @@
       "title": "Pastel Kawaii Animal Companions",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-29",
+      "case_anchor": "#case-377-pastel-kawaii-animal-companions-by-taaruk_",
       "image_dir": "images/character_case29",
       "added_at": "2026-06-21T02:11:51.604777+00:00"
     },
@@ -9016,7 +9037,7 @@
       "title": "Ronaldo Tri-Zone Sports Poster",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-415",
+      "case_anchor": "#case-345-ronaldo-tri-zone-sports-poster-by-vireonixx",
       "image_dir": "images/poster_case415",
       "added_at": "2026-06-22T02:15:34.637395+00:00"
     },
@@ -9026,7 +9047,7 @@
       "title": "Chinese Wildlife Infographic",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-190",
+      "case_anchor": "#case-422-chinese-wildlife-infographic-by-iamaiistudio",
       "image_dir": "images/ui_case190",
       "added_at": "2026-06-22T02:15:34.637395+00:00"
     },
@@ -9036,7 +9057,7 @@
       "title": "Dreamcore Brand Kit Illustration",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-416",
+      "case_anchor": "#case-346-dreamcore-brand-kit-illustration-by-92digitalartart",
       "image_dir": "images/poster_case416",
       "added_at": "2026-06-22T02:15:34.637395+00:00"
     },
@@ -9046,7 +9067,7 @@
       "title": "LEGO Football Collectible Figure",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-30",
+      "case_anchor": "#case-378-lego-football-collectible-figure-by-chillaikalan__",
       "image_dir": "images/character_case30",
       "added_at": "2026-06-22T02:15:34.637395+00:00"
     },
@@ -9056,7 +9077,7 @@
       "title": "Whimsical Mirror Travel Journal",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-417",
+      "case_anchor": "#case-347-whimsical-mirror-travel-journal-by-taaruk_",
       "image_dir": "images/poster_case417",
       "added_at": "2026-06-22T02:15:34.637395+00:00"
     },
@@ -9066,7 +9087,7 @@
       "title": "Folk Papercraft Scene Remix",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-418",
+      "case_anchor": "#case-348-folk-papercraft-scene-remix-by-ciri_ai",
       "image_dir": "images/poster_case418",
       "added_at": "2026-06-22T02:15:34.637395+00:00"
     },
@@ -9076,7 +9097,7 @@
       "title": "Argentina Number 10 Sports Poster",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-419",
+      "case_anchor": "#case-349-argentina-number-10-sports-poster-by-iamaiistudio",
       "image_dir": "images/poster_case419",
       "added_at": "2026-06-22T02:15:34.637395+00:00"
     },
@@ -9086,7 +9107,7 @@
       "title": "Late-Night Subway CCD Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-313",
+      "case_anchor": "#case-183-late-night-subway-ccd-portrait-by-iamaiistudio",
       "image_dir": "images/portrait_case313",
       "added_at": "2026-06-22T02:15:34.637395+00:00"
     },
@@ -9096,7 +9117,7 @@
       "title": "Noir Elixir Perfume Ad",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-199",
+      "case_anchor": "#case-43-noir-elixir-perfume-ad-by-iamaiistudio",
       "image_dir": "images/ad-creative_case199",
       "added_at": "2026-06-23T11:05:42.559157+00:00"
     },
@@ -9106,7 +9127,7 @@
       "title": "Scandinavian Cookbook Recipe Spread",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-191",
+      "case_anchor": "#case-423-scandinavian-cookbook-recipe-spread-by-iamaiistudio",
       "image_dir": "images/ui_case191",
       "added_at": "2026-06-23T11:05:42.559157+00:00"
     },
@@ -9116,7 +9137,7 @@
       "title": "Modular Brand Icon System",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-192",
+      "case_anchor": "#case-424-modular-brand-icon-system-by-iamaiistudio",
       "image_dir": "images/ui_case192",
       "added_at": "2026-06-23T11:05:42.559157+00:00"
     },
@@ -9126,7 +9147,7 @@
       "title": "Fluorescent Foam Logo Hero",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-200",
+      "case_anchor": "#case-44-fluorescent-foam-logo-hero-by-iamaiistudio",
       "image_dir": "images/ad-creative_case200",
       "added_at": "2026-06-23T11:05:42.559157+00:00"
     },
@@ -9136,7 +9157,7 @@
       "title": "Glossier Brand World Collage",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-201",
+      "case_anchor": "#case-45-glossier-brand-world-collage-by-iamaiistudio",
       "image_dir": "images/ad-creative_case201",
       "added_at": "2026-06-23T11:05:42.559157+00:00"
     },
@@ -9146,7 +9167,7 @@
       "title": "Expedition Planning Command Board",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-193",
+      "case_anchor": "#case-425-expedition-planning-command-board-by-iamaiistudio",
       "image_dir": "images/ui_case193",
       "added_at": "2026-06-23T11:05:42.559157+00:00"
     },
@@ -9156,7 +9177,7 @@
       "title": "Livestream Commerce UI Mockup",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-194",
+      "case_anchor": "#case-426-livestream-commerce-ui-mockup-by-iamaiistudio",
       "image_dir": "images/ui_case194",
       "added_at": "2026-06-23T11:05:42.559157+00:00"
     },
@@ -9166,7 +9187,7 @@
       "title": "Isometric Machine Cutaway Diorama",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-420",
+      "case_anchor": "#case-350-isometric-machine-cutaway-diorama-by-iamaiistudio",
       "image_dir": "images/poster_case420",
       "added_at": "2026-06-23T11:05:42.559157+00:00"
     },
@@ -9176,7 +9197,7 @@
       "title": "Dog Bone Spacecraft Morph",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-109",
+      "case_anchor": "#case-461-dog-bone-spacecraft-morph-by-iamaiistudio",
       "image_dir": "images/comparison_case109",
       "added_at": "2026-06-23T11:05:42.559157+00:00"
     },
@@ -9186,7 +9207,7 @@
       "title": "Vintage Motion-Blur Street Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-314",
+      "case_anchor": "#case-184-vintage-motion-blur-street-portrait-by-iamaiistudio",
       "image_dir": "images/portrait_case314",
       "added_at": "2026-06-23T11:05:42.559157+00:00"
     },
@@ -9196,7 +9217,7 @@
       "title": "Top-Down Aerial Studio Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-315",
+      "case_anchor": "#case-185-top-down-aerial-studio-portrait-by-iamaiistudio",
       "image_dir": "images/portrait_case315",
       "added_at": "2026-06-24T07:26:38.068751+00:00"
     },
@@ -9206,7 +9227,7 @@
       "title": "Pencil Shaving Diorama Grid",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-110",
+      "case_anchor": "#case-462-pencil-shaving-diorama-grid-by-gdgtify",
       "image_dir": "images/comparison_case110",
       "added_at": "2026-06-24T07:26:38.068751+00:00"
     },
@@ -9216,7 +9237,7 @@
       "title": "Forced-Perspective Sneaker Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-316",
+      "case_anchor": "#case-186-forced-perspective-sneaker-portrait-by-iamaiistudio",
       "image_dir": "images/portrait_case316",
       "added_at": "2026-06-24T07:26:38.068751+00:00"
     },
@@ -9226,7 +9247,7 @@
       "title": "Cloud-Bloom Editorial Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-317",
+      "case_anchor": "#case-187-cloud-bloom-editorial-portrait-by-chillaikalan__",
       "image_dir": "images/portrait_case317",
       "added_at": "2026-06-24T07:26:38.068751+00:00"
     },
@@ -9236,7 +9257,7 @@
       "title": "Cozy Japanese Lifestyle Illustration",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-421",
+      "case_anchor": "#case-351-cozy-japanese-lifestyle-illustration-by-oggii_0",
       "image_dir": "images/poster_case421",
       "added_at": "2026-06-24T07:26:38.068751+00:00"
     },
@@ -9246,7 +9267,7 @@
       "title": "STARKIDZ Cosmic Telescope Ad",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-202",
+      "case_anchor": "#case-46-starkidz-cosmic-telescope-ad-by-strength04_x",
       "image_dir": "images/ad-creative_case202",
       "added_at": "2026-06-24T07:26:38.068751+00:00"
     },
@@ -9256,7 +9277,7 @@
       "title": "Monumental Timepiece Fashion Ad",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-203",
+      "case_anchor": "#case-47-monumental-timepiece-fashion-ad-by-iamaiistudio",
       "image_dir": "images/ad-creative_case203",
       "added_at": "2026-06-24T07:26:38.068751+00:00"
     },
@@ -9266,7 +9287,7 @@
       "title": "Fujifilm Couple Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-318",
+      "case_anchor": "#case-188-fujifilm-couple-portrait-by-iamaiistudio",
       "image_dir": "images/portrait_case318",
       "added_at": "2026-06-25T02:20:46.074058+00:00"
     },
@@ -9276,7 +9297,7 @@
       "title": "Flash Chat App Icon",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-195",
+      "case_anchor": "#case-427-flash-chat-app-icon-by-iamaiistudio",
       "image_dir": "images/ui_case195",
       "added_at": "2026-06-25T02:20:46.074058+00:00"
     },
@@ -9286,7 +9307,7 @@
       "title": "Guangzhou Silk Ribbon Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-422",
+      "case_anchor": "#case-352-guangzhou-silk-ribbon-poster-by-iamaiistudio",
       "image_dir": "images/poster_case422",
       "added_at": "2026-06-25T02:20:46.074058+00:00"
     },
@@ -9296,7 +9317,7 @@
       "title": "Lantern Hiker Studio Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-319",
+      "case_anchor": "#case-189-lantern-hiker-studio-portrait-by-iamaiistudio",
       "image_dir": "images/portrait_case319",
       "added_at": "2026-06-25T02:20:46.074058+00:00"
     },
@@ -9306,7 +9327,7 @@
       "title": "Pretzel Maker Storyboard",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-111",
+      "case_anchor": "#case-454-pretzel-maker-storyboard-by-techiebysa",
       "image_dir": "images/comparison_case111",
       "added_at": "2026-06-25T02:20:46.074058+00:00"
     },
@@ -9316,7 +9337,7 @@
       "title": "Ronaldo Topographic Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-423",
+      "case_anchor": "#case-353-ronaldo-topographic-poster-by-vireonixx",
       "image_dir": "images/poster_case423",
       "added_at": "2026-06-25T02:20:46.074058+00:00"
     },
@@ -9326,7 +9347,7 @@
       "title": "Bird Nest Chair Concept Board",
       "category": "Comparison & Community Examples",
       "readme_file": "README.md",
-      "case_anchor": "case-112",
+      "case_anchor": "#case-455-bird-nest-chair-concept-board-by-iamaiistudio",
       "image_dir": "images/comparison_case112",
       "added_at": "2026-06-25T02:20:46.074058+00:00"
     },
@@ -9336,7 +9357,7 @@
       "title": "Ufa Travel Sticker Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-424",
+      "case_anchor": "#case-354-ufa-travel-sticker-poster-by-sairah_0",
       "image_dir": "images/poster_case424",
       "added_at": "2026-06-25T02:20:46.074058+00:00"
     },
@@ -9346,7 +9367,7 @@
       "title": "Infinite Love Concert Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-425",
+      "case_anchor": "#case-355-infinite-love-concert-poster-by-iamaiistudio",
       "image_dir": "images/poster_case425",
       "added_at": "2026-06-25T02:20:46.074058+00:00"
     },
@@ -9356,7 +9377,7 @@
       "title": "Nine-Frame Product Campaign",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-196",
+      "case_anchor": "#case-428-nine-frame-product-campaign-by-iamaiistudio",
       "image_dir": "images/ui_case196",
       "added_at": "2026-06-25T02:20:46.074058+00:00"
     },
@@ -9366,7 +9387,7 @@
       "title": "3D Music Player Icon Set",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-197-3d-music-player-icon-set",
+      "case_anchor": "#case-380-3d-music-player-icon-set-by-iamaiistudio",
       "image_dir": "images/ui_case197",
       "added_at": "2026-06-28T08:56:04.609769+00:00"
     },
@@ -9376,7 +9397,7 @@
       "title": "Cozy Lifestyle Sticker Grid",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-31-cozy-lifestyle-sticker-grid",
+      "case_anchor": "#case-360-cozy-lifestyle-sticker-grid-by-ruzainameer",
       "image_dir": "images/character_case31",
       "added_at": "2026-06-28T08:56:04.609914+00:00"
     },
@@ -9386,7 +9407,7 @@
       "title": "Moon Whisper Graphite Portrait",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-426-moon-whisper-graphite-portrait",
+      "case_anchor": "#case-190-moon-whisper-graphite-portrait-by-aiwithlariab",
       "image_dir": "images/poster_case426",
       "added_at": "2026-06-28T08:56:04.609929+00:00"
     },
@@ -9396,7 +9417,7 @@
       "title": "1990s Anime Rebel Portrait",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-32-1990s-anime-rebel-portrait",
+      "case_anchor": "#case-361-1990s-anime-rebel-portrait-by-oggii_0",
       "image_dir": "images/character_case32",
       "added_at": "2026-06-28T08:56:04.609939+00:00"
     },
@@ -9406,7 +9427,7 @@
       "title": "Graffiti Breakthrough Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-427-graffiti-breakthrough-poster",
+      "case_anchor": "#case-191-graffiti-breakthrough-poster-by-sheldon056",
       "image_dir": "images/poster_case427",
       "added_at": "2026-06-28T08:56:04.609966+00:00"
     },
@@ -9416,7 +9437,7 @@
       "title": "Neon Shadow Muse",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-428-neon-shadow-muse",
+      "case_anchor": "#case-192-neon-shadow-muse-by-iamrealsnow",
       "image_dir": "images/poster_case428",
       "added_at": "2026-06-28T08:56:04.609981+00:00"
     },
@@ -9426,7 +9447,7 @@
       "title": "Tea Estate Storybook Collage",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-429-tea-estate-storybook-collage",
+      "case_anchor": "#case-193-tea-estate-storybook-collage-by-sairah_0",
       "image_dir": "images/poster_case429",
       "added_at": "2026-06-28T08:56:04.609998+00:00"
     },
@@ -9436,7 +9457,7 @@
       "title": "Monochrome Studio Portrait Grid",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-320-monochrome-studio-portrait-grid",
+      "case_anchor": "#case-50-monochrome-studio-portrait-grid-by-harboriis",
       "image_dir": "images/portrait_case320",
       "added_at": "2026-06-28T08:56:04.610018+00:00"
     },
@@ -9446,7 +9467,7 @@
       "title": "Coastal Daydream Film Portrait",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-321-coastal-daydream-film-portrait",
+      "case_anchor": "#case-51-coastal-daydream-film-portrait-by-mehvishs25",
       "image_dir": "images/portrait_case321",
       "added_at": "2026-06-28T08:56:04.610045+00:00"
     },
@@ -9456,7 +9477,7 @@
       "title": "World Cup Bobblehead Figure",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-33-world-cup-bobblehead-figure",
+      "case_anchor": "#case-362-world-cup-bobblehead-figure-by-saasjunctionhq",
       "image_dir": "images/character_case33",
       "added_at": "2026-06-28T08:56:04.610069+00:00"
     },
@@ -9466,7 +9487,7 @@
       "title": "Doodle Escape Studio Sprint",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-204",
+      "case_anchor": "#case-48-doodle-escape-studio-sprint-by-john_my07",
       "image_dir": "images/ad-creative_case204",
       "added_at": "2026-06-30T02:14:09.549804+00:00"
     },
@@ -9476,7 +9497,7 @@
       "title": "Metro CCTV Thriller Frame",
       "category": "Ad Creative Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-205",
+      "case_anchor": "#case-49-metro-cctv-thriller-frame-by-frametheory058",
       "image_dir": "images/ad-creative_case205",
       "added_at": "2026-06-30T02:14:09.549804+00:00"
     },
@@ -9486,7 +9507,7 @@
       "title": "Diamond Grillz Caricature Figure",
       "category": "Character Design Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-34",
+      "case_anchor": "#case-379-diamond-grillz-caricature-figure-by-iamaiistudio",
       "image_dir": "images/character_case34",
       "added_at": "2026-06-30T02:14:09.549804+00:00"
     },
@@ -9496,7 +9517,7 @@
       "title": "VOLT Rush Citrus Burst",
       "category": "E-commerce Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-177",
+      "case_anchor": "#case-429-volt-rush-citrus-burst-by-iamaiistudio",
       "image_dir": "images/ecommerce_case177",
       "added_at": "2026-06-30T02:14:09.549804+00:00"
     },
@@ -9506,7 +9527,7 @@
       "title": "Moody GQ Beach Cover",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-322",
+      "case_anchor": "#case-356-moody-gq-beach-cover-by-iamaiistudio",
       "image_dir": "images/portrait_case322",
       "added_at": "2026-06-30T02:14:09.549804+00:00"
     },
@@ -9516,7 +9537,7 @@
       "title": "Chrome Visor Side Profile",
       "category": "Portrait & Photography Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-323",
+      "case_anchor": "#case-357-chrome-visor-side-profile-by-iamaiistudio",
       "image_dir": "images/portrait_case323",
       "added_at": "2026-06-30T02:14:09.549804+00:00"
     },
@@ -9526,7 +9547,7 @@
       "title": "Watercolor Summer City Romance",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-430",
+      "case_anchor": "#case-358-watercolor-summer-city-romance-by-goodmanprotocol",
       "image_dir": "images/poster_case430",
       "added_at": "2026-06-30T02:14:09.549804+00:00"
     },
@@ -9536,7 +9557,7 @@
       "title": "CMYK Ronaldo Collector Poster",
       "category": "Poster & Illustration Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-431",
+      "case_anchor": "#case-359-cmyk-ronaldo-collector-poster-by-vireonixx",
       "image_dir": "images/poster_case431",
       "added_at": "2026-06-30T02:14:09.549804+00:00"
     },
@@ -9546,7 +9567,7 @@
       "title": "Y2K Harajuku Brand Badge",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-198",
+      "case_anchor": "#case-430-y2k-harajuku-brand-badge-by-iamaiistudio",
       "image_dir": "images/ui_case198",
       "added_at": "2026-06-30T02:14:09.549804+00:00"
     },
@@ -9556,7 +9577,7 @@
       "title": "Nostalgic Memory Grid Layout",
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
-      "case_anchor": "case-199",
+      "case_anchor": "#case-431-nostalgic-memory-grid-layout-by-iamaiistudio",
       "image_dir": "images/ui_case199",
       "added_at": "2026-06-30T02:14:09.549804+00:00"
     }

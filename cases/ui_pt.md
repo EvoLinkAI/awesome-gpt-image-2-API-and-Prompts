@@ -2,7 +2,8 @@
 
 > Part of [awesome-gpt-image-2-prompts](../README_pt.md)
 
-### Case 1: [One-Prompt UI Design Generation](https://x.com/austinit/status/2044968740782272596) (by [@austinit](https://x.com/austinit))
+<!-- Case 381: One-Prompt UI Design Generation (by @austinit) -->
+### Case 381: [One-Prompt UI Design Generation](https://x.com/austinit/status/2044968740782272596) (by [@austinit](https://x.com/austinit))
 
 | Resultado |
 | :----: |
@@ -217,7 +218,8 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊!
 ```
 
-### Case 38: [Cyberpunk Neon UI Design System](https://x.com/AZLnfvp/status/2046468976092533180) (by [@AZLnfvp](https://x.com/AZLnfvp))
+<!-- Case 382: Cyberpunk Neon UI Design System (by @AZLnfvp) -->
+### Case 382: [Cyberpunk Neon UI Design System](https://x.com/AZLnfvp/status/2046468976092533180) (by [@AZLnfvp](https://x.com/AZLnfvp))
 
 | Resultado |
 | :----: |
@@ -1162,9 +1164,9 @@ A screenshot from a live Wimbledon TV broadcast during a packed Centre Court mat
 
 ---
 
-<!-- Case 143: Handwritten Study Infographic Poster (by @YaZoraiz) -->
+<!-- Case 384: Handwritten Study Infographic Poster (by @YaZoraiz) -->
 
-### Case 143: [Handwritten Study Infographic Poster](https://x.com/YaZoraiz/status/2054264025178079718) (by [@YaZoraiz](https://x.com/YaZoraiz))
+### Case 384: [Handwritten Study Infographic Poster](https://x.com/YaZoraiz/status/2054264025178079718) (by [@YaZoraiz](https://x.com/YaZoraiz))
 
 | Output |
 | :----: |
@@ -1183,9 +1185,9 @@ The composition feels cozy, aesthetic, and highly organized—like a Pinterest v
 Ultra-detailed, 4K resolution, top-down flat lay perspective, modern stationery aesthetic, soft depth of field, realistic paper texture, high-end digital illustration style.
 ```
 
-<!-- Case 144: Brand Identity Moodboard System (by @SaasJunctionHQ) -->
+<!-- Case 385: Brand Identity Moodboard System (by @SaasJunctionHQ) -->
 
-### Case 144: [Brand Identity Moodboard System](https://x.com/SaasJunctionHQ/status/2054666436698845299) (by [@SaasJunctionHQ](https://x.com/SaasJunctionHQ))
+### Case 385: [Brand Identity Moodboard System](https://x.com/SaasJunctionHQ/status/2054666436698845299) (by [@SaasJunctionHQ](https://x.com/SaasJunctionHQ))
 
 | Output |
 | :----: |
@@ -1197,9 +1199,9 @@ Ultra-detailed, 4K resolution, top-down flat lay perspective, modern stationery 
 Full-blown brand identity system [BRAND NAME] — Brand Identity Moodboard STEP 1 — DECODE THE BRAND Extract from real brand guidelines only: - Colors: full official palette (primary, secondary, neutrals, accents) — exact, no approximations - Type: weight, width, tracking, capitalization character — applied identically across all cards - Copy: real slogans, campaigns, product names, manifesto phrases — zero invented text - World: the domain (sport / tech / fashion / music / etc.) — all imagery stays inside it STEP 2 — OUTPUT Single 16:9 flat image. Black (#000–#0A0A0A) background. 8 cards in an asymmetric 3-column grid. Uniform 8–12px gaps. Rounded corners 8–12px. Every card uses only Step 1 colors, type, and copy. CARDS — in order: 1. LOGO LOCKUP (wide, top-left) — brand color BG, official logo/wordmark, oversized cropped logo mark as structural graphic. No photo. 2. EDITORIAL PHOTO (mid-left) — dark photo from brand world, manifesto headline in brand type over image, wordmark small at bottom. 3. CAMPAIGN BANNER (wide, bottom-left) — flat accent color BG, real event/campaign headline bold-condensed left side, action photo cropped into right side. 4. STORY FORMAT (tall, center full-height) — full-bleed photo, oversized display type partially cropped by edges, date/location detail top. Mobile story proportions. 5. TYPOGRAPHIC POSTER (upper center-right) — vivid accent BG, campaign headline with one letter replaced by a real brand-world object, edition tag below. 6. COLOR PALETTE (center-right) — vertical equal stripes, one per brand color, color name labeled bottom each stripe. No photo. Zero decoration. 7. PRODUCT MOCKUP (upper right) — studio photo of real brand product or branded device/interface, neutral BG, accurate logo/color/type placement. 8. TYPE PATTERN (lower right) — brand name/slogan repeated as all-over pattern at varied sizes/angles, editorial photo overlaid and color-treated to integrate. RULE: A person who knows this brand must immediately confirm every card belongs to it. Output quality: Behance brand identity case study / agency pitch deck.
 ```
 
-<!-- Case 145: Landscape Architecture Board (by @iamaiistudio) -->
+<!-- Case 386: Landscape Architecture Board (by @iamaiistudio) -->
 
-### Case 145: [Landscape Architecture Board](https://x.com/iamaiistudio/status/2054654236705845670) (by [@iamaiistudio](https://x.com/iamaiistudio))
+### Case 386: [Landscape Architecture Board](https://x.com/iamaiistudio/status/2054654236705845670) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -1211,9 +1213,9 @@ Full-blown brand identity system [BRAND NAME] — Brand Identity Moodboard STEP 
 Generate a 3:4 vertical, competition-grade landscape architecture presentation board. The board blends photorealistic aerial rendering with refined architectural diagram language, in the style of a high-end international landscape competition submission. Mood: calm, atmospheric, regenerative, ecological, scientific yet poetic. Layout (three stacked zones): 1. Top zone: analytical ecological diagrams and mapping overlays. 2. Middle zone: a large aerial landscape rendering as the primary focal image. 3. Bottom zone: a continuous sectional cut through the ecological landscape system. Top analytical zone: • Simplified ecological maps with soft, transparent color overlays. • Ultra-thin linework in white and pale gray. • Diagrams of water flow, circulation systems, ecological networks, habitat zones, and landscape connectivity. • Dashed lines for movement and flow. • Minimal annotations and soft ecological icons. • Floating overlay effect sitting above the rendering. • Very light pastel tones, high transparency, clean spacing, no dense clutter. Middle aerial rendering: • Bird's-eye view of an ecological restoration landscape. • Wetlands, ponds, flowing water systems, vegetation patches, bioswales, regenerative terrain. • Soft, slightly desaturated palette of greens, browns, and muted water blues. • Atmospheric depth with subtle haze in the distance. • Gentle human and ecological activity: walking paths, birds, small environmental interactions. • Wide landscape depth, smooth terrain transitions, calm cinematic environmental lighting. • Soft paper-texture finish integrated into the rendering. Bottom sectional cut: • Continuous section through terrain and ecological systems. • Soil layers, hydrology, groundwater movement, vegetation roots, ecological restoration processes, water filtration systems. • Thin white or pale linework, muted tones, minimal color. • Arrows indicating water movement and ecological flow. • Elegant architectural drafting quality, seamlessly merged into the board. Diagram language: extremely thin and precise linework, slightly softened edges (no harsh vector look), minimal labels, clean scientific notation, soft ecological symbols, balanced between scientific clarity and poetic visualization. Color system: • Base: desaturated greens, earthy browns, muted blue water tones. • Overlay: pale green, soft cyan, light beige, translucent pastel layers. • Avoid saturated accents, harsh contrast, bright reds, or overly graphic colors. Texture and atmosphere: soft atmospheric rendering, slight environmental haze, diffused lighting, subtle paper-grain or printed board texture, refined competition-board aesthetic. Format: 3:4 vertical architectural competition board composition. #AIart #GPTImage2
 ```
 
-<!-- Case 146: Graphic Design Portfolio Mockup (by @abs_uiux) -->
+<!-- Case 387: Graphic Design Portfolio Mockup (by @abs_uiux) -->
 
-### Case 146: [Graphic Design Portfolio Mockup](https://x.com/abs_uiux/status/2054594512983310572) (by [@abs_uiux](https://x.com/abs_uiux))
+### Case 387: [Graphic Design Portfolio Mockup](https://x.com/abs_uiux/status/2054594512983310572) (by [@abs_uiux](https://x.com/abs_uiux))
 
 | Output |
 | :----: |
@@ -1225,9 +1227,9 @@ Generate a 3:4 vertical, competition-grade landscape architecture presentation b
 Create a premium graphic design portfolio mockup in a professional creative studio style. Show a clean, elegant workspace presentation featuring multiple graphic design project cards arranged in a refined grid layout, a modern laptop screen displaying a portfolio homepage, and several printed posters laid out neatly on the desk and mounted on the wall. Use a polished creative-director aesthetic with soft shadows, subtle depth, realistic materials, and a high-end studio atmosphere. Include sleek typography placeholders, branding samples, editorial-style poster designs, business cards, stationery, notebook, pen, coffee cup, desk lamp, and small plant for a realistic studio setup. The design should have a clean grid layout, balanced spacing, soft realistic shadows, premium lighting, and neutral luxury tones such as black, white, warm beige, gray, champagne, and cream. Make the laptop screen show a minimal portfolio interface with project thumbnails, navigation menu, and bold hero text. Add multiple portfolio project cards such as logo design, brand identity, poster design, packaging design, social media design, UI/UX design, and advertising campaign mockups. Arrange everything professionally with a modern minimalist style, sharp details, clean typography, elegant composition, and a premium creative agency presentation look. Style: high-end graphic design portfolio, modern creative studio, luxury branding mockup, clean desk setup, realistic shadows, editorial layout, minimalist premium design, professional presentation, 4K, ultra-detailed.
 ```
 
-<!-- Case 147: Neo-Noir Character Design Board (by @Mind_Boticni) -->
+<!-- Case 388: Neo-Noir Character Design Board (by @Mind_Boticni) -->
 
-### Case 147: [Neo-Noir Character Design Board](https://x.com/Mind_Boticni/status/2054542152781431075) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
+### Case 388: [Neo-Noir Character Design Board](https://x.com/Mind_Boticni/status/2054542152781431075) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
 
 | Output |
 | :----: |
@@ -1239,8 +1241,8 @@ Create a premium graphic design portfolio mockup in a professional creative stud
 Create a cinematic realistic character design board for a high-budget neo-noir film production set in a rain-soaked futuristic city. Use a dark charcoal and electric cyan color palette with neon reflections in the background. Avoid generic grids or symmetrical layouts; composition should feel like a stylized director’s pitch board. Design a grounded human character with realistic anatomy, subtle imperfections, and strong emotional presence. Include full-body turnarounds, expressive head angles, cinematic portrait, wardrobe breakdown, fabric texture detail, and production notes. Background: blurred cyberpunk city lights, wet glass reflections, moody atmosphere, soft neon glow. Style: semi-realistic cinematic realism, high contrast lighting, shallow depth of field, film grain, emotional intensity.
 ```
 
-<!-- Case 148: Heliotropic Architecture Board (by @Gdgtify) -->
-### Case 148: [Heliotropic Architecture Board](https://x.com/Gdgtify/status/2055773537257034007) (by [@Gdgtify](https://x.com/Gdgtify))
+<!-- Case 389: Heliotropic Architecture Board (by @Gdgtify) -->
+### Case 389: [Heliotropic Architecture Board](https://x.com/Gdgtify/status/2055773537257034007) (by [@Gdgtify](https://x.com/Gdgtify))
 
 | Output |
 | :----: |
@@ -1252,8 +1254,8 @@ Create a cinematic realistic character design board for a high-budget neo-noir f
 16:9 autonomous kinetic architecture, the heliotropic tracking mechanics of [aerospace/solar tracking array] shaping an adaptive, luxury [outdoor architectural structure], sequence from [astronomical/solar path diagrams] to [robotic kinematic wireframes] to a programmable louvre abstraction to the final architectural installation, ai to infer smart-motor integration and weather-responsive materials utilizing [material 1] and [material 2], featuring time-lapse shadow projection diagrams, [aesthetic style] aesthetic, presentation layout: solar path charts at the top, robotic hinge details in the margins, stunning photorealistic architectural render below, [lighting style].  input: [deep space network satellite dish array], [smart kinetic patio pergola], [equatorial solar trajectory mapping], [multi-axis pivoting joint schematics], [photovoltaic-coated tinted glass], [extruded matte bronze aluminum], [contemporary silicon valley billionaire estate], [golden hour sunlight casting intricate geometric shadows]
 ```
 
-<!-- Case 149: Brand Identity Guideline Board (by @Shorelyn_) -->
-### Case 149: [Brand Identity Guideline Board](https://x.com/Shorelyn_/status/2055681687284293991) (by [@Shorelyn_](https://x.com/Shorelyn_))
+<!-- Case 390: Brand Identity Guideline Board (by @Shorelyn_) -->
+### Case 390: [Brand Identity Guideline Board](https://x.com/Shorelyn_/status/2055681687284293991) (by [@Shorelyn_](https://x.com/Shorelyn_))
 
 | Output |
 | :----: |
@@ -1741,7 +1743,8 @@ Design rules:
 ```
 
 
-### Case 158: [Die-Cut Sticker Illustration](https://x.com/Ciri_ai/status/2056616223547548106) (by [@Ciri_ai](https://x.com/Ciri_ai))
+<!-- Case 391: Die-Cut Sticker Illustration (by @Ciri_ai) -->
+### Case 391: [Die-Cut Sticker Illustration](https://x.com/Ciri_ai/status/2056616223547548106) (by [@Ciri_ai](https://x.com/Ciri_ai))
 
 | Output |
 | :----: |
@@ -1753,7 +1756,8 @@ Design rules:
 Transform the uploaded image into a premium die-cut sticker illustration while keeping the main subject fully recognizable. Remove or simplify the original background and cleanly isolate the primary subject. Add a thick soft cream or beige sticker border around the entire silhouette with a subtle realistic drop shadow to create a floating sticker effect. Preserve important textures and details while slightly stylizing the image with enhanced colors, cinematic contrast, and a polished editorial l
 ```
 
-### Case 159: [Rider-Waite Tarot Card](https://x.com/itsphotogptai/status/2056400494709690591) (by [@itsphotogptai](https://x.com/itsphotogptai))
+<!-- Case 392: Rider-Waite Tarot Card (by @itsphotogptai) -->
+### Case 392: [Rider-Waite Tarot Card](https://x.com/itsphotogptai/status/2056400494709690591) (by [@itsphotogptai](https://x.com/itsphotogptai))
 
 | Output |
 | :----: |
@@ -1764,7 +1768,8 @@ Transform the uploaded image into a premium die-cut sticker illustration while k
 ```
 Create a Tarot card based on what you know about me, in the classic style of Rider-Waite. Portray me as a drawn figure with an expressive, but slightly uneven black line of ink, with vivid fluctuations and variations in the stroke, with flat colors without shading. Add delicate visual elements of the Tarot around the figure. convey the texture of the paper and the feeling of a printed impression.
 ```
-### Case 161: [Sitcom Intro Storyboard Sheet](https://x.com/KimAkiyama81/status/2059390326578511931) (by [@KimAkiyama81](https://x.com/KimAkiyama81))
+<!-- Case 393: Sitcom Intro Storyboard Sheet (by @KimAkiyama81) -->
+### Case 393: [Sitcom Intro Storyboard Sheet](https://x.com/KimAkiyama81/status/2059390326578511931) (by [@KimAkiyama81](https://x.com/KimAkiyama81))
 
 | Output |
 | :----: |
@@ -1777,7 +1782,8 @@ Create a professional film production storyboard for a 15-second sitcom intro mo
 ```
 
 ---
-### Case 162: Brand Identity Guideline Board
+<!-- Case 394: Brand Identity Guideline Board (by @Ciri_ai) -->
+### Case 394: [Brand Identity Guideline Board](https://x.com/Ciri_ai/status/2060938931588472932) (by [@Ciri_ai](https://x.com/Ciri_ai))
 
 **Source**: [@Ciri_ai](https://x.com/Ciri_ai/status/2060938931588472932)
 
@@ -1798,7 +1804,8 @@ variations ---  TYPOGRAPHY SYSTEM (MATCH PERSONALITY) Select typography style ba
 ---
 
 ---
-### Case 163: Collectible Science Encyclopedia Card
+<!-- Case 395: Collectible Science Encyclopedia Card (by @iamaiistudio) -->
+### Case 395: [Collectible Science Encyclopedia Card](https://x.com/iamaiistudio/status/2061509471810302050) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2061509471810302050)
 
@@ -1820,7 +1827,8 @@ Use a light clean background, soft coordinated colors, subtle shadows, refined s
 ---
 
 ---
-### Case 164: Pet World Cup Storyboard Sheet
+<!-- Case 396: Pet World Cup Storyboard Sheet (by @CamikaApp) -->
+### Case 396: [Pet World Cup Storyboard Sheet](https://x.com/CamikaApp/status/2062355101877231959) (by [@CamikaApp](https://x.com/CamikaApp))
 
 **Source**: [@CamikaApp](https://x.com/CamikaApp/status/2062355101877231959)
 
@@ -1871,7 +1879,8 @@ No real soccer team logos, no FIFA/Champions League/UEFA/World Cup branding, no 
 <img src="../images/ui_case164/output.jpg" width="500">
 
 ---
-### Case 165: Cinematic Contact Sheet Generator
+<!-- Case 397: Cinematic Contact Sheet Generator (by @KingNyalTut) -->
+### Case 397: [Cinematic Contact Sheet Generator](https://x.com/KingNyalTut/status/2062330612279611656) (by [@KingNyalTut](https://x.com/KingNyalTut))
 
 **Source**: [@KingNyalTut](https://x.com/KingNyalTut/status/2062330612279611656)
 
@@ -1912,7 +1921,8 @@ A wide cinematic exterior of the Whitmore estate at dusk in Buckhead, Atlanta. T
 <img src="../images/ui_case165/output.jpg" width="500">
 
 ---
-### Case 166: Technical Food Annotation Infographic
+<!-- Case 398: Technical Food Annotation Infographic (by @iamaiistudio) -->
+### Case 398: [Technical Food Annotation Infographic](https://x.com/iamaiistudio/status/2062264967722934629) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062264967722934629)
 
@@ -1926,7 +1936,8 @@ Generate an infographic image of any food item, combining a realistic photograph
 <img src="../images/ui_case166/output.jpg" width="500">
 
 ---
-### Case 167: Bazaar Heist Storyboard Card
+<!-- Case 399: Bazaar Heist Storyboard Card (by @aimikoda) -->
+### Case 399: [Bazaar Heist Storyboard Card](https://x.com/aimikoda/status/2062223135454249178) (by [@aimikoda](https://x.com/aimikoda))
 
 **Source**: [@aimikoda](https://x.com/aimikoda/status/2062223135454249178)
 
@@ -2000,7 +2011,8 @@ Grid: 12 panels in a 4x3 storyboard sheet; fast-cut caper montage with a shared 
 <img src="../images/ui_case167/output.jpg" width="500">
 
 ---
-### Case 168: Luxury Starter Pack Vision Board
+<!-- Case 400: Luxury Starter Pack Vision Board (by @mehvishs25) -->
+### Case 400: [Luxury Starter Pack Vision Board](https://x.com/mehvishs25/status/2062355934589108655) (by [@mehvishs25](https://x.com/mehvishs25))
 
 **Source**: [@mehvishs25](https://x.com/mehvishs25/status/2062355934589108655)
 
@@ -2053,7 +2065,8 @@ Quality: hyper-detailed, ultra-realistic materials, photorealistic objects, cine
 <img src="../images/ui_case168/output.jpg" width="500">
 
 ---
-### Case 169: Embossed Metal Logo Bas-Relief
+<!-- Case 401: Embossed Metal Logo Bas-Relief (by @iamaiistudio) -->
+### Case 401: [Embossed Metal Logo Bas-Relief](https://x.com/iamaiistudio/status/2063065673740497022) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063065673740497022)
 
@@ -2079,7 +2092,8 @@ Render: Ray tracing enabled for self-shadowing. Full sharpness edge to edge. Uni
 <img src="../images/ui_case169/output.jpg" width="500">
 
 ---
-### Case 170: Sculptural Fruit Packaging Design
+<!-- Case 402: Sculptural Fruit Packaging Design (by @iamaiistudio) -->
+### Case 402: [Sculptural Fruit Packaging Design](https://x.com/iamaiistudio/status/2062959343658754160) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062959343658754160)
 
@@ -2099,7 +2113,8 @@ Soft diffused studio lighting, gentle drop shadows, set against a solid pastel [
 <img src="../images/ui_case170/output.jpg" width="500">
 
 ---
-### Case 171: Luxury Perfume Infographic Ad
+<!-- Case 403: Luxury Perfume Infographic Ad (by @iamrealsnow) -->
+### Case 403: [Luxury Perfume Infographic Ad](https://x.com/iamrealsnow/status/2062888729023557979) (by [@iamrealsnow](https://x.com/iamrealsnow))
 
 **Source**: [@iamrealsnow](https://x.com/iamrealsnow/status/2062888729023557979)
 
@@ -2126,7 +2141,8 @@ Style references: Chanel, Dior, Tom Ford, Maison Francis Kurkdjian, luxury fashi
 <img src="../images/ui_case171/output.jpg" width="500">
 
 ---
-### Case 172: AAA Game Loading Screen Portrait
+<!-- Case 404: AAA Game Loading Screen Portrait (by @yulikay) -->
+### Case 404: [AAA Game Loading Screen Portrait](https://x.com/yulikay/status/2062850006537953367) (by [@yulikay](https://x.com/yulikay))
 
 **Source**: [@yulikay](https://x.com/yulikay/status/2062850006537953367)
 
@@ -2200,7 +2216,8 @@ Output
 <img src="../images/ui_case172/output.jpg" width="500">
 
 ---
-### Case 173: Energy Drink Storyboard Grid
+<!-- Case 405: Energy Drink Storyboard Grid (by @Strength04_X) -->
+### Case 405: [Energy Drink Storyboard Grid](https://x.com/Strength04_X/status/2063256718902219255) (by [@Strength04_X](https://x.com/Strength04_X))
 
 **Source**: [@Strength04_X](https://x.com/Strength04_X/status/2063256718902219255)
 
@@ -2217,7 +2234,8 @@ KLING AI 3.0 PROMPT :- This is a storyboard image containing 6 frames arranged i
 ```
 
 ---
-### Case 174: Anime Short Film Dev Board
+<!-- Case 406: Anime Short Film Dev Board (by @HeyAbhishek) -->
+### Case 406: [Anime Short Film Dev Board](https://x.com/HeyAbhishek/status/2063271070426435756) (by [@HeyAbhishek](https://x.com/HeyAbhishek))
 
 **Source**: [@HeyAbhishek](https://x.com/HeyAbhishek/status/2063271070426435756)
 
@@ -2269,7 +2287,8 @@ Make this a clean, highly polished, premium-quality anime pre-production board w
 ```
 
 ---
-### Case 175: Editorial Anatomy Infographic Poster
+<!-- Case 407: Editorial Anatomy Infographic Poster (by @iamaiistudio) -->
+### Case 407: [Editorial Anatomy Infographic Poster](https://x.com/iamaiistudio/status/2063202176344932732) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063202176344932732)
 
@@ -2329,7 +2348,8 @@ High-detail 3D illustration of the human liver, showing the Right Lobe, Left Lob
 ```
 
 ---
-### Case 176: Graphite Coffee-Shop Storyboard
+<!-- Case 408: Graphite Coffee-Shop Storyboard (by @insmind_com) -->
+### Case 408: [Graphite Coffee-Shop Storyboard](https://x.com/insmind_com/status/2063252153612017766) (by [@insmind_com](https://x.com/insmind_com))
 
 **Source**: [@insmind_com](https://x.com/insmind_com/status/2063252153612017766)
 
@@ -2350,7 +2370,8 @@ Use rough pencil lines, grayscale shading, sketch texture, cinematic storyboard 
 ```
 
 ---
-### Case 177: Venice Travel Vlogger Collage
+<!-- Case 409: Venice Travel Vlogger Collage (by @ZaraIrahh) -->
+### Case 409: [Venice Travel Vlogger Collage](https://x.com/ZaraIrahh/status/2063432414945591594) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
 
 **Source**: [@ZaraIrahh](https://x.com/ZaraIrahh/status/2063432414945591594)
 
@@ -2369,7 +2390,8 @@ Style: ultra-realistic travel vlog collage, Venice street photography, handheld 
 ```
 
 ---
-### Case 178: Modern Recipe Infographic Board
+<!-- Case 410: Modern Recipe Infographic Board (by @iamaiistudio) -->
+### Case 410: [Modern Recipe Infographic Board](https://x.com/iamaiistudio/status/2063724080717783194) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063724080717783194)
 
@@ -2386,7 +2408,8 @@ Full prompt:
 ```
 
 ---
-### Case 179: INNER SIGNAL Brand Poster Series
+<!-- Case 411: INNER SIGNAL Brand Poster Series (by @bmx_ai13) -->
+### Case 411: [INNER SIGNAL Brand Poster Series](https://x.com/bmx_ai13/status/2063726489905123489) (by [@bmx_ai13](https://x.com/bmx_ai13))
 
 **Source**: [@bmx_ai13](https://x.com/bmx_ai13/status/2063726489905123489)
 
@@ -2465,7 +2488,8 @@ Full prompt:
 ```
 
 ---
-### Case 180: Industrial Packaging Design Sheet
+<!-- Case 412: Industrial Packaging Design Sheet (by @iamaiistudio) -->
+### Case 412: [Industrial Packaging Design Sheet](https://x.com/iamaiistudio/status/2063735848257167383) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063735848257167383)
 
@@ -2490,7 +2514,8 @@ Background should resemble clean sketchbook paper, combining realistic rendering
 ```
 
 ---
-### Case 181: Chrome Logo Editorial System
+<!-- Case 413: Chrome Logo Editorial System (by @iamaiistudio) -->
+### Case 413: [Chrome Logo Editorial System](https://x.com/iamaiistudio/status/2063644125510217787) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063644125510217787)
 
@@ -2527,7 +2552,8 @@ Octane Render aesthetic. Ray Tracing: 16+ bounces. Depth of Field: f/11 equivale
 ```
 
 ---
-### Case 182: Skincare UGC Storyboard Board
+<!-- Case 414: Skincare UGC Storyboard Board (by @WanderingC76) -->
+### Case 414: [Skincare UGC Storyboard Board](https://x.com/WanderingC76/status/2063797516731294055) (by [@WanderingC76](https://x.com/WanderingC76))
 
 **Source**: [@WanderingC76](https://x.com/WanderingC76/status/2063797516731294055)
 
@@ -2572,7 +2598,8 @@ watermark, logo, low quality, blurry, bad anatomy, distorted hands, cluttered la
 ```
 
 ---
-### Case 183: Página de portfólio estilo internet antiga
+<!-- Case 415: Página de portfólio estilo internet antiga (by @Kashberg_0) -->
+### Case 415: [Página de portfólio estilo internet antiga](https://x.com/Kashberg_0/status/2065992579502747850) (by [@Kashberg_0](https://x.com/Kashberg_0))
 
 **Source**: [@Kashberg_0](https://x.com/Kashberg_0/status/2065992579502747850)
 
@@ -2620,8 +2647,8 @@ Scatter handwritten marker-style notes, introductions, personal thoughts, and li
 Maintain an anti-grid editorial layout with intentionally imperfect spacing and playful placement. Mix tiny system fonts, handwritten script, and casual notebook-style annotations. Keep the portrait entirely monochrome while reserving color only for the logo, navigation stickers, and a few small graphic accents.
 ```
 
-<!-- Case 184: Transformação de Foto em Lápis de Cor (by @AIwithSynthia) -->
-### Case 184: [Transformação de Foto em Lápis de Cor](https://x.com/AIwithSynthia/status/2066154697828782245) (by [@AIwithSynthia](https://x.com/AIwithSynthia))
+<!-- Case 416: Transformação de Foto em Lápis de Cor (by @AIwithSynthia) -->
+### Case 416: [Transformação de Foto em Lápis de Cor](https://x.com/AIwithSynthia/status/2066154697828782245) (by [@AIwithSynthia](https://x.com/AIwithSynthia))
 
 | Output |
 | :----: |
@@ -2639,8 +2666,8 @@ In the bottom-right corner, include a rounded-rectangle inset containing the ori
 Highly detailed, colored pencil illustration, crayon art style, hand-sketched textures, vibrant yet soft pastel palette, Instagram-style layout, whimsical doodles, premium artwork, realistic reference inset, masterpiece, ultra-detailed, 4K.
 ```
 
-<!-- Case 185: Mascot Brand Identity Sheet (by @iamaiistudio) -->
-### Case 185: [Folha de Identidade de Marca com Mascote](https://x.com/iamaiistudio/status/2066568983453880412) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 417: Mascot Brand Identity Sheet (by @iamaiistudio) -->
+### Case 417: [Folha de Identidade de Marca com Mascote](https://x.com/iamaiistudio/status/2066568983453880412) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Resultado |
 | :----: |
@@ -2737,8 +2764,8 @@ Highly detailed, colored pencil illustration, crayon art style, hand-sketched te
 }
 ```
 
-<!-- Case 186: Architectural Product Catalog Page (by @iamaiistudio) -->
-### Case 186: [Página de Catálogo de Produto Arquitetônico](https://x.com/iamaiistudio/status/2066447564132745574) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 418: Architectural Product Catalog Page (by @iamaiistudio) -->
+### Case 418: [Página de Catálogo de Produto Arquitetônico](https://x.com/iamaiistudio/status/2066447564132745574) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Resultado |
 | :----: |
@@ -2759,8 +2786,8 @@ Typography: minimal editorial style, subtle captions only, no large headlines, s
 
 Overall mood: design catalog / product design journal — architectural, premium, calm. No clutter, no bold colors, no heavy branding, no decorative graphics, no perspective distortion in the technical drawings.
 ```
-<!-- Case 187: The King Still Breathes Masthead (by @NeuralAIInsight) -->
-### Case 187: [Cabeçalho The King Still Breathes](https://x.com/NeuralAIInsight/status/2067291988953567706) (by [@NeuralAIInsight](https://x.com/NeuralAIInsight))
+<!-- Case 419: The King Still Breathes Masthead (by @NeuralAIInsight) -->
+### Case 419: [Cabeçalho The King Still Breathes](https://x.com/NeuralAIInsight/status/2067291988953567706) (by [@NeuralAIInsight](https://x.com/NeuralAIInsight))
 
 | Resultado |
 | :----: |
@@ -2951,8 +2978,8 @@ No dialogue, no commentary. Reverent, charged, slightly supernatural sound desig
 Negatives: no player, face, likeness, body, or silhouette; no Messi depiction; no crown before Shot 07; no clean-prop or medieval crown; the fourth jewel must not blaze like the first three; one field and one net only, never three nets; the number 10 only as organic half-found field geometry, never an overlay; no logos, crests, brand marks, trophy replicas, or readable text; no match-recap energy; no identity drift, no jitter or temporal flicker, no warped geometry, no floating objects, no watermarks; no movement arrows, camera notes, panel numbers, captions, labels, borders, or storyboard markings in the video.
 ```
 
-<!-- Case 187: Masthead The King Still Breathes (by @NeuralAIInsight) -->
-### Case 187: [Masthead The King Still Breathes](https://x.com/NeuralAIInsight/status/2067291988953567706) (by [@NeuralAIInsight](https://x.com/NeuralAIInsight))
+<!-- Case 419: Masthead The King Still Breathes (by @NeuralAIInsight) -->
+### Case 419: [Masthead The King Still Breathes](https://x.com/NeuralAIInsight/status/2067291988953567706) (by [@NeuralAIInsight](https://x.com/NeuralAIInsight))
 
 | Output |
 | :----: |
@@ -3143,8 +3170,8 @@ No dialogue, no commentary. Reverent, charged, slightly supernatural sound desig
 Negatives: no player, face, likeness, body, or silhouette; no Messi depiction; no crown before Shot 07; no clean-prop or medieval crown; the fourth jewel must not blaze like the first three; one field and one net only, never three nets; the number 10 only as organic half-found field geometry, never an overlay; no logos, crests, brand marks, trophy replicas, or readable text; no match-recap energy; no identity drift, no jitter or temporal flicker, no warped geometry, no floating objects, no watermarks; no movement arrows, camera notes, panel numbers, captions, labels, borders, or storyboard markings in the video.
 ```
 
-<!-- Case 188: Captura de tela de livestream no Douyin (by @iamaiistudio) -->
-### Case 188: [Captura de tela de livestream no Douyin](https://x.com/iamaiistudio/status/2068123767994523857) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 420: Captura de tela de livestream no Douyin (by @iamaiistudio) -->
+### Case 420: [Captura de tela de livestream no Douyin](https://x.com/iamaiistudio/status/2068123767994523857) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -3156,8 +3183,8 @@ Negatives: no player, face, likeness, body, or silhouette; no Messi depiction; n
 Vertical 9:16 aspect ratio. Create a realistic Douyin (TikTok China) live broadcast screenshot. The scene shows Liu Yifei hosting a live stream, holding up a sign that reads: "Streaming live tonight, join the chat with Yifei!" Capture the authentic look of a Chinese mobile livestreaming interface.
 ```
 
-<!-- Case 189: POV de overlay AR de supermercado (by @iamaiistudio) -->
-### Case 189: [POV de overlay AR de supermercado](https://x.com/iamaiistudio/status/2067987931651068364) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 421: POV de overlay AR de supermercado (by @iamaiistudio) -->
+### Case 421: [POV de overlay AR de supermercado](https://x.com/iamaiistudio/status/2067987931651068364) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -3172,8 +3199,8 @@ Full prompt:
 A first-person point-of-view (POV) shot inside a modern supermarket aisle. The viewer's hands are holding a mixed fruit jam jar with colorful branding, showing a blend of strawberry, blueberry, and orange flavors. Floating around the jar are sleek, semi-transparent Augmented Reality (AR) digital interfaces and holographic HUDs. The overlays display "Flavor Mix" with fruit icons, "Nutrition Info," and a glowing "Freshness Meter" reading 9/10. A digital shopping list with checkmarks for bread and butter appears beside the jar, along with small recipe suggestions like breakfast toast, pancakes, and desserts. The background shelves are slightly blurred with other products and shoppers, creating realistic depth of field. Bright, clean lighting with a futuristic retail atmosphere, ultra-realistic, cinematic look, high-tech AR glasses perspective, vertical composition.
 ```
 
-<!-- Case 190: Chinese Wildlife Infographic (by @iamaiistudio) -->
-### Case 190: [Infográfico de vida selvagem chinesa](https://x.com/iamaiistudio/status/2068852226844664044) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 422: Chinese Wildlife Infographic (by @iamaiistudio) -->
+### Case 422: [Infográfico de vida selvagem chinesa](https://x.com/iamaiistudio/status/2068852226844664044) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case190/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Infográfico de vida selvagem chinesa"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case190/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Infográfico de vida selvagem chinesa"></a></td></tr>
@@ -3185,8 +3212,8 @@ A first-person point-of-view (POV) shot inside a modern supermarket aisle. The v
 Design a visually rich infographic about an endangered animal using Chinese text. Feature a photorealistic animal as the main focal point, surrounded by annotated diagrams, structured callouts, and concise labels covering its habitat, diet, and distinctive traits. Blend photorealism with bold graphic design elements including color blocking, icons, and layered shapes on a clean background. Make it dense with information, tactile in feel, and professionally crafted.
 ```
 
-<!-- Case 191: Layout de receita de livro de culinária escandinavo (by @iamaiistudio) -->
-### Case 191: [Layout de receita de livro de culinária escandinavo](https://x.com/iamaiistudio/status/2069197657147638241) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 423: Layout de receita de livro de culinária escandinavo (by @iamaiistudio) -->
+### Case 423: [Layout de receita de livro de culinária escandinavo](https://x.com/iamaiistudio/status/2069197657147638241) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case191/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Layout de receita de livro de culinária escandinavo"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case191/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Layout de receita de livro de culinária escandinavo"></a></td></tr>
@@ -3296,8 +3323,8 @@ Design a visually rich infographic about an endangered animal using Chinese text
   ]
 }
 ```
-<!-- Case 192: Sistema modular de ícones de marca (by @iamaiistudio) -->
-### Case 192: [Sistema modular de ícones de marca](https://x.com/iamaiistudio/status/2069150843430215859) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 424: Sistema modular de ícones de marca (by @iamaiistudio) -->
+### Case 424: [Sistema modular de ícones de marca](https://x.com/iamaiistudio/status/2069150843430215859) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case192/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Sistema modular de ícones de marca"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case192/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Sistema modular de ícones de marca"></a></td></tr>
@@ -3309,8 +3336,8 @@ Design a visually rich infographic about an endangered animal using Chinese text
 ```
 Design a unified set of charming, expressive icons for [BRAND NAME], a [BRAND TYPE/INDUSTRY] company. The visual style should be [STYLE KEYWORDS: e.g., rounded, 3D, flat, hand-drawn, minimal] paired with a [COLOR STYLE: vibrant, pastel, gradient, monochrome] color scheme. Apply [DESIGN TRAITS: soft shadows, bold outlines, subtle textures, glow, etc.] to achieve a warm and contemporary look. Keep a consistent visual system across all icons using shared grids, proportions, and design language. The icon set should cover [LIST OF FEATURES/FUNCTIONS]. Prioritize sharp legibility, well-balanced spacing, and scalability across UI, apps, and branding contexts.
 ```
-<!-- Case 193: Painel de planejamento de expedição (by @iamaiistudio) -->
-### Case 193: [Painel de planejamento de expedição](https://x.com/iamaiistudio/status/2069104692098130014) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 425: Painel de planejamento de expedição (by @iamaiistudio) -->
+### Case 425: [Painel de planejamento de expedição](https://x.com/iamaiistudio/status/2069104692098130014) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case193/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Painel de planejamento de expedição"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case193/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Painel de planejamento de expedição"></a></td></tr>
@@ -3322,8 +3349,8 @@ Design a unified set of charming, expressive icons for [BRAND NAME], a [BRAND TY
 ```
 A strategic command board for an expedition leader planning [JOURNEY / MISSION] to [DESTINATION / ERA]. Left panel: detailed topographic route map with labeled waypoints, annotated danger zones, and a timeline running along the edge. Center panel: overhead flat lay of every piece of kit in neat organized rows, each item tagged by weight and function, redundancies flagged, nothing unnecessary included. Right panel: the expedition in motion or the destination reached, small human figures against a vast landscape, scale unmistakable. Visual language shifts from cartographic precision through functional inventory documentation to sweeping epic environmental photography. Title block reads: "[EXPEDITION NAME] — [ROUTE], [DATE], [OBJECTIVE]".
 ```
-<!-- Case 194: Mockup de UI para live commerce (by @iamaiistudio) -->
-### Case 194: [Mockup de UI para live commerce](https://x.com/iamaiistudio/status/2069090579355668501) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 426: Mockup de UI para live commerce (by @iamaiistudio) -->
+### Case 426: [Mockup de UI para live commerce](https://x.com/iamaiistudio/status/2069090579355668501) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -3381,8 +3408,8 @@ A strategic command board for an expedition leader planning [JOURNEY / MISSION] 
 }
 ```
 
-<!-- Case 195: Ícone do app Flash Chat (by @iamaiistudio) -->
-### Case 195: [Ícone do app Flash Chat](https://x.com/iamaiistudio/status/2069900481770737707) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 427: Ícone do app Flash Chat (by @iamaiistudio) -->
+### Case 427: [Ícone do app Flash Chat](https://x.com/iamaiistudio/status/2069900481770737707) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -3394,8 +3421,8 @@ A strategic command board for an expedition leader planning [JOURNEY / MISSION] 
 Design a macOS App Store icon for an app called 'Flash Chat'. Single squircle icon with smooth, continuously rounded corners, centered on a white canvas with padding, filling roughly 80% of the canvas. Modern light skeuomorphic style, macOS App Store quality. One icon only.
 ```
 
-<!-- Case 196: Campanha de produto em nove painéis (by @iamaiistudio) -->
-### Case 196: [Campanha de produto em nove painéis](https://x.com/iamaiistudio/status/2069628865044254934) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 428: Campanha de produto em nove painéis (by @iamaiistudio) -->
+### Case 428: [Campanha de produto em nove painéis](https://x.com/iamaiistudio/status/2069628865044254934) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -3426,8 +3453,8 @@ Lighting and finish: soft controlled studio lighting, subtle highlights, realist
 Mood: polished, modern, hyperreal, aspirational. Built for brand sites, social grids, and digital billboards.
 ```
 
-<!-- Case 197: Conjunto de ícones 3D de player musical (by @iamaiistudio) -->
-### Case 197: [Conjunto de ícones 3D de player musical](https://x.com/iamaiistudio/status/2071108428563697756) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 380: Conjunto de ícones 3D de player musical (by @iamaiistudio) -->
+### Case 380: [Conjunto de ícones 3D de player musical](https://x.com/iamaiistudio/status/2071108428563697756) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -3440,8 +3467,8 @@ Design a complete set of 12 music-player homepage category icons in the style of
 ```
 
 ---
-<!-- Case 198: Emblema de marca Harajuku Y2K (by @iamaiistudio) -->
-### Case 198: [Emblema de marca Harajuku Y2K](https://x.com/iamaiistudio/status/2071683274725028140) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 430: Emblema de marca Harajuku Y2K (by @iamaiistudio) -->
+### Case 430: [Emblema de marca Harajuku Y2K](https://x.com/iamaiistudio/status/2071683274725028140) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case198/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Emblema de marca Harajuku Y2K"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case198/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Emblema de marca Harajuku Y2K"></a></td></tr>
@@ -3481,8 +3508,8 @@ Flat vector only. Zero gradients, effects, blur, or rendering. Clean crisp edges
 ```
 
 ---
-<!-- Case 199: Layout de grade de memórias nostálgicas (by @iamaiistudio) -->
-### Case 199: [Layout de grade de memórias nostálgicas](https://x.com/iamaiistudio/status/2071561442013118600) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 431: Layout de grade de memórias nostálgicas (by @iamaiistudio) -->
+### Case 431: [Layout de grade de memórias nostálgicas](https://x.com/iamaiistudio/status/2071561442013118600) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
